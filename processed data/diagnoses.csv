@@ -1,0 +1,1432 @@
+diagnosis_id,visit_id,diagnosis_code,diagnosis_description
+1,1,O26,Pregnancy-related care
+2,2,P07,Low birth weight
+3,2,A90,Typhoid fever
+4,5,J45,Asthma
+5,5,A90,Typhoid fever
+8,7,P07,Low birth weight
+12,10,A09,Diarrhoea and gastroenteritis
+13,11,A09,Diarrhoea and gastroenteritis
+14,13,A90,Typhoid fever
+15,14,J06,Acute upper respiratory infection
+18,17,E44,Malnutrition
+19,18,B54,"Malaria, unspecified"
+23,22,A09,Diarrhoea and gastroenteritis
+26,25,A90,Typhoid fever
+27,26,E44,Malnutrition
+28,27,B54,"Malaria, unspecified"
+30,29,I10,Essential hypertension
+33,31,O26,Pregnancy-related care
+35,33,O26,Pregnancy-related care
+38,35,J06,Acute upper respiratory infection
+39,36,A09,Diarrhoea and gastroenteritis
+40,36,E44,Malnutrition
+41,38,E86,Dehydration
+42,39,I10,Essential hypertension
+43,40,A09,Diarrhoea and gastroenteritis
+44,41,J06,Acute upper respiratory infection
+45,42,E86,Dehydration
+48,45,E44,Malnutrition
+50,47,O26,Pregnancy-related care
+51,48,A90,Typhoid fever
+52,49,P07,Low birth weight
+54,51,E44,Malnutrition
+56,53,I10,Essential hypertension
+57,54,E86,Dehydration
+58,56,J06,Acute upper respiratory infection
+59,57,E44,Malnutrition
+60,58,E44,Malnutrition
+61,59,E44,Malnutrition
+64,63,A09,Diarrhoea and gastroenteritis
+65,63,E86,Dehydration
+66,64,E86,Dehydration
+67,66,I10,Essential hypertension
+68,67,J06,Acute upper respiratory infection
+69,67,A09,Diarrhoea and gastroenteritis
+70,68,E44,Malnutrition
+72,70,B54,"Malaria, unspecified"
+73,70,I10,Essential hypertension
+74,71,A09,Diarrhoea and gastroenteritis
+75,71,J45,Asthma
+77,73,O26,Pregnancy-related care
+78,74,J06,Acute upper respiratory infection
+79,76,E86,Dehydration
+81,78,A90,Typhoid fever
+82,79,E86,Dehydration
+83,81,E44,Malnutrition
+84,82,B54,"Malaria, unspecified"
+85,83,O26,Pregnancy-related care
+86,84,A09,Diarrhoea and gastroenteritis
+87,84,I10,Essential hypertension
+89,86,J06,Acute upper respiratory infection
+90,86,J45,Asthma
+91,87,B54,"Malaria, unspecified"
+92,88,E44,Malnutrition
+93,89,E86,Dehydration
+94,89,J06,Acute upper respiratory infection
+97,91,E44,Malnutrition
+98,91,J45,Asthma
+99,92,J45,Asthma
+101,94,B54,"Malaria, unspecified"
+102,95,J06,Acute upper respiratory infection
+103,96,J45,Asthma
+104,96,A90,Typhoid fever
+105,97,E44,Malnutrition
+107,99,P07,Low birth weight
+108,100,A09,Diarrhoea and gastroenteritis
+109,101,A90,Typhoid fever
+110,102,A90,Typhoid fever
+112,105,I10,Essential hypertension
+114,107,A90,Typhoid fever
+115,108,A09,Diarrhoea and gastroenteritis
+117,113,B54,"Malaria, unspecified"
+118,113,B54,"Malaria, unspecified"
+119,114,B54,"Malaria, unspecified"
+120,115,A90,Typhoid fever
+121,116,E86,Dehydration
+122,117,J45,Asthma
+123,118,B54,"Malaria, unspecified"
+124,118,E86,Dehydration
+125,119,B54,"Malaria, unspecified"
+127,121,I10,Essential hypertension
+128,122,B54,"Malaria, unspecified"
+130,124,A09,Diarrhoea and gastroenteritis
+131,124,J06,Acute upper respiratory infection
+132,125,J06,Acute upper respiratory infection
+133,125,I10,Essential hypertension
+134,126,E86,Dehydration
+135,127,J06,Acute upper respiratory infection
+136,128,E44,Malnutrition
+137,128,B54,"Malaria, unspecified"
+140,130,J45,Asthma
+143,133,E86,Dehydration
+144,134,A90,Typhoid fever
+145,135,O26,Pregnancy-related care
+146,136,E44,Malnutrition
+147,137,E44,Malnutrition
+148,137,J06,Acute upper respiratory infection
+149,138,A09,Diarrhoea and gastroenteritis
+150,140,E86,Dehydration
+151,141,I10,Essential hypertension
+152,141,P07,Low birth weight
+153,142,O26,Pregnancy-related care
+154,143,E86,Dehydration
+155,144,J06,Acute upper respiratory infection
+157,146,P07,Low birth weight
+158,148,A90,Typhoid fever
+161,151,J06,Acute upper respiratory infection
+162,152,O26,Pregnancy-related care
+163,152,P07,Low birth weight
+164,153,E44,Malnutrition
+165,153,A09,Diarrhoea and gastroenteritis
+169,158,O26,Pregnancy-related care
+170,158,O26,Pregnancy-related care
+171,159,A90,Typhoid fever
+175,162,E44,Malnutrition
+176,163,A90,Typhoid fever
+177,163,O26,Pregnancy-related care
+178,164,E44,Malnutrition
+179,165,J06,Acute upper respiratory infection
+182,167,I10,Essential hypertension
+185,169,J06,Acute upper respiratory infection
+186,170,E44,Malnutrition
+189,172,J45,Asthma
+190,173,J06,Acute upper respiratory infection
+191,175,E44,Malnutrition
+195,178,E44,Malnutrition
+196,179,J45,Asthma
+199,181,O26,Pregnancy-related care
+200,181,E44,Malnutrition
+202,184,I10,Essential hypertension
+204,186,A09,Diarrhoea and gastroenteritis
+206,188,A90,Typhoid fever
+207,189,I10,Essential hypertension
+208,190,E86,Dehydration
+209,190,J45,Asthma
+213,193,P07,Low birth weight
+214,194,A90,Typhoid fever
+215,195,J06,Acute upper respiratory infection
+216,197,E86,Dehydration
+218,199,B54,"Malaria, unspecified"
+220,201,P07,Low birth weight
+221,201,J06,Acute upper respiratory infection
+225,205,B54,"Malaria, unspecified"
+226,206,J45,Asthma
+227,207,A90,Typhoid fever
+228,208,I10,Essential hypertension
+235,213,E86,Dehydration
+237,215,O26,Pregnancy-related care
+238,216,O26,Pregnancy-related care
+239,217,J06,Acute upper respiratory infection
+240,218,A90,Typhoid fever
+242,220,P07,Low birth weight
+243,220,P07,Low birth weight
+244,221,P07,Low birth weight
+245,222,E86,Dehydration
+246,223,A90,Typhoid fever
+247,224,O26,Pregnancy-related care
+248,224,B54,"Malaria, unspecified"
+250,226,O26,Pregnancy-related care
+251,226,I10,Essential hypertension
+252,227,E86,Dehydration
+253,229,A90,Typhoid fever
+254,230,A09,Diarrhoea and gastroenteritis
+255,231,J06,Acute upper respiratory infection
+256,232,A90,Typhoid fever
+257,234,E86,Dehydration
+258,234,E86,Dehydration
+259,235,I10,Essential hypertension
+260,236,J45,Asthma
+261,238,E44,Malnutrition
+262,239,J45,Asthma
+263,241,O26,Pregnancy-related care
+264,242,E44,Malnutrition
+265,243,O26,Pregnancy-related care
+266,244,A09,Diarrhoea and gastroenteritis
+267,245,I10,Essential hypertension
+269,247,A09,Diarrhoea and gastroenteritis
+270,248,E44,Malnutrition
+271,249,J06,Acute upper respiratory infection
+272,249,B54,"Malaria, unspecified"
+273,250,J06,Acute upper respiratory infection
+276,253,A09,Diarrhoea and gastroenteritis
+277,255,P07,Low birth weight
+278,256,E44,Malnutrition
+281,259,J06,Acute upper respiratory infection
+282,260,P07,Low birth weight
+283,261,E44,Malnutrition
+284,262,J45,Asthma
+287,265,A09,Diarrhoea and gastroenteritis
+290,269,J06,Acute upper respiratory infection
+291,270,A90,Typhoid fever
+293,274,B54,"Malaria, unspecified"
+294,275,E86,Dehydration
+295,275,O26,Pregnancy-related care
+297,277,E44,Malnutrition
+298,277,J06,Acute upper respiratory infection
+299,279,I10,Essential hypertension
+300,281,E44,Malnutrition
+301,281,P07,Low birth weight
+305,284,A09,Diarrhoea and gastroenteritis
+306,285,E44,Malnutrition
+308,287,E44,Malnutrition
+309,288,P07,Low birth weight
+310,289,I10,Essential hypertension
+314,292,I10,Essential hypertension
+315,293,I10,Essential hypertension
+316,293,B54,"Malaria, unspecified"
+318,295,A09,Diarrhoea and gastroenteritis
+319,295,E86,Dehydration
+320,296,A09,Diarrhoea and gastroenteritis
+321,297,B54,"Malaria, unspecified"
+322,299,B54,"Malaria, unspecified"
+323,300,E86,Dehydration
+324,301,J06,Acute upper respiratory infection
+325,303,J06,Acute upper respiratory infection
+326,304,O26,Pregnancy-related care
+329,307,J45,Asthma
+331,309,A09,Diarrhoea and gastroenteritis
+333,311,O26,Pregnancy-related care
+335,313,E86,Dehydration
+336,314,E44,Malnutrition
+337,314,O26,Pregnancy-related care
+338,315,A09,Diarrhoea and gastroenteritis
+342,318,E86,Dehydration
+343,318,E44,Malnutrition
+344,319,P07,Low birth weight
+346,321,A90,Typhoid fever
+347,322,O26,Pregnancy-related care
+349,324,P07,Low birth weight
+351,326,E86,Dehydration
+352,327,B54,"Malaria, unspecified"
+353,328,I10,Essential hypertension
+356,331,J06,Acute upper respiratory infection
+357,333,J45,Asthma
+358,334,B54,"Malaria, unspecified"
+359,335,J06,Acute upper respiratory infection
+360,336,J45,Asthma
+361,337,J45,Asthma
+362,338,A09,Diarrhoea and gastroenteritis
+364,340,P07,Low birth weight
+365,340,B54,"Malaria, unspecified"
+366,341,I10,Essential hypertension
+367,344,O26,Pregnancy-related care
+368,344,P07,Low birth weight
+369,345,I10,Essential hypertension
+370,345,I10,Essential hypertension
+372,347,J45,Asthma
+373,348,A09,Diarrhoea and gastroenteritis
+374,349,E44,Malnutrition
+375,349,I10,Essential hypertension
+376,350,E44,Malnutrition
+377,351,J06,Acute upper respiratory infection
+378,353,B54,"Malaria, unspecified"
+379,353,A90,Typhoid fever
+381,355,J06,Acute upper respiratory infection
+384,358,E44,Malnutrition
+388,364,I10,Essential hypertension
+389,365,J45,Asthma
+392,367,J06,Acute upper respiratory infection
+393,368,O26,Pregnancy-related care
+394,369,I10,Essential hypertension
+395,369,P07,Low birth weight
+396,370,B54,"Malaria, unspecified"
+397,370,P07,Low birth weight
+399,372,A90,Typhoid fever
+402,374,J45,Asthma
+403,374,P07,Low birth weight
+404,375,P07,Low birth weight
+405,376,P07,Low birth weight
+406,376,J45,Asthma
+407,377,J06,Acute upper respiratory infection
+408,378,I10,Essential hypertension
+409,380,E44,Malnutrition
+411,382,A09,Diarrhoea and gastroenteritis
+412,383,O26,Pregnancy-related care
+413,384,I10,Essential hypertension
+414,385,P07,Low birth weight
+416,390,I10,Essential hypertension
+419,392,A90,Typhoid fever
+420,393,A09,Diarrhoea and gastroenteritis
+422,395,E44,Malnutrition
+423,395,E86,Dehydration
+424,396,E44,Malnutrition
+425,396,B54,"Malaria, unspecified"
+427,398,J45,Asthma
+428,399,P07,Low birth weight
+429,400,P07,Low birth weight
+430,401,P07,Low birth weight
+433,405,P07,Low birth weight
+434,406,E44,Malnutrition
+435,407,A90,Typhoid fever
+436,407,A09,Diarrhoea and gastroenteritis
+437,408,B54,"Malaria, unspecified"
+438,409,A09,Diarrhoea and gastroenteritis
+439,409,J45,Asthma
+441,411,E44,Malnutrition
+444,414,A90,Typhoid fever
+445,415,J45,Asthma
+448,417,J06,Acute upper respiratory infection
+449,418,I10,Essential hypertension
+450,419,J06,Acute upper respiratory infection
+454,425,P07,Low birth weight
+455,425,P07,Low birth weight
+456,426,I10,Essential hypertension
+459,429,A90,Typhoid fever
+460,429,I10,Essential hypertension
+461,430,J45,Asthma
+463,432,E44,Malnutrition
+464,432,E86,Dehydration
+465,433,I10,Essential hypertension
+466,433,B54,"Malaria, unspecified"
+467,434,O26,Pregnancy-related care
+468,435,J45,Asthma
+469,435,A90,Typhoid fever
+474,438,A09,Diarrhoea and gastroenteritis
+475,438,A09,Diarrhoea and gastroenteritis
+477,440,O26,Pregnancy-related care
+479,442,B54,"Malaria, unspecified"
+480,444,O26,Pregnancy-related care
+481,446,A90,Typhoid fever
+482,447,P07,Low birth weight
+483,449,A90,Typhoid fever
+484,450,O26,Pregnancy-related care
+486,452,P07,Low birth weight
+487,453,P07,Low birth weight
+489,455,P07,Low birth weight
+490,456,A09,Diarrhoea and gastroenteritis
+491,456,E86,Dehydration
+493,458,E86,Dehydration
+495,460,E44,Malnutrition
+496,461,I10,Essential hypertension
+497,462,E86,Dehydration
+498,463,B54,"Malaria, unspecified"
+499,464,J45,Asthma
+500,465,P07,Low birth weight
+503,467,A90,Typhoid fever
+508,471,I10,Essential hypertension
+510,473,A90,Typhoid fever
+511,474,E86,Dehydration
+515,479,E86,Dehydration
+516,480,B54,"Malaria, unspecified"
+517,481,I10,Essential hypertension
+518,481,O26,Pregnancy-related care
+519,482,A90,Typhoid fever
+520,483,E44,Malnutrition
+521,484,A09,Diarrhoea and gastroenteritis
+522,485,P07,Low birth weight
+525,487,A09,Diarrhoea and gastroenteritis
+526,487,J06,Acute upper respiratory infection
+528,489,A90,Typhoid fever
+529,490,B54,"Malaria, unspecified"
+530,491,A09,Diarrhoea and gastroenteritis
+531,491,B54,"Malaria, unspecified"
+534,493,O26,Pregnancy-related care
+536,495,J45,Asthma
+537,496,A90,Typhoid fever
+542,502,B54,"Malaria, unspecified"
+547,507,A09,Diarrhoea and gastroenteritis
+551,511,I10,Essential hypertension
+552,512,E44,Malnutrition
+553,513,J06,Acute upper respiratory infection
+557,517,B54,"Malaria, unspecified"
+558,518,J06,Acute upper respiratory infection
+559,519,O26,Pregnancy-related care
+561,521,I10,Essential hypertension
+562,521,J06,Acute upper respiratory infection
+563,522,E86,Dehydration
+564,523,A90,Typhoid fever
+566,525,A90,Typhoid fever
+569,528,A90,Typhoid fever
+570,529,A90,Typhoid fever
+571,530,O26,Pregnancy-related care
+572,530,J06,Acute upper respiratory infection
+575,532,E44,Malnutrition
+576,533,E44,Malnutrition
+577,533,E86,Dehydration
+580,536,E86,Dehydration
+583,538,E44,Malnutrition
+584,539,I10,Essential hypertension
+585,540,J06,Acute upper respiratory infection
+588,542,A09,Diarrhoea and gastroenteritis
+589,542,J45,Asthma
+591,545,A90,Typhoid fever
+592,546,I10,Essential hypertension
+593,547,E86,Dehydration
+594,548,I10,Essential hypertension
+597,550,J45,Asthma
+598,551,I10,Essential hypertension
+599,551,A90,Typhoid fever
+600,552,A09,Diarrhoea and gastroenteritis
+601,552,E86,Dehydration
+602,553,O26,Pregnancy-related care
+603,555,E86,Dehydration
+605,557,O26,Pregnancy-related care
+606,558,B54,"Malaria, unspecified"
+607,559,A09,Diarrhoea and gastroenteritis
+608,560,A90,Typhoid fever
+609,561,O26,Pregnancy-related care
+613,565,B54,"Malaria, unspecified"
+614,565,E86,Dehydration
+621,572,O26,Pregnancy-related care
+622,572,I10,Essential hypertension
+624,574,J45,Asthma
+625,575,J45,Asthma
+631,580,A90,Typhoid fever
+634,584,J45,Asthma
+636,586,B54,"Malaria, unspecified"
+638,588,E44,Malnutrition
+640,591,A09,Diarrhoea and gastroenteritis
+641,592,P07,Low birth weight
+642,593,I10,Essential hypertension
+645,595,J45,Asthma
+646,596,P07,Low birth weight
+647,596,O26,Pregnancy-related care
+648,597,E44,Malnutrition
+649,597,J45,Asthma
+650,598,A90,Typhoid fever
+652,600,O26,Pregnancy-related care
+654,602,J06,Acute upper respiratory infection
+655,603,E44,Malnutrition
+657,605,O26,Pregnancy-related care
+658,605,J06,Acute upper respiratory infection
+663,608,P07,Low birth weight
+664,609,I10,Essential hypertension
+666,611,J06,Acute upper respiratory infection
+667,612,A90,Typhoid fever
+668,613,A90,Typhoid fever
+669,613,O26,Pregnancy-related care
+670,614,I10,Essential hypertension
+671,615,O26,Pregnancy-related care
+676,618,A90,Typhoid fever
+677,619,B54,"Malaria, unspecified"
+678,619,I10,Essential hypertension
+680,622,P07,Low birth weight
+681,622,P07,Low birth weight
+682,623,B54,"Malaria, unspecified"
+683,624,J45,Asthma
+684,624,A90,Typhoid fever
+685,625,B54,"Malaria, unspecified"
+686,626,E86,Dehydration
+687,627,J45,Asthma
+688,628,I10,Essential hypertension
+692,631,A09,Diarrhoea and gastroenteritis
+694,633,A09,Diarrhoea and gastroenteritis
+695,634,E44,Malnutrition
+696,635,P07,Low birth weight
+698,638,A90,Typhoid fever
+699,638,B54,"Malaria, unspecified"
+700,639,E86,Dehydration
+701,640,A09,Diarrhoea and gastroenteritis
+702,641,A90,Typhoid fever
+703,642,B54,"Malaria, unspecified"
+704,643,P07,Low birth weight
+709,647,J45,Asthma
+710,648,P07,Low birth weight
+711,648,J45,Asthma
+714,651,P07,Low birth weight
+715,652,A09,Diarrhoea and gastroenteritis
+718,654,P07,Low birth weight
+719,655,I10,Essential hypertension
+721,658,P07,Low birth weight
+722,659,J45,Asthma
+724,662,A90,Typhoid fever
+725,662,I10,Essential hypertension
+726,663,O26,Pregnancy-related care
+728,665,A09,Diarrhoea and gastroenteritis
+729,666,O26,Pregnancy-related care
+730,667,P07,Low birth weight
+731,668,J06,Acute upper respiratory infection
+740,678,E86,Dehydration
+742,680,P07,Low birth weight
+743,681,P07,Low birth weight
+744,682,E44,Malnutrition
+746,684,A90,Typhoid fever
+748,687,J45,Asthma
+751,690,E86,Dehydration
+752,690,E44,Malnutrition
+753,691,E44,Malnutrition
+757,695,P07,Low birth weight
+758,695,I10,Essential hypertension
+760,697,O26,Pregnancy-related care
+761,698,A90,Typhoid fever
+762,699,J45,Asthma
+763,700,A90,Typhoid fever
+765,703,P07,Low birth weight
+767,705,J45,Asthma
+770,707,O26,Pregnancy-related care
+771,708,I10,Essential hypertension
+772,709,I10,Essential hypertension
+773,710,J45,Asthma
+774,711,A90,Typhoid fever
+775,712,A09,Diarrhoea and gastroenteritis
+777,714,P07,Low birth weight
+778,714,B54,"Malaria, unspecified"
+779,715,B54,"Malaria, unspecified"
+780,716,E44,Malnutrition
+781,716,A09,Diarrhoea and gastroenteritis
+782,717,E86,Dehydration
+783,718,J06,Acute upper respiratory infection
+784,719,P07,Low birth weight
+785,720,A09,Diarrhoea and gastroenteritis
+787,722,I10,Essential hypertension
+793,728,A09,Diarrhoea and gastroenteritis
+794,729,P07,Low birth weight
+795,729,J45,Asthma
+796,730,P07,Low birth weight
+798,732,B54,"Malaria, unspecified"
+799,733,P07,Low birth weight
+802,735,O26,Pregnancy-related care
+803,737,O26,Pregnancy-related care
+804,738,E44,Malnutrition
+805,738,I10,Essential hypertension
+806,739,P07,Low birth weight
+807,740,P07,Low birth weight
+808,740,J45,Asthma
+812,744,B54,"Malaria, unspecified"
+815,746,A09,Diarrhoea and gastroenteritis
+816,747,E44,Malnutrition
+817,748,A90,Typhoid fever
+818,748,I10,Essential hypertension
+819,749,E44,Malnutrition
+820,750,O26,Pregnancy-related care
+821,751,J45,Asthma
+822,752,O26,Pregnancy-related care
+823,753,B54,"Malaria, unspecified"
+824,755,E86,Dehydration
+827,758,A09,Diarrhoea and gastroenteritis
+828,758,I10,Essential hypertension
+830,760,A90,Typhoid fever
+831,761,J45,Asthma
+833,763,J06,Acute upper respiratory infection
+834,763,O26,Pregnancy-related care
+835,764,A90,Typhoid fever
+836,765,J06,Acute upper respiratory infection
+837,766,I10,Essential hypertension
+840,769,E86,Dehydration
+844,774,A90,Typhoid fever
+845,774,A09,Diarrhoea and gastroenteritis
+846,775,A09,Diarrhoea and gastroenteritis
+847,776,E86,Dehydration
+848,777,A90,Typhoid fever
+849,778,P07,Low birth weight
+850,780,I10,Essential hypertension
+851,780,E44,Malnutrition
+852,781,E44,Malnutrition
+853,782,J06,Acute upper respiratory infection
+854,783,A09,Diarrhoea and gastroenteritis
+855,783,E44,Malnutrition
+858,785,O26,Pregnancy-related care
+859,786,A09,Diarrhoea and gastroenteritis
+860,787,E86,Dehydration
+861,788,P07,Low birth weight
+862,788,A90,Typhoid fever
+863,789,J45,Asthma
+864,790,I10,Essential hypertension
+865,791,E86,Dehydration
+866,793,E44,Malnutrition
+867,793,B54,"Malaria, unspecified"
+868,794,E86,Dehydration
+870,796,E86,Dehydration
+873,798,P07,Low birth weight
+874,799,O26,Pregnancy-related care
+876,801,O26,Pregnancy-related care
+882,809,A09,Diarrhoea and gastroenteritis
+884,812,O26,Pregnancy-related care
+885,813,J06,Acute upper respiratory infection
+886,814,A09,Diarrhoea and gastroenteritis
+887,815,A90,Typhoid fever
+890,817,P07,Low birth weight
+894,823,A09,Diarrhoea and gastroenteritis
+896,825,E86,Dehydration
+897,826,O26,Pregnancy-related care
+900,830,A09,Diarrhoea and gastroenteritis
+905,833,A09,Diarrhoea and gastroenteritis
+907,835,O26,Pregnancy-related care
+908,836,E44,Malnutrition
+915,842,A90,Typhoid fever
+917,845,E44,Malnutrition
+919,847,B54,"Malaria, unspecified"
+920,848,O26,Pregnancy-related care
+923,851,O26,Pregnancy-related care
+924,852,J06,Acute upper respiratory infection
+925,852,A09,Diarrhoea and gastroenteritis
+926,853,E86,Dehydration
+927,853,A09,Diarrhoea and gastroenteritis
+931,856,E86,Dehydration
+932,856,E86,Dehydration
+936,859,J45,Asthma
+937,861,J45,Asthma
+938,861,P07,Low birth weight
+939,862,P07,Low birth weight
+940,862,I10,Essential hypertension
+942,865,A09,Diarrhoea and gastroenteritis
+944,867,J45,Asthma
+945,869,A09,Diarrhoea and gastroenteritis
+947,871,O26,Pregnancy-related care
+948,871,A09,Diarrhoea and gastroenteritis
+950,873,E44,Malnutrition
+951,874,P07,Low birth weight
+952,875,A09,Diarrhoea and gastroenteritis
+953,875,A90,Typhoid fever
+957,878,E44,Malnutrition
+958,878,J06,Acute upper respiratory infection
+959,879,B54,"Malaria, unspecified"
+960,879,P07,Low birth weight
+961,880,J06,Acute upper respiratory infection
+963,882,A90,Typhoid fever
+964,882,J45,Asthma
+965,883,I10,Essential hypertension
+970,888,B54,"Malaria, unspecified"
+971,890,A90,Typhoid fever
+972,891,E86,Dehydration
+973,891,J45,Asthma
+975,893,A09,Diarrhoea and gastroenteritis
+976,894,I10,Essential hypertension
+977,895,J06,Acute upper respiratory infection
+978,896,E86,Dehydration
+980,898,O26,Pregnancy-related care
+981,898,J06,Acute upper respiratory infection
+982,899,B54,"Malaria, unspecified"
+983,900,I10,Essential hypertension
+984,901,B54,"Malaria, unspecified"
+985,902,J06,Acute upper respiratory infection
+986,903,O26,Pregnancy-related care
+987,903,P07,Low birth weight
+988,904,A90,Typhoid fever
+991,906,J45,Asthma
+992,906,A90,Typhoid fever
+993,908,P07,Low birth weight
+994,909,P07,Low birth weight
+995,909,E44,Malnutrition
+997,911,P07,Low birth weight
+999,914,I10,Essential hypertension
+1000,915,P07,Low birth weight
+1001,916,I10,Essential hypertension
+1002,917,A09,Diarrhoea and gastroenteritis
+1003,917,P07,Low birth weight
+1004,918,E44,Malnutrition
+1006,921,I10,Essential hypertension
+1007,921,O26,Pregnancy-related care
+1008,922,B54,"Malaria, unspecified"
+1010,924,A90,Typhoid fever
+1016,930,P07,Low birth weight
+1017,931,P07,Low birth weight
+1018,932,E44,Malnutrition
+1019,933,B54,"Malaria, unspecified"
+1021,936,P07,Low birth weight
+1022,936,A09,Diarrhoea and gastroenteritis
+1023,939,O26,Pregnancy-related care
+1026,942,P07,Low birth weight
+1031,945,A90,Typhoid fever
+1032,946,J45,Asthma
+1033,946,J45,Asthma
+1035,948,A09,Diarrhoea and gastroenteritis
+1036,949,E86,Dehydration
+1037,951,I10,Essential hypertension
+1038,951,I10,Essential hypertension
+1039,952,J06,Acute upper respiratory infection
+1043,956,E44,Malnutrition
+1044,957,A90,Typhoid fever
+1046,962,P07,Low birth weight
+1047,962,P07,Low birth weight
+1048,963,O26,Pregnancy-related care
+1050,965,O26,Pregnancy-related care
+1051,965,E44,Malnutrition
+1052,966,I10,Essential hypertension
+1053,966,J06,Acute upper respiratory infection
+1054,968,O26,Pregnancy-related care
+1055,969,I10,Essential hypertension
+1056,969,B54,"Malaria, unspecified"
+1057,970,J45,Asthma
+1058,971,E86,Dehydration
+1059,972,O26,Pregnancy-related care
+1060,972,P07,Low birth weight
+1062,974,P07,Low birth weight
+1068,979,B54,"Malaria, unspecified"
+1069,980,A90,Typhoid fever
+1070,980,A09,Diarrhoea and gastroenteritis
+1071,981,E44,Malnutrition
+1074,985,B54,"Malaria, unspecified"
+1075,985,A09,Diarrhoea and gastroenteritis
+1077,987,A09,Diarrhoea and gastroenteritis
+1078,987,J45,Asthma
+1080,989,O26,Pregnancy-related care
+1083,992,A90,Typhoid fever
+1084,993,B54,"Malaria, unspecified"
+1085,993,E86,Dehydration
+1087,995,E86,Dehydration
+1088,996,E44,Malnutrition
+1089,996,E44,Malnutrition
+1090,998,J45,Asthma
+1092,1000,E44,Malnutrition
+1094,1002,E44,Malnutrition
+1095,1002,B54,"Malaria, unspecified"
+1098,1006,I10,Essential hypertension
+1099,1007,E86,Dehydration
+1100,1007,B54,"Malaria, unspecified"
+1101,1008,J06,Acute upper respiratory infection
+1102,1009,B54,"Malaria, unspecified"
+1103,1009,E86,Dehydration
+1104,1010,B54,"Malaria, unspecified"
+1105,1011,P07,Low birth weight
+1106,1012,I10,Essential hypertension
+1110,1017,J45,Asthma
+1111,1017,E86,Dehydration
+1114,1019,I10,Essential hypertension
+1115,1020,A09,Diarrhoea and gastroenteritis
+1116,1022,B54,"Malaria, unspecified"
+1117,1023,E86,Dehydration
+1119,1025,A90,Typhoid fever
+1122,1027,E86,Dehydration
+1123,1027,O26,Pregnancy-related care
+1124,1028,E44,Malnutrition
+1125,1029,I10,Essential hypertension
+1127,1031,O26,Pregnancy-related care
+1128,1032,E86,Dehydration
+1129,1033,A09,Diarrhoea and gastroenteritis
+1130,1033,B54,"Malaria, unspecified"
+1131,1034,A09,Diarrhoea and gastroenteritis
+1132,1035,O26,Pregnancy-related care
+1133,1035,O26,Pregnancy-related care
+1134,1036,A90,Typhoid fever
+1136,1038,B54,"Malaria, unspecified"
+1139,1040,P07,Low birth weight
+1140,1041,B54,"Malaria, unspecified"
+1143,1043,J06,Acute upper respiratory infection
+1149,1047,B54,"Malaria, unspecified"
+1151,1049,E86,Dehydration
+1152,1049,A90,Typhoid fever
+1155,1052,I10,Essential hypertension
+1157,1055,P07,Low birth weight
+1158,1056,J45,Asthma
+1164,1061,J06,Acute upper respiratory infection
+1165,1062,B54,"Malaria, unspecified"
+1166,1062,J06,Acute upper respiratory infection
+1167,1063,I10,Essential hypertension
+1170,1065,E44,Malnutrition
+1171,1065,A90,Typhoid fever
+1172,1066,J45,Asthma
+1173,1066,I10,Essential hypertension
+1176,1069,E44,Malnutrition
+1177,1069,B54,"Malaria, unspecified"
+1178,1070,A90,Typhoid fever
+1179,1071,I10,Essential hypertension
+1184,1074,E44,Malnutrition
+1185,1075,O26,Pregnancy-related care
+1186,1076,E86,Dehydration
+1188,1078,A09,Diarrhoea and gastroenteritis
+1189,1079,E44,Malnutrition
+1191,1081,P07,Low birth weight
+1192,1082,A09,Diarrhoea and gastroenteritis
+1193,1083,A09,Diarrhoea and gastroenteritis
+1196,1085,J45,Asthma
+1197,1086,E44,Malnutrition
+1198,1086,B54,"Malaria, unspecified"
+1200,1088,E44,Malnutrition
+1201,1089,B54,"Malaria, unspecified"
+1207,1094,O26,Pregnancy-related care
+1209,1096,I10,Essential hypertension
+1213,1100,J45,Asthma
+1215,1102,E86,Dehydration
+1216,1104,A09,Diarrhoea and gastroenteritis
+1217,1105,O26,Pregnancy-related care
+1218,1106,J45,Asthma
+1222,1109,A09,Diarrhoea and gastroenteritis
+1223,1110,E44,Malnutrition
+1224,1110,B54,"Malaria, unspecified"
+1225,1112,O26,Pregnancy-related care
+1227,1115,E86,Dehydration
+1228,1116,E86,Dehydration
+1229,1117,O26,Pregnancy-related care
+1231,1119,I10,Essential hypertension
+1232,1120,B54,"Malaria, unspecified"
+1237,1124,E86,Dehydration
+1238,1124,P07,Low birth weight
+1241,1128,J45,Asthma
+1242,1130,E86,Dehydration
+1243,1131,E86,Dehydration
+1244,1132,E86,Dehydration
+1245,1133,A90,Typhoid fever
+1246,1134,E44,Malnutrition
+1247,1135,J45,Asthma
+1248,1136,E86,Dehydration
+1249,1137,A09,Diarrhoea and gastroenteritis
+1250,1138,P07,Low birth weight
+1251,1138,J45,Asthma
+1252,1139,A90,Typhoid fever
+1253,1139,E44,Malnutrition
+1254,1140,P07,Low birth weight
+1255,1141,A90,Typhoid fever
+1256,1141,I10,Essential hypertension
+1257,1142,B54,"Malaria, unspecified"
+1258,1144,J06,Acute upper respiratory infection
+1259,1145,P07,Low birth weight
+1260,1147,J45,Asthma
+1261,1147,I10,Essential hypertension
+1264,1149,E44,Malnutrition
+1265,1150,P07,Low birth weight
+1266,1151,O26,Pregnancy-related care
+1270,1154,J06,Acute upper respiratory infection
+1271,1155,O26,Pregnancy-related care
+1272,1156,J45,Asthma
+1273,1157,O26,Pregnancy-related care
+1274,1157,P07,Low birth weight
+1275,1158,E86,Dehydration
+1277,1160,I10,Essential hypertension
+1278,1160,O26,Pregnancy-related care
+1281,1162,E44,Malnutrition
+1282,1162,E44,Malnutrition
+1283,1163,P07,Low birth weight
+1285,1165,I10,Essential hypertension
+1286,1166,E44,Malnutrition
+1287,1167,J45,Asthma
+1288,1168,O26,Pregnancy-related care
+1289,1168,E44,Malnutrition
+1290,1169,O26,Pregnancy-related care
+1291,1169,E44,Malnutrition
+1292,1170,E86,Dehydration
+1295,1172,E44,Malnutrition
+1298,1174,E44,Malnutrition
+1299,1175,A09,Diarrhoea and gastroenteritis
+1300,1175,B54,"Malaria, unspecified"
+1303,1177,J45,Asthma
+1305,1180,B54,"Malaria, unspecified"
+1306,1181,E86,Dehydration
+1307,1181,B54,"Malaria, unspecified"
+1310,1184,I10,Essential hypertension
+1311,1186,J45,Asthma
+1312,1187,I10,Essential hypertension
+1315,1190,E86,Dehydration
+1316,1191,I10,Essential hypertension
+1317,1191,J06,Acute upper respiratory infection
+1318,1192,E44,Malnutrition
+1319,1193,A09,Diarrhoea and gastroenteritis
+1321,1195,A90,Typhoid fever
+1322,1195,E44,Malnutrition
+1323,1198,A90,Typhoid fever
+1324,1200,J06,Acute upper respiratory infection
+1326,1203,E86,Dehydration
+1327,1203,P07,Low birth weight
+1330,1207,J06,Acute upper respiratory infection
+1331,1207,A09,Diarrhoea and gastroenteritis
+1332,1208,B54,"Malaria, unspecified"
+1334,1210,O26,Pregnancy-related care
+1336,1212,O26,Pregnancy-related care
+1337,1212,B54,"Malaria, unspecified"
+1338,1213,O26,Pregnancy-related care
+1339,1214,I10,Essential hypertension
+1343,1218,I10,Essential hypertension
+1344,1218,J45,Asthma
+1345,1219,A09,Diarrhoea and gastroenteritis
+1346,1219,E86,Dehydration
+1347,1220,A90,Typhoid fever
+1348,1221,A09,Diarrhoea and gastroenteritis
+1350,1223,J06,Acute upper respiratory infection
+1351,1224,I10,Essential hypertension
+1354,1226,E86,Dehydration
+1355,1227,B54,"Malaria, unspecified"
+1356,1228,A09,Diarrhoea and gastroenteritis
+1357,1229,E44,Malnutrition
+1358,1230,E86,Dehydration
+1359,1232,J06,Acute upper respiratory infection
+1360,1233,J06,Acute upper respiratory infection
+1361,1234,J45,Asthma
+1362,1235,O26,Pregnancy-related care
+1363,1236,E44,Malnutrition
+1364,1236,B54,"Malaria, unspecified"
+1366,1238,O26,Pregnancy-related care
+1368,1241,E86,Dehydration
+1370,1243,E44,Malnutrition
+1373,1245,A90,Typhoid fever
+1374,1246,J06,Acute upper respiratory infection
+1375,1247,J06,Acute upper respiratory infection
+1376,1248,E44,Malnutrition
+1377,1249,I10,Essential hypertension
+1378,1250,J45,Asthma
+1379,1251,A09,Diarrhoea and gastroenteritis
+1380,1252,A09,Diarrhoea and gastroenteritis
+1381,1252,E44,Malnutrition
+1382,1253,O26,Pregnancy-related care
+1383,1255,E44,Malnutrition
+1384,1256,O26,Pregnancy-related care
+1385,1257,A09,Diarrhoea and gastroenteritis
+1386,1258,J06,Acute upper respiratory infection
+1389,1260,J06,Acute upper respiratory infection
+1392,1263,A90,Typhoid fever
+1393,1264,J45,Asthma
+1396,1267,A90,Typhoid fever
+1397,1267,B54,"Malaria, unspecified"
+1398,1268,O26,Pregnancy-related care
+1399,1269,J06,Acute upper respiratory infection
+1400,1270,A09,Diarrhoea and gastroenteritis
+1401,1270,O26,Pregnancy-related care
+1408,1276,A09,Diarrhoea and gastroenteritis
+1411,1279,B54,"Malaria, unspecified"
+1413,1282,P07,Low birth weight
+1414,1283,J45,Asthma
+1415,1283,A09,Diarrhoea and gastroenteritis
+1418,1285,A09,Diarrhoea and gastroenteritis
+1419,1286,O26,Pregnancy-related care
+1420,1287,J45,Asthma
+1422,1289,E44,Malnutrition
+1425,1293,E44,Malnutrition
+1426,1293,A90,Typhoid fever
+1427,1294,J06,Acute upper respiratory infection
+1429,1296,O26,Pregnancy-related care
+1430,1296,A09,Diarrhoea and gastroenteritis
+1431,1297,B54,"Malaria, unspecified"
+1433,1299,E44,Malnutrition
+1436,1301,B54,"Malaria, unspecified"
+1441,1304,J06,Acute upper respiratory infection
+1444,1307,J45,Asthma
+1445,1308,J45,Asthma
+1446,1308,A09,Diarrhoea and gastroenteritis
+1447,1309,A09,Diarrhoea and gastroenteritis
+1448,1310,E44,Malnutrition
+1449,1310,E86,Dehydration
+1450,1311,A90,Typhoid fever
+1453,1315,O26,Pregnancy-related care
+1455,1317,B54,"Malaria, unspecified"
+1456,1318,A90,Typhoid fever
+1457,1319,I10,Essential hypertension
+1459,1321,I10,Essential hypertension
+1460,1322,J45,Asthma
+1462,1325,A09,Diarrhoea and gastroenteritis
+1463,1325,E86,Dehydration
+1464,1326,A90,Typhoid fever
+1467,1329,I10,Essential hypertension
+1468,1330,I10,Essential hypertension
+1469,1331,J45,Asthma
+1470,1332,E44,Malnutrition
+1471,1333,A90,Typhoid fever
+1474,1337,P07,Low birth weight
+1475,1338,P07,Low birth weight
+1476,1339,E44,Malnutrition
+1478,1341,P07,Low birth weight
+1479,1342,E86,Dehydration
+1480,1342,J45,Asthma
+1481,1345,I10,Essential hypertension
+1482,1345,A90,Typhoid fever
+1484,1347,E86,Dehydration
+1485,1348,A90,Typhoid fever
+1486,1348,E86,Dehydration
+1487,1349,E44,Malnutrition
+1488,1350,B54,"Malaria, unspecified"
+1489,1350,A90,Typhoid fever
+1492,1352,A09,Diarrhoea and gastroenteritis
+1493,1354,E44,Malnutrition
+1496,1356,B54,"Malaria, unspecified"
+1497,1357,E44,Malnutrition
+1498,1357,B54,"Malaria, unspecified"
+1500,1359,E44,Malnutrition
+1501,1360,I10,Essential hypertension
+1502,1361,I10,Essential hypertension
+1506,1364,E44,Malnutrition
+1507,1365,J45,Asthma
+1508,1366,O26,Pregnancy-related care
+1509,1367,J06,Acute upper respiratory infection
+1510,1368,J06,Acute upper respiratory infection
+1513,1370,P07,Low birth weight
+1514,1371,I10,Essential hypertension
+1515,1372,A90,Typhoid fever
+1517,1374,O26,Pregnancy-related care
+1519,1376,O26,Pregnancy-related care
+1521,1378,P07,Low birth weight
+1522,1378,I10,Essential hypertension
+1525,1380,P07,Low birth weight
+1526,1382,J45,Asthma
+1527,1383,A09,Diarrhoea and gastroenteritis
+1528,1384,E86,Dehydration
+1529,1385,A09,Diarrhoea and gastroenteritis
+1530,1385,A90,Typhoid fever
+1531,1386,E86,Dehydration
+1532,1387,O26,Pregnancy-related care
+1533,1387,J06,Acute upper respiratory infection
+1540,1392,A09,Diarrhoea and gastroenteritis
+1541,1393,E44,Malnutrition
+1542,1394,E86,Dehydration
+1545,1397,B54,"Malaria, unspecified"
+1546,1398,I10,Essential hypertension
+1549,1401,J06,Acute upper respiratory infection
+1551,1403,A09,Diarrhoea and gastroenteritis
+1552,1404,E44,Malnutrition
+1553,1408,I10,Essential hypertension
+1555,1410,E86,Dehydration
+1564,1419,E44,Malnutrition
+1566,1421,J06,Acute upper respiratory infection
+1572,1426,J45,Asthma
+1573,1426,E44,Malnutrition
+1576,1428,E86,Dehydration
+1580,1433,A09,Diarrhoea and gastroenteritis
+1586,1439,J45,Asthma
+1587,1440,I10,Essential hypertension
+1588,1441,J45,Asthma
+1589,1442,E86,Dehydration
+1590,1444,E44,Malnutrition
+1593,1447,J06,Acute upper respiratory infection
+1594,1448,O26,Pregnancy-related care
+1595,1449,E44,Malnutrition
+1597,1451,B54,"Malaria, unspecified"
+1602,1456,J45,Asthma
+1603,1457,P07,Low birth weight
+1604,1458,E86,Dehydration
+1605,1459,P07,Low birth weight
+1606,1460,B54,"Malaria, unspecified"
+1607,1460,O26,Pregnancy-related care
+1609,1462,O26,Pregnancy-related care
+1610,1463,E86,Dehydration
+1611,1464,E86,Dehydration
+1612,1466,I10,Essential hypertension
+1613,1467,E44,Malnutrition
+1614,1468,I10,Essential hypertension
+1617,1470,B54,"Malaria, unspecified"
+1618,1471,B54,"Malaria, unspecified"
+1620,1473,P07,Low birth weight
+1622,1475,E86,Dehydration
+1623,1475,A09,Diarrhoea and gastroenteritis
+1626,1478,I10,Essential hypertension
+1630,1483,J06,Acute upper respiratory infection
+1631,1483,E44,Malnutrition
+1632,1484,O26,Pregnancy-related care
+1633,1484,E44,Malnutrition
+1634,1486,I10,Essential hypertension
+1636,1488,A09,Diarrhoea and gastroenteritis
+1637,1489,A09,Diarrhoea and gastroenteritis
+1638,1490,P07,Low birth weight
+1639,1490,J45,Asthma
+1640,1491,O26,Pregnancy-related care
+1641,1492,J45,Asthma
+1642,1493,B54,"Malaria, unspecified"
+1643,1494,J45,Asthma
+1644,1495,E86,Dehydration
+1645,1496,J45,Asthma
+1646,1497,A90,Typhoid fever
+1648,1499,E44,Malnutrition
+1650,1501,E86,Dehydration
+1651,1502,B54,"Malaria, unspecified"
+1652,1503,E44,Malnutrition
+1653,1504,O26,Pregnancy-related care
+1654,1505,A09,Diarrhoea and gastroenteritis
+1655,1506,P07,Low birth weight
+1656,1507,E44,Malnutrition
+1657,1507,O26,Pregnancy-related care
+1658,1509,I10,Essential hypertension
+1659,1510,A90,Typhoid fever
+1660,1510,I10,Essential hypertension
+1661,1511,B54,"Malaria, unspecified"
+1664,1516,O26,Pregnancy-related care
+1665,1517,J45,Asthma
+1667,1519,P07,Low birth weight
+1668,1520,J45,Asthma
+1669,1521,A90,Typhoid fever
+1670,1521,E86,Dehydration
+1672,1524,E44,Malnutrition
+1673,1525,A09,Diarrhoea and gastroenteritis
+1674,1526,O26,Pregnancy-related care
+1675,1528,E86,Dehydration
+1676,1529,E44,Malnutrition
+1677,1529,A09,Diarrhoea and gastroenteritis
+1678,1530,B54,"Malaria, unspecified"
+1679,1531,O26,Pregnancy-related care
+1680,1532,E86,Dehydration
+1681,1533,B54,"Malaria, unspecified"
+1683,1535,A09,Diarrhoea and gastroenteritis
+1684,1535,P07,Low birth weight
+1685,1536,J06,Acute upper respiratory infection
+1688,1539,I10,Essential hypertension
+1691,1542,B54,"Malaria, unspecified"
+1692,1542,A90,Typhoid fever
+1693,1543,I10,Essential hypertension
+1694,1543,I10,Essential hypertension
+1695,1544,J45,Asthma
+1696,1545,O26,Pregnancy-related care
+1697,1545,I10,Essential hypertension
+1700,1547,P07,Low birth weight
+1701,1547,A09,Diarrhoea and gastroenteritis
+1704,1549,A90,Typhoid fever
+1705,1549,E86,Dehydration
+1706,1550,A09,Diarrhoea and gastroenteritis
+1707,1551,J06,Acute upper respiratory infection
+1711,1554,O26,Pregnancy-related care
+1712,1555,J06,Acute upper respiratory infection
+1713,1556,E44,Malnutrition
+1714,1558,I10,Essential hypertension
+1715,1559,E86,Dehydration
+1724,1569,J06,Acute upper respiratory infection
+1725,1570,P07,Low birth weight
+1726,1571,B54,"Malaria, unspecified"
+1727,1571,A09,Diarrhoea and gastroenteritis
+1728,1572,J45,Asthma
+1729,1573,B54,"Malaria, unspecified"
+1730,1573,P07,Low birth weight
+1731,1574,J45,Asthma
+1732,1574,P07,Low birth weight
+1733,1575,J06,Acute upper respiratory infection
+1734,1576,I10,Essential hypertension
+1735,1577,P07,Low birth weight
+1736,1578,A09,Diarrhoea and gastroenteritis
+1737,1579,J06,Acute upper respiratory infection
+1738,1579,J06,Acute upper respiratory infection
+1739,1580,A09,Diarrhoea and gastroenteritis
+1740,1581,B54,"Malaria, unspecified"
+1741,1584,A09,Diarrhoea and gastroenteritis
+1742,1584,P07,Low birth weight
+1746,1589,B54,"Malaria, unspecified"
+1747,1590,I10,Essential hypertension
+1748,1591,J45,Asthma
+1750,1593,A90,Typhoid fever
+1752,1595,B54,"Malaria, unspecified"
+1753,1595,P07,Low birth weight
+1756,1597,B54,"Malaria, unspecified"
+1757,1598,J06,Acute upper respiratory infection
+1758,1599,B54,"Malaria, unspecified"
+1761,1602,E44,Malnutrition
+1762,1602,P07,Low birth weight
+1763,1603,J45,Asthma
+1765,1605,B54,"Malaria, unspecified"
+1766,1605,J06,Acute upper respiratory infection
+1767,1606,I10,Essential hypertension
+1769,1609,A09,Diarrhoea and gastroenteritis
+1770,1609,E86,Dehydration
+1771,1610,P07,Low birth weight
+1772,1610,E44,Malnutrition
+1774,1612,I10,Essential hypertension
+1775,1613,I10,Essential hypertension
+1776,1614,J06,Acute upper respiratory infection
+1777,1615,E86,Dehydration
+1778,1616,I10,Essential hypertension
+1779,1616,O26,Pregnancy-related care
+1780,1617,I10,Essential hypertension
+1781,1617,J06,Acute upper respiratory infection
+1782,1618,A09,Diarrhoea and gastroenteritis
+1787,1625,A90,Typhoid fever
+1788,1625,A09,Diarrhoea and gastroenteritis
+1791,1627,E86,Dehydration
+1792,1628,P07,Low birth weight
+1793,1629,J45,Asthma
+1798,1633,J45,Asthma
+1799,1634,A09,Diarrhoea and gastroenteritis
+1800,1635,E44,Malnutrition
+1806,1640,J06,Acute upper respiratory infection
+1807,1641,I10,Essential hypertension
+1808,1642,E44,Malnutrition
+1809,1643,J06,Acute upper respiratory infection
+1813,1647,E44,Malnutrition
+1814,1647,O26,Pregnancy-related care
+1816,1650,B54,"Malaria, unspecified"
+1817,1650,J45,Asthma
+1818,1651,O26,Pregnancy-related care
+1819,1651,A90,Typhoid fever
+1820,1652,A09,Diarrhoea and gastroenteritis
+1821,1652,I10,Essential hypertension
+1822,1653,E44,Malnutrition
+1823,1653,P07,Low birth weight
+1824,1654,J06,Acute upper respiratory infection
+1825,1655,I10,Essential hypertension
+1828,1657,O26,Pregnancy-related care
+1831,1659,E44,Malnutrition
+1832,1659,I10,Essential hypertension
+1835,1661,B54,"Malaria, unspecified"
+1836,1661,A09,Diarrhoea and gastroenteritis
+1838,1663,E44,Malnutrition
+1839,1664,A09,Diarrhoea and gastroenteritis
+1842,1666,E44,Malnutrition
+1843,1667,B54,"Malaria, unspecified"
+1844,1667,A90,Typhoid fever
+1847,1669,A09,Diarrhoea and gastroenteritis
+1848,1669,A90,Typhoid fever
+1850,1671,J06,Acute upper respiratory infection
+1855,1674,E44,Malnutrition
+1856,1675,J45,Asthma
+1858,1678,E44,Malnutrition
+1859,1681,E86,Dehydration
+1860,1681,P07,Low birth weight
+1861,1682,I10,Essential hypertension
+1865,1685,J06,Acute upper respiratory infection
+1866,1687,E86,Dehydration
+1867,1688,J45,Asthma
+1868,1688,A09,Diarrhoea and gastroenteritis
+1871,1690,P07,Low birth weight
+1872,1691,P07,Low birth weight
+1874,1693,E86,Dehydration
+1875,1693,I10,Essential hypertension
+1876,1694,E86,Dehydration
+1879,1696,E86,Dehydration
+1880,1696,O26,Pregnancy-related care
+1881,1697,A90,Typhoid fever
+1882,1697,B54,"Malaria, unspecified"
+1883,1698,P07,Low birth weight
+1884,1699,E44,Malnutrition
+1885,1700,E86,Dehydration
+1886,1700,O26,Pregnancy-related care
+1889,1702,P07,Low birth weight
+1890,1703,A90,Typhoid fever
+1891,1704,A90,Typhoid fever
+1892,1704,B54,"Malaria, unspecified"
+1893,1705,A90,Typhoid fever
+1894,1706,A09,Diarrhoea and gastroenteritis
+1895,1708,A90,Typhoid fever
+1899,1711,I10,Essential hypertension
+1900,1712,E86,Dehydration
+1902,1714,E86,Dehydration
+1903,1715,E86,Dehydration
+1904,1716,P07,Low birth weight
+1905,1718,A90,Typhoid fever
+1906,1719,J06,Acute upper respiratory infection
+1908,1721,A90,Typhoid fever
+1909,1722,I10,Essential hypertension
+1910,1723,I10,Essential hypertension
+1911,1724,A09,Diarrhoea and gastroenteritis
+1912,1724,E44,Malnutrition
+1915,1727,E44,Malnutrition
+1916,1728,J45,Asthma
+1917,1731,A09,Diarrhoea and gastroenteritis
+1920,1733,I10,Essential hypertension
+1921,1734,J06,Acute upper respiratory infection
+1922,1734,J06,Acute upper respiratory infection
+1923,1735,O26,Pregnancy-related care
+1924,1736,A09,Diarrhoea and gastroenteritis
+1925,1737,J45,Asthma
+1926,1738,B54,"Malaria, unspecified"
+1927,1739,E86,Dehydration
+1932,1742,I10,Essential hypertension
+1933,1744,A09,Diarrhoea and gastroenteritis
+1936,1747,P07,Low birth weight
+1937,1748,O26,Pregnancy-related care
+1939,1750,J45,Asthma
+1940,1751,B54,"Malaria, unspecified"
+1941,1753,E86,Dehydration
+1942,1755,J45,Asthma
+1944,1758,E44,Malnutrition
+1945,1760,J45,Asthma
+1947,1762,A09,Diarrhoea and gastroenteritis
+1948,1762,A90,Typhoid fever
+1949,1763,I10,Essential hypertension
+1950,1764,J45,Asthma
+1951,1765,O26,Pregnancy-related care
+1955,1768,O26,Pregnancy-related care
+1957,1770,E86,Dehydration
+1959,1772,P07,Low birth weight
+1960,1772,O26,Pregnancy-related care
+1961,1773,B54,"Malaria, unspecified"
+1962,1773,P07,Low birth weight
+1964,1775,I10,Essential hypertension
+1965,1776,E86,Dehydration
+1966,1777,E86,Dehydration
+1967,1777,P07,Low birth weight
+1968,1778,O26,Pregnancy-related care
+1969,1779,A90,Typhoid fever
+1970,1779,J06,Acute upper respiratory infection
+1972,1781,J45,Asthma
+1973,1782,O26,Pregnancy-related care
+1974,1784,A09,Diarrhoea and gastroenteritis
+1975,1784,I10,Essential hypertension
+1976,1786,B54,"Malaria, unspecified"
+1977,1786,P07,Low birth weight
+1978,1787,J45,Asthma
+1979,1787,J06,Acute upper respiratory infection
+1981,1791,J06,Acute upper respiratory infection
+1982,1791,I10,Essential hypertension
+1983,1793,E44,Malnutrition
+1985,1795,A09,Diarrhoea and gastroenteritis
+1987,1797,B54,"Malaria, unspecified"
+1988,1798,P07,Low birth weight
+1989,1799,J45,Asthma
+1990,1800,E86,Dehydration
+1991,1801,B54,"Malaria, unspecified"
+1992,1802,J45,Asthma
+1993,1803,O26,Pregnancy-related care
+1999,1807,A90,Typhoid fever
+2000,1808,B54,"Malaria, unspecified"
+2001,1809,J45,Asthma
+2002,1809,E86,Dehydration
+2005,1812,E86,Dehydration
+2006,1813,J45,Asthma
+2011,1817,O26,Pregnancy-related care
+2012,1818,A90,Typhoid fever
+2013,1819,A09,Diarrhoea and gastroenteritis
+2015,1821,O26,Pregnancy-related care
+2019,1824,I10,Essential hypertension
+2020,1825,I10,Essential hypertension
+2021,1825,I10,Essential hypertension
+2023,1827,P07,Low birth weight
+2024,1828,O26,Pregnancy-related care
+2025,1828,E86,Dehydration
+2026,1829,J45,Asthma
+2027,1830,E44,Malnutrition
+2029,1833,A90,Typhoid fever
+2030,1833,A09,Diarrhoea and gastroenteritis
+2031,1834,O26,Pregnancy-related care
+2032,1834,P07,Low birth weight
+2035,1838,O26,Pregnancy-related care
+2036,1838,E86,Dehydration
+2037,1839,O26,Pregnancy-related care
+2038,1840,E44,Malnutrition
+2044,1844,P07,Low birth weight
+2046,1846,B54,"Malaria, unspecified"
+2047,1847,P07,Low birth weight
+2048,1848,O26,Pregnancy-related care
+2049,1850,B54,"Malaria, unspecified"
+2050,1850,A09,Diarrhoea and gastroenteritis
+2051,1851,E44,Malnutrition
+2053,1854,E86,Dehydration
+2054,1855,E86,Dehydration
+2056,1857,A90,Typhoid fever
+2057,1858,I10,Essential hypertension
+2058,1859,E86,Dehydration
+2059,1860,O26,Pregnancy-related care
+2060,1861,A09,Diarrhoea and gastroenteritis
+2061,1862,P07,Low birth weight
+2065,1865,I10,Essential hypertension
+2066,1865,A90,Typhoid fever
+2067,1866,J45,Asthma
+2068,1867,O26,Pregnancy-related care
+2069,1868,B54,"Malaria, unspecified"
+2070,1870,A90,Typhoid fever
+2071,1871,J45,Asthma
+2072,1871,A09,Diarrhoea and gastroenteritis
+2073,1872,J06,Acute upper respiratory infection
+2074,1873,O26,Pregnancy-related care
+2075,1874,P07,Low birth weight
+2076,1875,O26,Pregnancy-related care
+2077,1876,J45,Asthma
+2078,1876,J45,Asthma
+2079,1877,A09,Diarrhoea and gastroenteritis
+2080,1878,A90,Typhoid fever
+2081,1879,E44,Malnutrition
+2082,1879,A90,Typhoid fever
+2083,1880,B54,"Malaria, unspecified"
+2084,1881,P07,Low birth weight
+2085,1882,E86,Dehydration
+2086,1883,E44,Malnutrition
+2087,1883,I10,Essential hypertension
+2088,1885,O26,Pregnancy-related care
+2091,1887,E86,Dehydration
+2092,1888,E86,Dehydration
+2093,1888,A09,Diarrhoea and gastroenteritis
+2094,1889,E44,Malnutrition
+2095,1890,J06,Acute upper respiratory infection
+2096,1891,E44,Malnutrition
+2097,1891,B54,"Malaria, unspecified"
+2098,1892,B54,"Malaria, unspecified"
+2099,1892,A09,Diarrhoea and gastroenteritis
+2100,1893,J45,Asthma
+2101,1894,P07,Low birth weight
+2102,1894,P07,Low birth weight
+2103,1895,B54,"Malaria, unspecified"
+2104,1896,J06,Acute upper respiratory infection
+2105,1898,A90,Typhoid fever
+2106,1898,I10,Essential hypertension
+2107,1899,P07,Low birth weight
+2108,1899,A90,Typhoid fever
+2109,1900,J06,Acute upper respiratory infection
+2110,1901,E86,Dehydration
+2111,1901,P07,Low birth weight
+2113,1903,A90,Typhoid fever
+2118,1906,E44,Malnutrition
+2119,1907,E86,Dehydration
+2120,1907,B54,"Malaria, unspecified"
+2121,1908,A90,Typhoid fever
+2122,1909,B54,"Malaria, unspecified"
+2124,1912,O26,Pregnancy-related care
+2125,1913,P07,Low birth weight
+2126,1914,E44,Malnutrition
+2127,1915,E44,Malnutrition
+2131,1918,E44,Malnutrition
+2132,1919,E44,Malnutrition
+2134,1921,I10,Essential hypertension
+2136,1923,O26,Pregnancy-related care
+2137,1924,I10,Essential hypertension
+2139,1926,B54,"Malaria, unspecified"
+2140,1926,O26,Pregnancy-related care
+2141,1927,I10,Essential hypertension
+2142,1927,O26,Pregnancy-related care
+2145,1930,J45,Asthma
+2147,1932,P07,Low birth weight
+2148,1934,A09,Diarrhoea and gastroenteritis
+2149,1935,E86,Dehydration
+2152,1938,O26,Pregnancy-related care
+2153,1938,E44,Malnutrition
+2157,1941,A09,Diarrhoea and gastroenteritis
+2158,1941,A09,Diarrhoea and gastroenteritis
+2161,1944,I10,Essential hypertension
+2162,1944,E86,Dehydration
+2166,1947,J06,Acute upper respiratory infection
+2167,1948,J06,Acute upper respiratory infection
+2168,1949,P07,Low birth weight
+2169,1950,J45,Asthma
+2170,1951,E86,Dehydration
+2171,1952,I10,Essential hypertension
+2173,1954,P07,Low birth weight
+2176,1958,A90,Typhoid fever
+2177,1959,B54,"Malaria, unspecified"
+2178,1960,O26,Pregnancy-related care
+2179,1961,E44,Malnutrition
+2180,1962,A90,Typhoid fever
+2181,1962,A90,Typhoid fever
+2182,1963,E86,Dehydration
+2183,1963,B54,"Malaria, unspecified"
+2184,1964,E44,Malnutrition
+2185,1965,P07,Low birth weight
+2189,1968,O26,Pregnancy-related care
+2191,1970,A90,Typhoid fever
+2192,1971,A90,Typhoid fever
+2193,1972,J06,Acute upper respiratory infection
+2195,1974,O26,Pregnancy-related care
+2196,1974,A90,Typhoid fever
+2197,1975,O26,Pregnancy-related care
+2198,1976,E86,Dehydration
+2200,1978,E44,Malnutrition
+2201,1979,J45,Asthma
+2203,1981,J06,Acute upper respiratory infection
+2205,1984,J45,Asthma
+2206,1984,J45,Asthma
+2207,1985,E44,Malnutrition
+2210,1987,J45,Asthma
+2212,1989,J06,Acute upper respiratory infection
+2213,1990,J06,Acute upper respiratory infection
+2217,1993,B54,"Malaria, unspecified"
+2221,1997,I10,Essential hypertension
+2222,1997,B54,"Malaria, unspecified"
+2223,1998,J45,Asthma

@@ -1,0 +1,1483 @@
+treatment_id,visit_id,administered_by_staff_id,treatment_type,treatment_description,outcome_status
+1,1,3604,Medication - Antimalarial,As administered during visit,Recovered
+2,2,326,Antenatal Checkup,As administered during visit,Referred
+3,5,3674,Antenatal Checkup,As administered during visit,Recovered
+5,7,1559,Wound Dressing,As administered during visit,Referred
+8,10,2440,Immunization,As administered during visit,Recovered
+9,11,363,Referral,As administered during visit,Recovered
+10,13,3670,Referral,As administered during visit,Recovered
+11,14,826,Immunization,As administered during visit,Recovered
+14,17,1643,Nutritional Supplement,As administered during visit,Admitted
+15,18,2313,Antenatal Checkup,As administered during visit,Recovered
+16,18,2313,Antenatal Checkup,As administered during visit,Recovered
+19,22,1771,Antenatal Checkup,As administered during visit,Recovered
+22,25,2374,Medication - Antibiotic,As administered during visit,Recovered
+23,26,511,Nutritional Supplement,As administered during visit,Recovered
+24,26,511,Medication - Antimalarial,As administered during visit,Recovered
+25,27,2200,Medication - Antibiotic,As administered during visit,Recovered
+26,27,2200,Medication - Antimalarial,As administered during visit,Recovered
+28,29,315,Medication - Antibiotic,As administered during visit,Recovered
+30,31,2145,Immunization,As administered during visit,Recovered
+32,33,1263,Wound Dressing,As administered during visit,Recovered
+34,35,1821,Immunization,As administered during visit,Recovered
+35,36,1260,Medication - Antibiotic,As administered during visit,Recovered
+36,38,3034,Immunization,As administered during visit,Recovered
+37,39,671,Immunization,As administered during visit,Recovered
+38,39,671,Referral,As administered during visit,Recovered
+39,40,3037,Wound Dressing,As administered during visit,Referred
+40,41,795,Medication - Antimalarial,As administered during visit,Recovered
+41,41,795,Oral Rehydration Therapy,As administered during visit,Recovered
+42,42,3521,Medication - Antibiotic,As administered during visit,Recovered
+46,45,1116,Antenatal Checkup,As administered during visit,Referred
+47,45,1116,Referral,As administered during visit,Referred
+50,47,3246,Immunization,As administered during visit,Recovered
+51,48,2888,Oral Rehydration Therapy,As administered during visit,Recovered
+52,49,2240,Wound Dressing,As administered during visit,Recovered
+54,51,492,Referral,As administered during visit,Admitted
+56,53,1041,Referral,As administered during visit,Recovered
+57,53,1041,Oral Rehydration Therapy,As administered during visit,Recovered
+58,54,1387,Medication - Antibiotic,As administered during visit,Referred
+59,56,342,Wound Dressing,As administered during visit,Recovered
+60,57,707,Oral Rehydration Therapy,As administered during visit,Admitted
+61,58,1156,Referral,As administered during visit,Recovered
+62,59,2889,Oral Rehydration Therapy,As administered during visit,Recovered
+65,63,479,Antenatal Checkup,As administered during visit,Referred
+66,64,3743,Immunization,As administered during visit,Recovered
+67,66,1849,Medication - Antibiotic,As administered during visit,Recovered
+68,66,1849,Immunization,As administered during visit,Recovered
+69,67,31,Oral Rehydration Therapy,As administered during visit,Recovered
+70,67,31,Oral Rehydration Therapy,As administered during visit,Recovered
+71,68,3317,Oral Rehydration Therapy,As administered during visit,Referred
+74,70,547,Wound Dressing,As administered during visit,Recovered
+75,71,182,Antenatal Checkup,As administered during visit,Recovered
+78,73,783,Medication - Antibiotic,As administered during visit,Recovered
+79,73,783,Nutritional Supplement,As administered during visit,Recovered
+80,74,935,Medication - Antimalarial,As administered during visit,Recovered
+81,74,935,Wound Dressing,As administered during visit,Recovered
+82,76,291,Wound Dressing,As administered during visit,Recovered
+84,78,1165,Referral,As administered during visit,Referred
+85,79,379,Medication - Antibiotic,As administered during visit,Admitted
+86,81,129,Referral,As administered during visit,Recovered
+87,82,1504,Antenatal Checkup,As administered during visit,Admitted
+88,82,1504,Antenatal Checkup,As administered during visit,Admitted
+89,83,2654,Referral,As administered during visit,Recovered
+90,83,2654,Antenatal Checkup,As administered during visit,Recovered
+91,84,1577,Referral,As administered during visit,Referred
+92,84,1577,Oral Rehydration Therapy,As administered during visit,Referred
+94,86,1540,Referral,As administered during visit,Recovered
+95,87,1213,Referral,As administered during visit,Recovered
+96,87,1213,Wound Dressing,As administered during visit,Recovered
+97,88,2435,Antenatal Checkup,As administered during visit,Recovered
+98,88,2435,Medication - Antimalarial,As administered during visit,Recovered
+99,89,1641,Wound Dressing,As administered during visit,Admitted
+101,91,1025,Medication - Antimalarial,As administered during visit,Referred
+102,92,1741,Immunization,As administered during visit,Recovered
+104,94,2053,Antenatal Checkup,As administered during visit,Recovered
+105,95,22,Referral,As administered during visit,Recovered
+106,95,22,Wound Dressing,As administered during visit,Recovered
+107,96,653,Immunization,As administered during visit,Recovered
+108,97,935,Medication - Antimalarial,As administered during visit,Referred
+111,99,3663,Antenatal Checkup,As administered during visit,Admitted
+112,100,3560,Wound Dressing,As administered during visit,Recovered
+113,101,3355,Medication - Antimalarial,As administered during visit,Recovered
+114,102,3590,Antenatal Checkup,As administered during visit,Recovered
+117,105,1651,Nutritional Supplement,As administered during visit,Recovered
+119,107,3360,Nutritional Supplement,As administered during visit,Referred
+120,108,3722,Wound Dressing,As administered during visit,Recovered
+123,113,598,Antenatal Checkup,As administered during visit,Admitted
+124,114,2929,Oral Rehydration Therapy,As administered during visit,Deceased
+125,114,2929,Antenatal Checkup,As administered during visit,Deceased
+126,115,3154,Immunization,As administered during visit,Admitted
+127,116,1713,Wound Dressing,As administered during visit,Deceased
+128,117,1566,Referral,As administered during visit,Recovered
+129,117,1566,Antenatal Checkup,As administered during visit,Recovered
+130,118,312,Wound Dressing,As administered during visit,Recovered
+131,119,266,Antenatal Checkup,As administered during visit,Recovered
+134,121,2534,Medication - Antimalarial,As administered during visit,Recovered
+135,122,795,Medication - Antimalarial,As administered during visit,Referred
+137,124,2145,Referral,As administered during visit,Recovered
+138,125,3717,Wound Dressing,As administered during visit,Recovered
+139,125,3717,Medication - Antibiotic,As administered during visit,Recovered
+140,126,88,Medication - Antibiotic,As administered during visit,Referred
+141,127,1573,Antenatal Checkup,As administered during visit,Recovered
+142,128,1456,Medication - Antimalarial,As administered during visit,Recovered
+144,130,84,Medication - Antibiotic,As administered during visit,Recovered
+147,133,2752,Wound Dressing,As administered during visit,Referred
+148,134,1418,Medication - Antibiotic,As administered during visit,Recovered
+149,135,3433,Medication - Antibiotic,As administered during visit,Recovered
+150,135,3433,Medication - Antibiotic,As administered during visit,Recovered
+151,136,255,Medication - Antimalarial,As administered during visit,Recovered
+152,136,255,Oral Rehydration Therapy,As administered during visit,Recovered
+153,137,3223,Medication - Antimalarial,As administered during visit,Admitted
+154,138,2641,Wound Dressing,As administered during visit,Referred
+155,140,1555,Oral Rehydration Therapy,As administered during visit,Referred
+156,141,1989,Medication - Antimalarial,As administered during visit,Recovered
+157,142,2552,Oral Rehydration Therapy,As administered during visit,Referred
+158,143,2926,Referral,As administered during visit,Referred
+159,144,3450,Oral Rehydration Therapy,As administered during visit,Recovered
+161,146,3263,Oral Rehydration Therapy,As administered during visit,Recovered
+162,148,529,Antenatal Checkup,As administered during visit,Referred
+166,151,1775,Medication - Antibiotic,As administered during visit,Recovered
+167,152,1523,Antenatal Checkup,As administered during visit,Referred
+168,153,326,Immunization,As administered during visit,Recovered
+172,158,1726,Immunization,As administered during visit,Recovered
+173,159,513,Nutritional Supplement,As administered during visit,Recovered
+174,159,513,Nutritional Supplement,As administered during visit,Recovered
+178,162,1158,Referral,As administered during visit,Admitted
+179,163,2906,Medication - Antibiotic,As administered during visit,Referred
+180,164,2067,Nutritional Supplement,As administered during visit,Recovered
+181,164,2067,Wound Dressing,As administered during visit,Recovered
+182,165,3290,Wound Dressing,As administered during visit,Recovered
+184,167,141,Antenatal Checkup,As administered during visit,Recovered
+186,169,2112,Medication - Antibiotic,As administered during visit,Recovered
+187,170,2425,Medication - Antibiotic,As administered during visit,Admitted
+188,170,2425,Medication - Antibiotic,As administered during visit,Admitted
+190,172,2434,Wound Dressing,As administered during visit,Recovered
+191,172,2434,Medication - Antibiotic,As administered during visit,Recovered
+192,173,995,Medication - Antimalarial,As administered during visit,Recovered
+193,175,3093,Immunization,As administered during visit,Referred
+196,178,524,Antenatal Checkup,As administered during visit,Recovered
+197,178,524,Medication - Antibiotic,As administered during visit,Recovered
+198,179,870,Medication - Antimalarial,As administered during visit,Recovered
+199,179,870,Medication - Antibiotic,As administered during visit,Recovered
+202,181,1454,Medication - Antimalarial,As administered during visit,Referred
+203,181,1454,Oral Rehydration Therapy,As administered during visit,Referred
+205,184,1207,Nutritional Supplement,As administered during visit,Recovered
+207,186,2955,Immunization,As administered during visit,Recovered
+209,188,3698,Wound Dressing,As administered during visit,Deceased
+210,189,572,Medication - Antimalarial,As administered during visit,Recovered
+211,189,572,Oral Rehydration Therapy,As administered during visit,Recovered
+212,190,1951,Antenatal Checkup,As administered during visit,Recovered
+213,190,1951,Wound Dressing,As administered during visit,Recovered
+217,193,3285,Medication - Antibiotic,As administered during visit,Recovered
+218,194,3017,Antenatal Checkup,As administered during visit,Recovered
+219,194,3017,Oral Rehydration Therapy,As administered during visit,Recovered
+220,195,1486,Wound Dressing,As administered during visit,Recovered
+221,197,2637,Medication - Antimalarial,As administered during visit,Admitted
+223,199,882,Referral,As administered during visit,Referred
+225,201,1101,Oral Rehydration Therapy,As administered during visit,Admitted
+226,201,1101,Wound Dressing,As administered during visit,Admitted
+230,205,3003,Immunization,As administered during visit,Recovered
+231,206,869,Medication - Antibiotic,As administered during visit,Recovered
+232,207,1489,Antenatal Checkup,As administered during visit,Recovered
+233,208,2066,Oral Rehydration Therapy,As administered during visit,Admitted
+241,213,344,Wound Dressing,As administered during visit,Admitted
+243,215,514,Immunization,As administered during visit,Recovered
+244,216,732,Medication - Antibiotic,As administered during visit,Deceased
+245,217,3188,Nutritional Supplement,As administered during visit,Admitted
+246,218,2715,Oral Rehydration Therapy,As administered during visit,Referred
+247,218,2715,Immunization,As administered during visit,Referred
+249,220,1955,Medication - Antibiotic,As administered during visit,Referred
+250,220,1955,Medication - Antimalarial,As administered during visit,Referred
+251,221,594,Wound Dressing,As administered during visit,Referred
+252,221,594,Nutritional Supplement,As administered during visit,Referred
+253,222,314,Medication - Antibiotic,As administered during visit,Admitted
+254,223,3592,Antenatal Checkup,As administered during visit,Recovered
+255,224,1225,Nutritional Supplement,As administered during visit,Referred
+257,226,832,Medication - Antimalarial,As administered during visit,Recovered
+258,227,3122,Oral Rehydration Therapy,As administered during visit,Recovered
+259,227,3122,Antenatal Checkup,As administered during visit,Recovered
+260,229,546,Oral Rehydration Therapy,As administered during visit,Recovered
+261,230,1360,Immunization,As administered during visit,Admitted
+262,231,393,Antenatal Checkup,As administered during visit,Referred
+263,231,393,Nutritional Supplement,As administered during visit,Referred
+264,232,1647,Medication - Antibiotic,As administered during visit,Recovered
+265,234,710,Medication - Antimalarial,As administered during visit,Recovered
+266,234,710,Nutritional Supplement,As administered during visit,Recovered
+267,235,909,Medication - Antibiotic,As administered during visit,Recovered
+268,235,909,Referral,As administered during visit,Recovered
+269,236,2599,Immunization,As administered during visit,Recovered
+270,238,550,Wound Dressing,As administered during visit,Admitted
+271,238,550,Nutritional Supplement,As administered during visit,Admitted
+272,239,1451,Referral,As administered during visit,Recovered
+273,241,2756,Antenatal Checkup,As administered during visit,Recovered
+274,242,359,Medication - Antimalarial,As administered during visit,Referred
+275,243,1652,Referral,As administered during visit,Recovered
+276,244,1316,Medication - Antimalarial,As administered during visit,Referred
+277,245,6,Oral Rehydration Therapy,As administered during visit,Referred
+280,247,41,Immunization,As administered during visit,Recovered
+281,248,2105,Referral,As administered during visit,Recovered
+282,248,2105,Medication - Antibiotic,As administered during visit,Recovered
+283,249,2409,Antenatal Checkup,As administered during visit,Recovered
+284,250,1690,Medication - Antibiotic,As administered during visit,Recovered
+286,253,2007,Referral,As administered during visit,Admitted
+287,255,622,Wound Dressing,As administered during visit,Recovered
+288,256,896,Medication - Antimalarial,As administered during visit,Admitted
+291,259,3339,Immunization,As administered during visit,Recovered
+292,260,1547,Medication - Antibiotic,As administered during visit,Referred
+293,261,3737,Nutritional Supplement,As administered during visit,Admitted
+294,262,2821,Antenatal Checkup,As administered during visit,Referred
+298,265,3455,Immunization,As administered during visit,Recovered
+301,269,1332,Referral,As administered during visit,Recovered
+302,269,1332,Wound Dressing,As administered during visit,Recovered
+303,270,2323,Nutritional Supplement,As administered during visit,Referred
+305,274,394,Medication - Antimalarial,As administered during visit,Recovered
+306,275,3557,Wound Dressing,As administered during visit,Recovered
+307,275,3557,Wound Dressing,As administered during visit,Recovered
+310,277,3099,Wound Dressing,As administered during visit,Referred
+311,279,636,Medication - Antibiotic,As administered during visit,Recovered
+312,281,2591,Wound Dressing,As administered during visit,Recovered
+316,284,1145,Wound Dressing,As administered during visit,Admitted
+317,285,3508,Medication - Antibiotic,As administered during visit,Referred
+320,287,1491,Referral,As administered during visit,Referred
+321,287,1491,Nutritional Supplement,As administered during visit,Referred
+322,288,2813,Medication - Antimalarial,As administered during visit,Recovered
+323,289,1792,Referral,As administered during visit,Admitted
+326,292,1016,Wound Dressing,As administered during visit,Recovered
+327,293,2005,Immunization,As administered during visit,Recovered
+329,295,3144,Antenatal Checkup,As administered during visit,Recovered
+330,296,1153,Referral,As administered during visit,Recovered
+331,297,1009,Antenatal Checkup,As administered during visit,Recovered
+332,297,1009,Oral Rehydration Therapy,As administered during visit,Recovered
+333,299,1612,Immunization,As administered during visit,Admitted
+334,299,1612,Wound Dressing,As administered during visit,Admitted
+335,300,3260,Wound Dressing,As administered during visit,Referred
+336,300,3260,Medication - Antimalarial,As administered during visit,Referred
+337,301,2233,Nutritional Supplement,As administered during visit,Recovered
+338,303,789,Wound Dressing,As administered during visit,Recovered
+339,304,1956,Medication - Antibiotic,As administered during visit,Recovered
+340,304,1956,Oral Rehydration Therapy,As administered during visit,Recovered
+343,307,1447,Immunization,As administered during visit,Recovered
+344,307,1447,Immunization,As administered during visit,Recovered
+346,309,2180,Immunization,As administered during visit,Admitted
+349,311,1384,Nutritional Supplement,As administered during visit,Referred
+351,313,569,Antenatal Checkup,As administered during visit,Admitted
+352,314,546,Medication - Antimalarial,As administered during visit,Admitted
+353,315,3147,Nutritional Supplement,As administered during visit,Recovered
+357,318,462,Medication - Antibiotic,As administered during visit,Referred
+358,319,946,Oral Rehydration Therapy,As administered during visit,Recovered
+360,321,33,Medication - Antibiotic,As administered during visit,Recovered
+361,322,2459,Medication - Antibiotic,As administered during visit,Recovered
+362,322,2459,Referral,As administered during visit,Recovered
+364,324,2116,Antenatal Checkup,As administered during visit,Recovered
+365,324,2116,Immunization,As administered during visit,Recovered
+367,326,1559,Referral,As administered during visit,Recovered
+368,327,3642,Wound Dressing,As administered during visit,Recovered
+369,328,1772,Oral Rehydration Therapy,As administered during visit,Recovered
+372,331,3066,Immunization,As administered during visit,Recovered
+373,331,3066,Antenatal Checkup,As administered during visit,Recovered
+374,333,2451,Antenatal Checkup,As administered during visit,Recovered
+375,333,2451,Wound Dressing,As administered during visit,Recovered
+376,334,579,Referral,As administered during visit,Admitted
+377,335,3057,Antenatal Checkup,As administered during visit,Recovered
+378,336,1530,Referral,As administered during visit,Admitted
+379,337,2484,Wound Dressing,As administered during visit,Recovered
+380,338,380,Antenatal Checkup,As administered during visit,Recovered
+382,340,1100,Antenatal Checkup,As administered during visit,Admitted
+383,341,1429,Referral,As administered during visit,Recovered
+384,344,2194,Oral Rehydration Therapy,As administered during visit,Recovered
+385,345,847,Wound Dressing,As administered during visit,Recovered
+386,345,847,Referral,As administered during visit,Recovered
+388,347,3150,Immunization,As administered during visit,Recovered
+389,348,2475,Oral Rehydration Therapy,As administered during visit,Referred
+390,349,2548,Oral Rehydration Therapy,As administered during visit,Admitted
+391,350,701,Wound Dressing,As administered during visit,Referred
+392,350,701,Referral,As administered during visit,Referred
+393,351,3608,Antenatal Checkup,As administered during visit,Recovered
+394,353,1881,Medication - Antimalarial,As administered during visit,Referred
+397,355,1262,Medication - Antibiotic,As administered during visit,Recovered
+399,358,2136,Antenatal Checkup,As administered during visit,Recovered
+403,364,1601,Oral Rehydration Therapy,As administered during visit,Recovered
+404,365,65,Nutritional Supplement,As administered during visit,Deceased
+406,367,305,Nutritional Supplement,As administered during visit,Recovered
+407,368,379,Medication - Antimalarial,As administered during visit,Recovered
+408,369,2745,Nutritional Supplement,As administered during visit,Recovered
+409,370,3570,Immunization,As administered during visit,Recovered
+411,372,3666,Medication - Antibiotic,As administered during visit,Recovered
+414,374,1523,Referral,As administered during visit,Recovered
+415,374,1523,Nutritional Supplement,As administered during visit,Recovered
+416,375,1133,Oral Rehydration Therapy,As administered during visit,Recovered
+417,376,2996,Medication - Antimalarial,As administered during visit,Referred
+418,377,3407,Immunization,As administered during visit,Recovered
+419,378,1207,Referral,As administered during visit,Recovered
+420,380,3307,Antenatal Checkup,As administered during visit,Admitted
+421,380,3307,Medication - Antibiotic,As administered during visit,Admitted
+424,382,2540,Medication - Antibiotic,As administered during visit,Admitted
+425,383,75,Wound Dressing,As administered during visit,Recovered
+426,383,75,Oral Rehydration Therapy,As administered during visit,Recovered
+427,384,2058,Wound Dressing,As administered during visit,Recovered
+428,385,8,Medication - Antibiotic,As administered during visit,Admitted
+431,390,384,Medication - Antimalarial,As administered during visit,Recovered
+432,390,384,Nutritional Supplement,As administered during visit,Recovered
+434,392,1677,Oral Rehydration Therapy,As administered during visit,Recovered
+435,393,3285,Antenatal Checkup,As administered during visit,Recovered
+436,393,3285,Nutritional Supplement,As administered during visit,Recovered
+438,395,2637,Referral,As administered during visit,Referred
+439,395,2637,Antenatal Checkup,As administered during visit,Referred
+440,396,966,Referral,As administered during visit,Referred
+442,398,2207,Immunization,As administered during visit,Recovered
+443,399,3325,Medication - Antibiotic,As administered during visit,Recovered
+444,400,2096,Immunization,As administered during visit,Referred
+445,401,3627,Wound Dressing,As administered during visit,Admitted
+446,401,3627,Medication - Antimalarial,As administered during visit,Admitted
+449,405,2997,Immunization,As administered during visit,Recovered
+450,406,882,Referral,As administered during visit,Admitted
+451,407,2476,Antenatal Checkup,As administered during visit,Admitted
+452,408,3458,Medication - Antimalarial,As administered during visit,Recovered
+453,408,3458,Medication - Antimalarial,As administered during visit,Recovered
+454,409,2382,Nutritional Supplement,As administered during visit,Referred
+456,411,228,Nutritional Supplement,As administered during visit,Admitted
+458,414,1863,Referral,As administered during visit,Recovered
+459,415,296,Oral Rehydration Therapy,As administered during visit,Recovered
+461,417,2525,Medication - Antimalarial,As administered during visit,Recovered
+462,418,2540,Immunization,As administered during visit,Recovered
+463,419,2699,Referral,As administered during visit,Recovered
+467,425,1977,Medication - Antibiotic,As administered during visit,Admitted
+468,426,1684,Wound Dressing,As administered during visit,Referred
+471,429,1024,Wound Dressing,As administered during visit,Recovered
+472,430,2938,Oral Rehydration Therapy,As administered during visit,Recovered
+474,432,3505,Medication - Antibiotic,As administered during visit,Referred
+475,433,3666,Antenatal Checkup,As administered during visit,Recovered
+476,433,3666,Medication - Antimalarial,As administered during visit,Recovered
+477,434,536,Nutritional Supplement,As administered during visit,Recovered
+478,434,536,Medication - Antibiotic,As administered during visit,Recovered
+479,435,2905,Medication - Antimalarial,As administered during visit,Recovered
+483,438,3315,Nutritional Supplement,As administered during visit,Recovered
+484,438,3315,Medication - Antibiotic,As administered during visit,Recovered
+487,440,1207,Wound Dressing,As administered during visit,Referred
+490,442,2207,Nutritional Supplement,As administered during visit,Recovered
+491,444,693,Immunization,As administered during visit,Recovered
+492,446,2806,Oral Rehydration Therapy,As administered during visit,Deceased
+493,447,244,Medication - Antibiotic,As administered during visit,Admitted
+494,449,910,Medication - Antibiotic,As administered during visit,Recovered
+495,450,716,Wound Dressing,As administered during visit,Recovered
+498,452,2539,Medication - Antimalarial,As administered during visit,Recovered
+499,453,2308,Wound Dressing,As administered during visit,Admitted
+501,455,3726,Referral,As administered during visit,Recovered
+502,455,3726,Antenatal Checkup,As administered during visit,Recovered
+503,456,531,Antenatal Checkup,As administered during visit,Referred
+505,458,88,Immunization,As administered during visit,Admitted
+507,460,591,Antenatal Checkup,As administered during visit,Admitted
+508,461,1996,Oral Rehydration Therapy,As administered during visit,Recovered
+509,462,2609,Nutritional Supplement,As administered during visit,Referred
+510,463,619,Oral Rehydration Therapy,As administered during visit,Referred
+511,463,619,Antenatal Checkup,As administered during visit,Referred
+512,464,117,Nutritional Supplement,As administered during visit,Referred
+513,465,2811,Nutritional Supplement,As administered during visit,Recovered
+515,467,488,Antenatal Checkup,As administered during visit,Referred
+520,471,331,Referral,As administered during visit,Recovered
+522,473,65,Medication - Antibiotic,As administered during visit,Admitted
+523,474,2975,Referral,As administered during visit,Recovered
+526,479,795,Referral,As administered during visit,Referred
+527,479,795,Nutritional Supplement,As administered during visit,Referred
+528,480,2745,Oral Rehydration Therapy,As administered during visit,Referred
+529,480,2745,Medication - Antibiotic,As administered during visit,Referred
+530,481,750,Oral Rehydration Therapy,As administered during visit,Recovered
+531,481,750,Antenatal Checkup,As administered during visit,Recovered
+532,482,3179,Immunization,As administered during visit,Recovered
+533,483,2088,Wound Dressing,As administered during visit,Referred
+534,484,2511,Oral Rehydration Therapy,As administered during visit,Admitted
+535,484,2511,Immunization,As administered during visit,Admitted
+536,485,1888,Antenatal Checkup,As administered during visit,Admitted
+538,487,281,Medication - Antimalarial,As administered during visit,Referred
+541,489,1644,Immunization,As administered during visit,Recovered
+542,489,1644,Medication - Antibiotic,As administered during visit,Recovered
+543,490,3624,Wound Dressing,As administered during visit,Deceased
+544,491,2749,Antenatal Checkup,As administered during visit,Recovered
+546,493,3077,Medication - Antimalarial,As administered during visit,Recovered
+549,495,3304,Medication - Antimalarial,As administered during visit,Recovered
+550,496,2860,Antenatal Checkup,As administered during visit,Recovered
+555,502,1310,Immunization,As administered during visit,Recovered
+556,502,1310,Referral,As administered during visit,Recovered
+561,507,1581,Medication - Antimalarial,As administered during visit,Referred
+564,511,2777,Medication - Antibiotic,As administered during visit,Recovered
+565,511,2777,Immunization,As administered during visit,Recovered
+566,512,3157,Medication - Antibiotic,As administered during visit,Recovered
+567,513,2460,Immunization,As administered during visit,Recovered
+570,517,2476,Medication - Antibiotic,As administered during visit,Admitted
+571,518,997,Medication - Antimalarial,As administered during visit,Recovered
+572,519,274,Oral Rehydration Therapy,As administered during visit,Recovered
+574,521,3510,Nutritional Supplement,As administered during visit,Recovered
+575,522,1266,Wound Dressing,As administered during visit,Admitted
+576,523,1800,Nutritional Supplement,As administered during visit,Recovered
+578,525,3505,Wound Dressing,As administered during visit,Recovered
+581,528,619,Immunization,As administered during visit,Recovered
+582,529,3258,Medication - Antimalarial,As administered during visit,Referred
+583,530,2061,Nutritional Supplement,As administered during visit,Referred
+584,530,2061,Oral Rehydration Therapy,As administered during visit,Referred
+586,532,2423,Medication - Antibiotic,As administered during visit,Recovered
+587,533,1666,Medication - Antimalarial,As administered during visit,Admitted
+590,536,1096,Antenatal Checkup,As administered during visit,Referred
+591,536,1096,Medication - Antimalarial,As administered during visit,Referred
+593,538,1922,Medication - Antimalarial,As administered during visit,Recovered
+594,539,986,Referral,As administered during visit,Recovered
+595,540,2193,Medication - Antimalarial,As administered during visit,Recovered
+597,542,803,Nutritional Supplement,As administered during visit,Referred
+600,545,1504,Antenatal Checkup,As administered during visit,Recovered
+601,546,1318,Referral,As administered during visit,Recovered
+602,546,1318,Oral Rehydration Therapy,As administered during visit,Recovered
+603,547,409,Referral,As administered during visit,Referred
+604,548,3246,Wound Dressing,As administered during visit,Recovered
+606,550,625,Medication - Antimalarial,As administered during visit,Recovered
+607,550,625,Referral,As administered during visit,Recovered
+608,551,931,Immunization,As administered during visit,Referred
+609,552,349,Immunization,As administered during visit,Recovered
+610,552,349,Nutritional Supplement,As administered during visit,Recovered
+611,553,777,Nutritional Supplement,As administered during visit,Recovered
+612,553,777,Medication - Antimalarial,As administered during visit,Recovered
+613,555,1803,Antenatal Checkup,As administered during visit,Admitted
+615,557,2372,Antenatal Checkup,As administered during visit,Admitted
+616,558,870,Immunization,As administered during visit,Recovered
+617,559,1733,Medication - Antibiotic,As administered during visit,Recovered
+618,559,1733,Medication - Antimalarial,As administered during visit,Recovered
+619,560,931,Nutritional Supplement,As administered during visit,Recovered
+620,561,3678,Medication - Antimalarial,As administered during visit,Recovered
+626,565,297,Nutritional Supplement,As administered during visit,Recovered
+633,572,2658,Wound Dressing,As administered during visit,Recovered
+635,574,3659,Medication - Antibiotic,As administered during visit,Recovered
+636,574,3659,Antenatal Checkup,As administered during visit,Recovered
+637,575,2301,Immunization,As administered during visit,Recovered
+642,580,3463,Oral Rehydration Therapy,As administered during visit,Admitted
+645,584,1597,Antenatal Checkup,As administered during visit,Recovered
+646,584,1597,Referral,As administered during visit,Recovered
+649,586,3285,Wound Dressing,As administered during visit,Referred
+651,588,2375,Antenatal Checkup,As administered during visit,Referred
+653,591,776,Referral,As administered during visit,Admitted
+654,592,542,Medication - Antibiotic,As administered during visit,Recovered
+655,593,2616,Nutritional Supplement,As administered during visit,Recovered
+656,593,2616,Nutritional Supplement,As administered during visit,Recovered
+658,595,957,Medication - Antibiotic,As administered during visit,Recovered
+659,595,957,Nutritional Supplement,As administered during visit,Recovered
+660,596,960,Oral Rehydration Therapy,As administered during visit,Recovered
+661,597,969,Wound Dressing,As administered during visit,Admitted
+662,598,2022,Nutritional Supplement,As administered during visit,Recovered
+663,598,2022,Antenatal Checkup,As administered during visit,Recovered
+666,600,3739,Wound Dressing,As administered during visit,Admitted
+667,600,3739,Medication - Antibiotic,As administered during visit,Admitted
+669,602,2788,Antenatal Checkup,As administered during visit,Recovered
+670,603,2613,Wound Dressing,As administered during visit,Referred
+672,605,2483,Wound Dressing,As administered during visit,Recovered
+677,608,1488,Referral,As administered during visit,Recovered
+678,609,1438,Medication - Antibiotic,As administered during visit,Recovered
+680,611,2586,Medication - Antibiotic,As administered during visit,Recovered
+681,611,2586,Nutritional Supplement,As administered during visit,Recovered
+682,612,689,Wound Dressing,As administered during visit,Recovered
+683,613,3614,Medication - Antibiotic,As administered during visit,Recovered
+684,614,3498,Immunization,As administered during visit,Recovered
+685,614,3498,Referral,As administered during visit,Recovered
+686,615,2929,Referral,As administered during visit,Recovered
+689,618,2908,Immunization,As administered during visit,Recovered
+690,619,2584,Oral Rehydration Therapy,As administered during visit,Recovered
+691,619,2584,Referral,As administered during visit,Recovered
+694,622,101,Referral,As administered during visit,Admitted
+695,623,565,Referral,As administered during visit,Recovered
+696,623,565,Medication - Antibiotic,As administered during visit,Recovered
+697,624,1903,Wound Dressing,As administered during visit,Recovered
+698,625,1247,Immunization,As administered during visit,Recovered
+699,626,3242,Medication - Antibiotic,As administered during visit,Referred
+700,627,1529,Medication - Antibiotic,As administered during visit,Recovered
+701,628,487,Antenatal Checkup,As administered during visit,Recovered
+704,631,2843,Medication - Antibiotic,As administered during visit,Recovered
+707,633,1013,Wound Dressing,As administered during visit,Recovered
+708,634,3176,Oral Rehydration Therapy,As administered during visit,Deceased
+709,635,829,Medication - Antimalarial,As administered during visit,Recovered
+711,638,2651,Wound Dressing,As administered during visit,Recovered
+712,639,3736,Medication - Antibiotic,As administered during visit,Recovered
+713,640,1793,Referral,As administered during visit,Deceased
+714,641,3033,Oral Rehydration Therapy,As administered during visit,Referred
+715,642,188,Antenatal Checkup,As administered during visit,Deceased
+716,643,1329,Medication - Antibiotic,As administered during visit,Referred
+721,647,3620,Oral Rehydration Therapy,As administered during visit,Recovered
+722,648,3180,Wound Dressing,As administered during visit,Recovered
+726,651,1637,Wound Dressing,As administered during visit,Admitted
+727,652,542,Medication - Antimalarial,As administered during visit,Recovered
+730,654,467,Oral Rehydration Therapy,As administered during visit,Recovered
+731,654,467,Referral,As administered during visit,Recovered
+732,655,2498,Wound Dressing,As administered during visit,Recovered
+734,658,1014,Medication - Antibiotic,As administered during visit,Deceased
+735,658,1014,Wound Dressing,As administered during visit,Deceased
+736,659,2124,Nutritional Supplement,As administered during visit,Referred
+738,662,516,Wound Dressing,As administered during visit,Recovered
+739,663,2950,Oral Rehydration Therapy,As administered during visit,Recovered
+741,665,443,Wound Dressing,As administered during visit,Recovered
+742,665,443,Oral Rehydration Therapy,As administered during visit,Recovered
+743,666,610,Nutritional Supplement,As administered during visit,Recovered
+744,667,1179,Wound Dressing,As administered during visit,Recovered
+745,667,1179,Medication - Antibiotic,As administered during visit,Recovered
+746,668,1221,Medication - Antibiotic,As administered during visit,Recovered
+754,678,18,Wound Dressing,As administered during visit,Referred
+756,680,3553,Antenatal Checkup,As administered during visit,Admitted
+757,681,2733,Nutritional Supplement,As administered during visit,Deceased
+758,682,1473,Medication - Antibiotic,As administered during visit,Recovered
+760,684,2457,Antenatal Checkup,As administered during visit,Referred
+763,687,1783,Immunization,As administered during visit,Recovered
+765,690,1590,Nutritional Supplement,As administered during visit,Recovered
+766,691,3696,Medication - Antimalarial,As administered during visit,Recovered
+770,695,106,Nutritional Supplement,As administered during visit,Referred
+771,695,106,Immunization,As administered during visit,Referred
+773,697,867,Referral,As administered during visit,Recovered
+774,698,3137,Medication - Antimalarial,As administered during visit,Recovered
+775,698,3137,Antenatal Checkup,As administered during visit,Recovered
+776,699,2224,Oral Rehydration Therapy,As administered during visit,Recovered
+777,700,3067,Oral Rehydration Therapy,As administered during visit,Recovered
+780,703,2109,Medication - Antibiotic,As administered during visit,Recovered
+781,703,2109,Antenatal Checkup,As administered during visit,Recovered
+783,705,2626,Oral Rehydration Therapy,As administered during visit,Recovered
+786,707,3341,Nutritional Supplement,As administered during visit,Recovered
+787,708,2374,Antenatal Checkup,As administered during visit,Recovered
+788,709,605,Referral,As administered during visit,Referred
+789,709,605,Immunization,As administered during visit,Referred
+790,710,3425,Medication - Antibiotic,As administered during visit,Recovered
+791,710,3425,Nutritional Supplement,As administered during visit,Recovered
+792,711,3148,Medication - Antimalarial,As administered during visit,Recovered
+793,712,975,Medication - Antimalarial,As administered during visit,Recovered
+796,714,2724,Referral,As administered during visit,Recovered
+797,715,2641,Antenatal Checkup,As administered during visit,Recovered
+798,716,1045,Medication - Antimalarial,As administered during visit,Referred
+799,717,1354,Oral Rehydration Therapy,As administered during visit,Recovered
+800,717,1354,Immunization,As administered during visit,Recovered
+801,718,2935,Antenatal Checkup,As administered during visit,Recovered
+802,719,3502,Wound Dressing,As administered during visit,Referred
+803,720,1737,Medication - Antibiotic,As administered during visit,Recovered
+804,720,1737,Nutritional Supplement,As administered during visit,Recovered
+806,722,3631,Antenatal Checkup,As administered during visit,Recovered
+812,728,610,Medication - Antimalarial,As administered during visit,Recovered
+813,729,1494,Immunization,As administered during visit,Referred
+814,729,1494,Antenatal Checkup,As administered during visit,Referred
+815,730,2270,Immunization,As administered during visit,Deceased
+816,730,2270,Nutritional Supplement,As administered during visit,Deceased
+818,732,547,Referral,As administered during visit,Recovered
+819,733,957,Medication - Antimalarial,As administered during visit,Admitted
+821,735,2769,Nutritional Supplement,As administered during visit,Recovered
+822,735,2769,Wound Dressing,As administered during visit,Recovered
+823,737,3225,Medication - Antimalarial,As administered during visit,Recovered
+824,738,626,Nutritional Supplement,As administered during visit,Referred
+825,739,1709,Oral Rehydration Therapy,As administered during visit,Referred
+826,740,900,Antenatal Checkup,As administered during visit,Admitted
+830,744,584,Antenatal Checkup,As administered during visit,Referred
+831,744,584,Wound Dressing,As administered during visit,Referred
+833,746,1187,Medication - Antimalarial,As administered during visit,Recovered
+834,747,3579,Immunization,As administered during visit,Admitted
+835,748,2395,Wound Dressing,As administered during visit,Referred
+836,749,3578,Antenatal Checkup,As administered during visit,Deceased
+837,750,1384,Referral,As administered during visit,Recovered
+838,751,3560,Nutritional Supplement,As administered during visit,Recovered
+839,751,3560,Medication - Antimalarial,As administered during visit,Recovered
+840,752,3102,Nutritional Supplement,As administered during visit,Recovered
+841,753,2294,Medication - Antibiotic,As administered during visit,Referred
+842,753,2294,Referral,As administered during visit,Referred
+843,755,3594,Medication - Antimalarial,As administered during visit,Recovered
+844,755,3594,Medication - Antimalarial,As administered during visit,Recovered
+848,758,3372,Medication - Antibiotic,As administered during visit,Recovered
+850,760,1054,Medication - Antibiotic,As administered during visit,Recovered
+851,761,1855,Nutritional Supplement,As administered during visit,Recovered
+853,763,92,Referral,As administered during visit,Recovered
+854,764,160,Wound Dressing,As administered during visit,Recovered
+855,764,160,Medication - Antimalarial,As administered during visit,Recovered
+856,765,2763,Wound Dressing,As administered during visit,Recovered
+857,766,2011,Nutritional Supplement,As administered during visit,Recovered
+858,766,2011,Medication - Antibiotic,As administered during visit,Recovered
+863,769,3530,Oral Rehydration Therapy,As administered during visit,Recovered
+864,769,3530,Wound Dressing,As administered during visit,Recovered
+869,774,1562,Medication - Antibiotic,As administered during visit,Recovered
+870,775,3629,Nutritional Supplement,As administered during visit,Recovered
+871,775,3629,Nutritional Supplement,As administered during visit,Recovered
+872,776,380,Nutritional Supplement,As administered during visit,Referred
+873,777,1533,Antenatal Checkup,As administered during visit,Referred
+874,777,1533,Wound Dressing,As administered during visit,Referred
+875,778,2119,Wound Dressing,As administered during visit,Recovered
+876,780,3378,Wound Dressing,As administered during visit,Recovered
+877,780,3378,Wound Dressing,As administered during visit,Recovered
+878,781,164,Antenatal Checkup,As administered during visit,Admitted
+879,782,3764,Referral,As administered during visit,Recovered
+880,783,3473,Wound Dressing,As administered during visit,Recovered
+881,783,3473,Immunization,As administered during visit,Recovered
+883,785,1210,Oral Rehydration Therapy,As administered during visit,Recovered
+884,785,1210,Antenatal Checkup,As administered during visit,Recovered
+885,786,2995,Oral Rehydration Therapy,As administered during visit,Referred
+886,786,2995,Medication - Antibiotic,As administered during visit,Referred
+887,787,1839,Wound Dressing,As administered during visit,Referred
+888,787,1839,Antenatal Checkup,As administered during visit,Referred
+889,788,398,Medication - Antibiotic,As administered during visit,Admitted
+890,789,3217,Nutritional Supplement,As administered during visit,Recovered
+891,790,3609,Referral,As administered during visit,Recovered
+892,790,3609,Nutritional Supplement,As administered during visit,Recovered
+893,791,2486,Referral,As administered during visit,Referred
+894,793,1493,Immunization,As administered during visit,Admitted
+895,794,514,Medication - Antibiotic,As administered during visit,Referred
+896,794,514,Antenatal Checkup,As administered during visit,Referred
+898,796,114,Nutritional Supplement,As administered during visit,Referred
+901,798,2624,Nutritional Supplement,As administered during visit,Recovered
+902,799,3737,Oral Rehydration Therapy,As administered during visit,Recovered
+904,801,546,Medication - Antibiotic,As administered during visit,Recovered
+909,809,3013,Wound Dressing,As administered during visit,Referred
+911,812,925,Antenatal Checkup,As administered during visit,Recovered
+912,813,896,Antenatal Checkup,As administered during visit,Recovered
+913,814,148,Nutritional Supplement,As administered during visit,Recovered
+914,815,2635,Wound Dressing,As administered during visit,Recovered
+915,815,2635,Nutritional Supplement,As administered during visit,Recovered
+918,817,1424,Nutritional Supplement,As administered during visit,Recovered
+919,817,1424,Referral,As administered during visit,Recovered
+924,823,1140,Oral Rehydration Therapy,As administered during visit,Referred
+926,825,1138,Medication - Antibiotic,As administered during visit,Recovered
+927,826,2157,Nutritional Supplement,As administered during visit,Recovered
+928,826,2157,Referral,As administered during visit,Recovered
+933,830,2502,Medication - Antimalarial,As administered during visit,Referred
+937,833,2266,Antenatal Checkup,As administered during visit,Referred
+939,835,273,Medication - Antimalarial,As administered during visit,Recovered
+940,835,273,Oral Rehydration Therapy,As administered during visit,Recovered
+941,836,1590,Wound Dressing,As administered during visit,Referred
+947,842,2913,Wound Dressing,As administered during visit,Recovered
+950,845,2837,Referral,As administered during visit,Deceased
+952,847,1963,Nutritional Supplement,As administered during visit,Recovered
+953,847,1963,Oral Rehydration Therapy,As administered during visit,Recovered
+954,848,2162,Referral,As administered during visit,Recovered
+958,851,1013,Nutritional Supplement,As administered during visit,Recovered
+959,852,2508,Medication - Antimalarial,As administered during visit,Recovered
+960,853,3557,Wound Dressing,As administered during visit,Admitted
+964,856,2361,Medication - Antimalarial,As administered during visit,Recovered
+968,859,989,Immunization,As administered during visit,Recovered
+969,859,989,Immunization,As administered during visit,Recovered
+970,861,3672,Wound Dressing,As administered during visit,Recovered
+971,862,2488,Oral Rehydration Therapy,As administered during visit,Recovered
+972,862,2488,Oral Rehydration Therapy,As administered during visit,Recovered
+974,865,1354,Medication - Antibiotic,As administered during visit,Recovered
+976,867,1441,Wound Dressing,As administered during visit,Recovered
+977,867,1441,Medication - Antimalarial,As administered during visit,Recovered
+978,869,3092,Medication - Antimalarial,As administered during visit,Recovered
+981,871,1804,Medication - Antibiotic,As administered during visit,Recovered
+982,871,1804,Nutritional Supplement,As administered during visit,Recovered
+985,873,1473,Antenatal Checkup,As administered during visit,Deceased
+986,874,1203,Wound Dressing,As administered during visit,Deceased
+987,875,25,Oral Rehydration Therapy,As administered during visit,Recovered
+990,878,525,Antenatal Checkup,As administered during visit,Admitted
+991,879,2476,Antenatal Checkup,As administered during visit,Recovered
+992,879,2476,Oral Rehydration Therapy,As administered during visit,Recovered
+993,880,2879,Nutritional Supplement,As administered during visit,Referred
+995,882,965,Medication - Antibiotic,As administered during visit,Recovered
+996,882,965,Nutritional Supplement,As administered during visit,Recovered
+997,883,3587,Nutritional Supplement,As administered during visit,Recovered
+1001,888,579,Referral,As administered during visit,Recovered
+1002,890,3192,Immunization,As administered during visit,Recovered
+1003,890,3192,Referral,As administered during visit,Recovered
+1004,891,820,Wound Dressing,As administered during visit,Admitted
+1007,893,3038,Nutritional Supplement,As administered during visit,Referred
+1008,894,2194,Immunization,As administered during visit,Referred
+1009,895,3544,Nutritional Supplement,As administered during visit,Recovered
+1010,896,947,Immunization,As administered during visit,Recovered
+1011,896,947,Immunization,As administered during visit,Recovered
+1013,898,3303,Antenatal Checkup,As administered during visit,Recovered
+1014,899,1590,Oral Rehydration Therapy,As administered during visit,Recovered
+1015,899,1590,Medication - Antibiotic,As administered during visit,Recovered
+1016,900,1172,Referral,As administered during visit,Admitted
+1017,901,2656,Immunization,As administered during visit,Recovered
+1018,902,2641,Nutritional Supplement,As administered during visit,Recovered
+1019,903,620,Immunization,As administered during visit,Referred
+1020,904,2700,Oral Rehydration Therapy,As administered during visit,Recovered
+1021,904,2700,Nutritional Supplement,As administered during visit,Recovered
+1023,906,2739,Oral Rehydration Therapy,As administered during visit,Admitted
+1024,908,2486,Oral Rehydration Therapy,As administered during visit,Referred
+1025,909,2724,Nutritional Supplement,As administered during visit,Admitted
+1026,909,2724,Immunization,As administered during visit,Admitted
+1028,911,931,Immunization,As administered during visit,Recovered
+1029,911,931,Oral Rehydration Therapy,As administered during visit,Recovered
+1031,914,3626,Oral Rehydration Therapy,As administered during visit,Recovered
+1032,914,3626,Antenatal Checkup,As administered during visit,Recovered
+1033,915,596,Referral,As administered during visit,Referred
+1034,916,753,Wound Dressing,As administered during visit,Recovered
+1035,916,753,Oral Rehydration Therapy,As administered during visit,Recovered
+1036,917,3619,Medication - Antibiotic,As administered during visit,Recovered
+1037,918,2371,Immunization,As administered during visit,Recovered
+1039,921,2875,Medication - Antimalarial,As administered during visit,Referred
+1040,922,1754,Oral Rehydration Therapy,As administered during visit,Recovered
+1042,924,1633,Wound Dressing,As administered during visit,Recovered
+1048,930,875,Oral Rehydration Therapy,As administered during visit,Recovered
+1049,931,10,Immunization,As administered during visit,Referred
+1050,932,722,Referral,As administered during visit,Referred
+1051,933,2893,Antenatal Checkup,As administered during visit,Recovered
+1053,936,35,Medication - Antibiotic,As administered during visit,Referred
+1054,939,1061,Medication - Antimalarial,As administered during visit,Recovered
+1055,939,1061,Antenatal Checkup,As administered during visit,Recovered
+1058,942,1315,Medication - Antimalarial,As administered during visit,Recovered
+1062,945,2637,Wound Dressing,As administered during visit,Recovered
+1063,946,1869,Medication - Antimalarial,As administered during visit,Recovered
+1066,948,3750,Nutritional Supplement,As administered during visit,Referred
+1067,949,166,Oral Rehydration Therapy,As administered during visit,Recovered
+1068,949,166,Medication - Antibiotic,As administered during visit,Recovered
+1069,951,2662,Oral Rehydration Therapy,As administered during visit,Recovered
+1070,952,798,Oral Rehydration Therapy,As administered during visit,Recovered
+1073,956,1365,Medication - Antibiotic,As administered during visit,Recovered
+1074,957,161,Immunization,As administered during visit,Referred
+1076,962,3765,Nutritional Supplement,As administered during visit,Deceased
+1077,963,3450,Medication - Antimalarial,As administered during visit,Recovered
+1079,965,240,Medication - Antimalarial,As administered during visit,Recovered
+1080,966,2580,Wound Dressing,As administered during visit,Recovered
+1081,968,2815,Immunization,As administered during visit,Recovered
+1082,969,1736,Antenatal Checkup,As administered during visit,Recovered
+1083,970,3453,Medication - Antibiotic,As administered during visit,Recovered
+1084,971,3340,Wound Dressing,As administered during visit,Recovered
+1085,972,1898,Antenatal Checkup,As administered during visit,Recovered
+1088,974,1747,Medication - Antibiotic,As administered during visit,Admitted
+1093,979,3548,Medication - Antimalarial,As administered during visit,Recovered
+1094,980,3487,Antenatal Checkup,As administered during visit,Recovered
+1095,981,3068,Oral Rehydration Therapy,As administered during visit,Recovered
+1098,985,3170,Antenatal Checkup,As administered during visit,Recovered
+1101,987,2484,Referral,As administered during visit,Recovered
+1103,989,1027,Oral Rehydration Therapy,As administered during visit,Recovered
+1108,992,586,Referral,As administered during visit,Recovered
+1109,993,1035,Medication - Antibiotic,As administered during visit,Recovered
+1111,995,1069,Wound Dressing,As administered during visit,Referred
+1112,996,2689,Medication - Antibiotic,As administered during visit,Admitted
+1113,998,923,Antenatal Checkup,As administered during visit,Recovered
+1114,998,923,Referral,As administered during visit,Recovered
+1116,1000,399,Medication - Antimalarial,As administered during visit,Recovered
+1119,1002,114,Medication - Antibiotic,As administered during visit,Recovered
+1123,1006,2186,Referral,As administered during visit,Recovered
+1124,1006,2186,Antenatal Checkup,As administered during visit,Recovered
+1125,1007,1595,Immunization,As administered during visit,Referred
+1126,1008,3500,Oral Rehydration Therapy,As administered during visit,Recovered
+1127,1008,3500,Immunization,As administered during visit,Recovered
+1128,1009,3244,Immunization,As administered during visit,Recovered
+1129,1010,2568,Referral,As administered during visit,Recovered
+1130,1010,2568,Immunization,As administered during visit,Recovered
+1131,1011,1485,Oral Rehydration Therapy,As administered during visit,Recovered
+1132,1012,3363,Immunization,As administered during visit,Recovered
+1133,1012,3363,Oral Rehydration Therapy,As administered during visit,Recovered
+1136,1017,2298,Antenatal Checkup,As administered during visit,Referred
+1137,1017,2298,Referral,As administered during visit,Referred
+1139,1019,2601,Immunization,As administered during visit,Recovered
+1140,1019,2601,Referral,As administered during visit,Recovered
+1141,1020,2175,Medication - Antibiotic,As administered during visit,Referred
+1142,1022,625,Wound Dressing,As administered during visit,Recovered
+1143,1023,3349,Medication - Antibiotic,As administered during visit,Admitted
+1145,1025,2338,Nutritional Supplement,As administered during visit,Referred
+1147,1027,709,Immunization,As administered during visit,Admitted
+1148,1028,3630,Immunization,As administered during visit,Recovered
+1149,1029,3420,Wound Dressing,As administered during visit,Recovered
+1150,1029,3420,Antenatal Checkup,As administered during visit,Recovered
+1153,1031,1522,Referral,As administered during visit,Recovered
+1154,1031,1522,Medication - Antimalarial,As administered during visit,Recovered
+1155,1032,3356,Nutritional Supplement,As administered during visit,Admitted
+1156,1033,645,Nutritional Supplement,As administered during visit,Recovered
+1157,1033,645,Immunization,As administered during visit,Recovered
+1158,1034,2633,Referral,As administered during visit,Recovered
+1159,1035,58,Medication - Antibiotic,As administered during visit,Recovered
+1160,1036,1160,Antenatal Checkup,As administered during visit,Referred
+1161,1036,1160,Medication - Antimalarial,As administered during visit,Referred
+1163,1038,2037,Referral,As administered during visit,Recovered
+1166,1040,941,Oral Rehydration Therapy,As administered during visit,Recovered
+1167,1041,3280,Oral Rehydration Therapy,As administered during visit,Recovered
+1170,1043,2995,Referral,As administered during visit,Recovered
+1176,1047,315,Medication - Antimalarial,As administered during visit,Recovered
+1178,1049,4,Oral Rehydration Therapy,As administered during visit,Recovered
+1180,1052,1034,Referral,As administered during visit,Referred
+1183,1055,3506,Wound Dressing,As administered during visit,Admitted
+1184,1055,3506,Nutritional Supplement,As administered during visit,Admitted
+1185,1056,3078,Antenatal Checkup,As administered during visit,Recovered
+1189,1061,2552,Immunization,As administered during visit,Recovered
+1190,1062,1176,Oral Rehydration Therapy,As administered during visit,Referred
+1191,1063,3138,Wound Dressing,As administered during visit,Referred
+1192,1063,3138,Referral,As administered during visit,Referred
+1194,1065,2925,Wound Dressing,As administered during visit,Deceased
+1195,1065,2925,Nutritional Supplement,As administered during visit,Deceased
+1196,1066,342,Antenatal Checkup,As administered during visit,Referred
+1198,1069,1262,Nutritional Supplement,As administered during visit,Referred
+1199,1070,3019,Medication - Antimalarial,As administered during visit,Referred
+1200,1071,998,Wound Dressing,As administered during visit,Recovered
+1201,1071,998,Medication - Antibiotic,As administered during visit,Recovered
+1204,1074,2122,Wound Dressing,As administered during visit,Recovered
+1205,1075,948,Wound Dressing,As administered during visit,Referred
+1206,1076,2777,Medication - Antimalarial,As administered during visit,Recovered
+1208,1078,1529,Nutritional Supplement,As administered during visit,Recovered
+1209,1079,2235,Referral,As administered during visit,Referred
+1212,1081,2459,Wound Dressing,As administered during visit,Recovered
+1213,1082,2482,Antenatal Checkup,As administered during visit,Recovered
+1214,1082,2482,Nutritional Supplement,As administered during visit,Recovered
+1215,1083,32,Wound Dressing,As administered during visit,Recovered
+1216,1083,32,Wound Dressing,As administered during visit,Recovered
+1218,1085,2714,Wound Dressing,As administered during visit,Referred
+1219,1086,2288,Medication - Antimalarial,As administered during visit,Admitted
+1222,1088,1789,Antenatal Checkup,As administered during visit,Referred
+1223,1089,305,Medication - Antimalarial,As administered during visit,Recovered
+1228,1094,856,Antenatal Checkup,As administered during visit,Admitted
+1230,1096,2635,Medication - Antibiotic,As administered during visit,Referred
+1231,1096,2635,Oral Rehydration Therapy,As administered during visit,Referred
+1235,1100,451,Immunization,As administered during visit,Recovered
+1236,1100,451,Immunization,As administered during visit,Recovered
+1239,1102,108,Immunization,As administered during visit,Recovered
+1240,1104,2668,Referral,As administered during visit,Recovered
+1241,1105,197,Medication - Antimalarial,As administered during visit,Recovered
+1242,1106,2007,Nutritional Supplement,As administered during visit,Recovered
+1243,1106,2007,Referral,As administered during visit,Recovered
+1246,1109,2036,Antenatal Checkup,As administered during visit,Recovered
+1247,1110,3428,Antenatal Checkup,As administered during visit,Admitted
+1248,1112,1303,Medication - Antimalarial,As administered during visit,Recovered
+1250,1115,1610,Antenatal Checkup,As administered during visit,Recovered
+1251,1115,1610,Wound Dressing,As administered during visit,Recovered
+1252,1116,2212,Referral,As administered during visit,Recovered
+1253,1116,2212,Oral Rehydration Therapy,As administered during visit,Recovered
+1254,1117,3749,Immunization,As administered during visit,Recovered
+1257,1119,3079,Medication - Antibiotic,As administered during visit,Recovered
+1258,1120,760,Antenatal Checkup,As administered during visit,Recovered
+1262,1124,2729,Nutritional Supplement,As administered during visit,Admitted
+1263,1124,2729,Antenatal Checkup,As administered during visit,Admitted
+1266,1128,3371,Referral,As administered during visit,Recovered
+1267,1130,1206,Immunization,As administered during visit,Recovered
+1268,1131,239,Oral Rehydration Therapy,As administered during visit,Recovered
+1269,1132,2065,Oral Rehydration Therapy,As administered during visit,Recovered
+1270,1133,2686,Wound Dressing,As administered during visit,Recovered
+1271,1134,1259,Nutritional Supplement,As administered during visit,Recovered
+1272,1135,3705,Referral,As administered during visit,Recovered
+1273,1135,3705,Medication - Antibiotic,As administered during visit,Recovered
+1274,1136,383,Medication - Antimalarial,As administered during visit,Recovered
+1275,1137,1319,Immunization,As administered during visit,Recovered
+1276,1138,846,Nutritional Supplement,As administered during visit,Recovered
+1277,1139,1090,Antenatal Checkup,As administered during visit,Referred
+1278,1139,1090,Nutritional Supplement,As administered during visit,Referred
+1279,1140,2813,Wound Dressing,As administered during visit,Admitted
+1280,1140,2813,Nutritional Supplement,As administered during visit,Admitted
+1281,1141,3646,Referral,As administered during visit,Recovered
+1282,1142,1992,Medication - Antibiotic,As administered during visit,Referred
+1283,1142,1992,Antenatal Checkup,As administered during visit,Referred
+1284,1144,2193,Nutritional Supplement,As administered during visit,Recovered
+1285,1145,996,Medication - Antimalarial,As administered during visit,Referred
+1286,1145,996,Medication - Antibiotic,As administered during visit,Referred
+1287,1147,3248,Antenatal Checkup,As administered during visit,Referred
+1289,1149,904,Referral,As administered during visit,Referred
+1290,1150,3370,Medication - Antimalarial,As administered during visit,Recovered
+1291,1151,1354,Antenatal Checkup,As administered during visit,Recovered
+1296,1154,2284,Medication - Antibiotic,As administered during visit,Deceased
+1297,1155,1299,Medication - Antimalarial,As administered during visit,Recovered
+1298,1156,99,Nutritional Supplement,As administered during visit,Referred
+1299,1157,506,Nutritional Supplement,As administered during visit,Deceased
+1300,1158,1100,Referral,As administered during visit,Recovered
+1303,1160,541,Medication - Antimalarial,As administered during visit,Recovered
+1305,1162,2291,Nutritional Supplement,As administered during visit,Recovered
+1306,1163,1823,Medication - Antimalarial,As administered during visit,Referred
+1307,1163,1823,Immunization,As administered during visit,Referred
+1310,1165,1728,Oral Rehydration Therapy,As administered during visit,Recovered
+1311,1166,1101,Oral Rehydration Therapy,As administered during visit,Admitted
+1312,1167,622,Wound Dressing,As administered during visit,Recovered
+1313,1168,39,Medication - Antibiotic,As administered during visit,Recovered
+1314,1168,39,Antenatal Checkup,As administered during visit,Recovered
+1315,1169,1055,Immunization,As administered during visit,Recovered
+1316,1169,1055,Oral Rehydration Therapy,As administered during visit,Recovered
+1317,1170,3003,Medication - Antibiotic,As administered during visit,Referred
+1320,1172,2674,Referral,As administered during visit,Recovered
+1323,1174,1515,Nutritional Supplement,As administered during visit,Recovered
+1324,1175,743,Medication - Antimalarial,As administered during visit,Recovered
+1326,1177,3377,Immunization,As administered during visit,Recovered
+1329,1180,3748,Antenatal Checkup,As administered during visit,Recovered
+1330,1181,599,Nutritional Supplement,As administered during visit,Deceased
+1333,1184,270,Referral,As administered during visit,Referred
+1334,1186,199,Immunization,As administered during visit,Deceased
+1335,1186,199,Oral Rehydration Therapy,As administered during visit,Deceased
+1336,1187,324,Wound Dressing,As administered during visit,Referred
+1340,1190,89,Medication - Antimalarial,As administered during visit,Referred
+1341,1191,107,Oral Rehydration Therapy,As administered during visit,Referred
+1342,1191,107,Medication - Antibiotic,As administered during visit,Referred
+1343,1192,1265,Oral Rehydration Therapy,As administered during visit,Admitted
+1344,1192,1265,Referral,As administered during visit,Admitted
+1345,1193,1312,Oral Rehydration Therapy,As administered during visit,Recovered
+1347,1195,100,Nutritional Supplement,As administered during visit,Recovered
+1348,1195,100,Wound Dressing,As administered during visit,Recovered
+1349,1198,228,Medication - Antibiotic,As administered during visit,Recovered
+1350,1200,2599,Oral Rehydration Therapy,As administered during visit,Referred
+1351,1200,2599,Nutritional Supplement,As administered during visit,Referred
+1354,1203,3284,Antenatal Checkup,As administered during visit,Admitted
+1357,1207,1742,Nutritional Supplement,As administered during visit,Recovered
+1358,1208,540,Wound Dressing,As administered during visit,Recovered
+1360,1210,1151,Antenatal Checkup,As administered during visit,Referred
+1362,1212,1841,Medication - Antibiotic,As administered during visit,Recovered
+1363,1213,716,Wound Dressing,As administered during visit,Recovered
+1364,1213,716,Medication - Antibiotic,As administered during visit,Recovered
+1365,1214,3607,Nutritional Supplement,As administered during visit,Recovered
+1371,1218,1484,Medication - Antibiotic,As administered during visit,Recovered
+1372,1219,2164,Oral Rehydration Therapy,As administered during visit,Referred
+1373,1219,2164,Medication - Antibiotic,As administered during visit,Referred
+1374,1220,1312,Immunization,As administered during visit,Recovered
+1375,1221,2821,Antenatal Checkup,As administered during visit,Recovered
+1378,1223,3376,Immunization,As administered during visit,Recovered
+1379,1224,376,Nutritional Supplement,As administered during visit,Recovered
+1381,1226,2943,Wound Dressing,As administered during visit,Recovered
+1382,1227,3673,Antenatal Checkup,As administered during visit,Recovered
+1383,1228,1411,Wound Dressing,As administered during visit,Recovered
+1384,1228,1411,Immunization,As administered during visit,Recovered
+1385,1229,333,Medication - Antimalarial,As administered during visit,Referred
+1386,1229,333,Referral,As administered during visit,Referred
+1387,1230,2385,Antenatal Checkup,As administered during visit,Admitted
+1388,1232,338,Oral Rehydration Therapy,As administered during visit,Recovered
+1389,1233,2917,Antenatal Checkup,As administered during visit,Referred
+1390,1234,2603,Medication - Antibiotic,As administered during visit,Recovered
+1391,1234,2603,Nutritional Supplement,As administered during visit,Recovered
+1392,1235,1451,Nutritional Supplement,As administered during visit,Referred
+1393,1236,3157,Antenatal Checkup,As administered during visit,Recovered
+1395,1238,122,Antenatal Checkup,As administered during visit,Recovered
+1397,1241,3065,Immunization,As administered during visit,Recovered
+1399,1243,1595,Referral,As administered during visit,Recovered
+1402,1245,1262,Medication - Antimalarial,As administered during visit,Referred
+1403,1245,1262,Immunization,As administered during visit,Referred
+1404,1246,3659,Immunization,As administered during visit,Recovered
+1405,1247,1115,Antenatal Checkup,As administered during visit,Admitted
+1406,1247,1115,Medication - Antibiotic,As administered during visit,Admitted
+1407,1248,848,Immunization,As administered during visit,Recovered
+1408,1249,3103,Wound Dressing,As administered during visit,Recovered
+1409,1250,2712,Antenatal Checkup,As administered during visit,Recovered
+1410,1250,2712,Medication - Antibiotic,As administered during visit,Recovered
+1411,1251,1661,Medication - Antibiotic,As administered during visit,Recovered
+1412,1251,1661,Referral,As administered during visit,Recovered
+1413,1252,2400,Nutritional Supplement,As administered during visit,Recovered
+1414,1253,144,Medication - Antimalarial,As administered during visit,Recovered
+1415,1255,2700,Immunization,As administered during visit,Referred
+1416,1256,1791,Nutritional Supplement,As administered during visit,Recovered
+1417,1256,1791,Nutritional Supplement,As administered during visit,Recovered
+1418,1257,2487,Oral Rehydration Therapy,As administered during visit,Recovered
+1419,1258,3478,Immunization,As administered during visit,Recovered
+1421,1260,1916,Nutritional Supplement,As administered during visit,Recovered
+1424,1263,3727,Referral,As administered during visit,Recovered
+1425,1264,931,Nutritional Supplement,As administered during visit,Recovered
+1429,1267,3667,Oral Rehydration Therapy,As administered during visit,Referred
+1430,1268,2103,Antenatal Checkup,As administered during visit,Recovered
+1431,1269,1745,Wound Dressing,As administered during visit,Recovered
+1432,1269,1745,Nutritional Supplement,As administered during visit,Recovered
+1433,1270,886,Medication - Antibiotic,As administered during visit,Admitted
+1439,1276,3687,Referral,As administered during visit,Recovered
+1443,1279,3480,Immunization,As administered during visit,Recovered
+1445,1282,2725,Wound Dressing,As administered during visit,Recovered
+1446,1283,1277,Antenatal Checkup,As administered during visit,Recovered
+1449,1285,1327,Nutritional Supplement,As administered during visit,Recovered
+1450,1286,1864,Nutritional Supplement,As administered during visit,Recovered
+1451,1287,2179,Wound Dressing,As administered during visit,Recovered
+1454,1289,1468,Medication - Antimalarial,As administered during visit,Recovered
+1458,1293,2443,Immunization,As administered during visit,Referred
+1459,1294,465,Oral Rehydration Therapy,As administered during visit,Recovered
+1461,1296,3165,Referral,As administered during visit,Recovered
+1462,1297,516,Medication - Antibiotic,As administered during visit,Recovered
+1464,1299,1735,Medication - Antimalarial,As administered during visit,Recovered
+1466,1301,3063,Immunization,As administered during visit,Recovered
+1469,1304,726,Antenatal Checkup,As administered during visit,Recovered
+1472,1307,1731,Wound Dressing,As administered during visit,Recovered
+1473,1308,2830,Antenatal Checkup,As administered during visit,Recovered
+1474,1309,2021,Wound Dressing,As administered during visit,Recovered
+1475,1310,1103,Referral,As administered during visit,Admitted
+1476,1311,2513,Antenatal Checkup,As administered during visit,Recovered
+1480,1315,2398,Referral,As administered during visit,Recovered
+1482,1317,2631,Medication - Antibiotic,As administered during visit,Recovered
+1483,1318,2849,Antenatal Checkup,As administered during visit,Recovered
+1484,1318,2849,Wound Dressing,As administered during visit,Recovered
+1485,1319,2926,Wound Dressing,As administered during visit,Recovered
+1487,1321,2410,Medication - Antibiotic,As administered during visit,Recovered
+1488,1322,3738,Medication - Antimalarial,As administered during visit,Recovered
+1491,1325,841,Antenatal Checkup,As administered during visit,Recovered
+1492,1325,841,Antenatal Checkup,As administered during visit,Recovered
+1493,1326,1417,Oral Rehydration Therapy,As administered during visit,Recovered
+1494,1326,1417,Antenatal Checkup,As administered during visit,Recovered
+1498,1329,735,Wound Dressing,As administered during visit,Recovered
+1499,1330,1332,Medication - Antimalarial,As administered during visit,Recovered
+1500,1330,1332,Medication - Antibiotic,As administered during visit,Recovered
+1501,1331,285,Immunization,As administered during visit,Recovered
+1502,1332,197,Referral,As administered during visit,Referred
+1503,1332,197,Medication - Antibiotic,As administered during visit,Referred
+1504,1333,2773,Medication - Antimalarial,As administered during visit,Recovered
+1508,1337,1590,Medication - Antimalarial,As administered during visit,Referred
+1509,1338,2258,Oral Rehydration Therapy,As administered during visit,Admitted
+1510,1339,2717,Referral,As administered during visit,Recovered
+1512,1341,2509,Oral Rehydration Therapy,As administered during visit,Recovered
+1513,1341,2509,Oral Rehydration Therapy,As administered during visit,Recovered
+1514,1342,336,Nutritional Supplement,As administered during visit,Referred
+1515,1342,336,Medication - Antimalarial,As administered during visit,Referred
+1516,1345,1560,Immunization,As administered during visit,Recovered
+1518,1347,2804,Immunization,As administered during visit,Deceased
+1519,1348,1449,Antenatal Checkup,As administered during visit,Recovered
+1520,1349,1652,Medication - Antimalarial,As administered during visit,Admitted
+1521,1349,1652,Oral Rehydration Therapy,As administered during visit,Admitted
+1522,1350,2225,Antenatal Checkup,As administered during visit,Referred
+1523,1350,2225,Antenatal Checkup,As administered during visit,Referred
+1526,1352,2328,Wound Dressing,As administered during visit,Referred
+1527,1354,1456,Wound Dressing,As administered during visit,Admitted
+1530,1356,646,Medication - Antibiotic,As administered during visit,Admitted
+1531,1356,646,Wound Dressing,As administered during visit,Admitted
+1532,1357,119,Medication - Antibiotic,As administered during visit,Recovered
+1534,1359,1592,Wound Dressing,As administered during visit,Recovered
+1535,1360,1494,Nutritional Supplement,As administered during visit,Recovered
+1536,1361,2482,Antenatal Checkup,As administered during visit,Recovered
+1537,1361,2482,Antenatal Checkup,As administered during visit,Recovered
+1541,1364,2410,Medication - Antibiotic,As administered during visit,Deceased
+1542,1365,1149,Antenatal Checkup,As administered during visit,Recovered
+1543,1366,495,Immunization,As administered during visit,Recovered
+1544,1367,366,Antenatal Checkup,As administered during visit,Recovered
+1545,1367,366,Nutritional Supplement,As administered during visit,Recovered
+1546,1368,611,Nutritional Supplement,As administered during visit,Recovered
+1548,1370,344,Medication - Antibiotic,As administered during visit,Recovered
+1549,1371,1428,Antenatal Checkup,As administered during visit,Recovered
+1550,1372,698,Wound Dressing,As administered during visit,Deceased
+1553,1374,3145,Oral Rehydration Therapy,As administered during visit,Recovered
+1554,1374,3145,Antenatal Checkup,As administered during visit,Recovered
+1556,1376,2425,Immunization,As administered during visit,Recovered
+1558,1378,3478,Antenatal Checkup,As administered during visit,Referred
+1561,1380,1013,Medication - Antibiotic,As administered during visit,Recovered
+1562,1380,1013,Immunization,As administered during visit,Recovered
+1563,1382,3544,Medication - Antimalarial,As administered during visit,Recovered
+1564,1383,1429,Referral,As administered during visit,Recovered
+1565,1384,1485,Medication - Antimalarial,As administered during visit,Recovered
+1566,1385,2724,Oral Rehydration Therapy,As administered during visit,Referred
+1567,1385,2724,Nutritional Supplement,As administered during visit,Referred
+1568,1386,3565,Medication - Antimalarial,As administered during visit,Referred
+1569,1387,405,Wound Dressing,As administered during visit,Recovered
+1570,1387,405,Medication - Antimalarial,As administered during visit,Recovered
+1577,1392,3186,Oral Rehydration Therapy,As administered during visit,Recovered
+1578,1393,3658,Wound Dressing,As administered during visit,Admitted
+1579,1394,249,Referral,As administered during visit,Referred
+1580,1394,249,Oral Rehydration Therapy,As administered during visit,Referred
+1583,1397,2624,Referral,As administered during visit,Recovered
+1584,1398,3034,Referral,As administered during visit,Deceased
+1585,1398,3034,Referral,As administered during visit,Deceased
+1588,1401,1541,Wound Dressing,As administered during visit,Referred
+1590,1403,2151,Nutritional Supplement,As administered during visit,Recovered
+1591,1404,301,Wound Dressing,As administered during visit,Recovered
+1592,1408,159,Referral,As administered during visit,Admitted
+1595,1410,3363,Oral Rehydration Therapy,As administered during visit,Admitted
+1596,1410,3363,Immunization,As administered during visit,Admitted
+1606,1419,3135,Immunization,As administered during visit,Referred
+1609,1421,3617,Immunization,As administered during visit,Recovered
+1613,1426,2270,Oral Rehydration Therapy,As administered during visit,Recovered
+1615,1428,3261,Referral,As administered during visit,Recovered
+1618,1433,1867,Antenatal Checkup,As administered during visit,Admitted
+1625,1439,2816,Oral Rehydration Therapy,As administered during visit,Recovered
+1626,1440,443,Antenatal Checkup,As administered during visit,Recovered
+1627,1441,2081,Referral,As administered during visit,Recovered
+1628,1442,1354,Referral,As administered during visit,Admitted
+1629,1444,1411,Oral Rehydration Therapy,As administered during visit,Admitted
+1632,1447,753,Medication - Antibiotic,As administered during visit,Recovered
+1633,1447,753,Referral,As administered during visit,Recovered
+1634,1448,2266,Medication - Antibiotic,As administered during visit,Recovered
+1635,1449,482,Wound Dressing,As administered during visit,Admitted
+1638,1451,2398,Oral Rehydration Therapy,As administered during visit,Recovered
+1644,1456,605,Nutritional Supplement,As administered during visit,Recovered
+1645,1457,338,Oral Rehydration Therapy,As administered during visit,Recovered
+1646,1457,338,Nutritional Supplement,As administered during visit,Recovered
+1647,1458,1074,Oral Rehydration Therapy,As administered during visit,Admitted
+1648,1459,3072,Referral,As administered during visit,Referred
+1649,1459,3072,Wound Dressing,As administered during visit,Referred
+1650,1460,3155,Wound Dressing,As administered during visit,Recovered
+1652,1462,1709,Immunization,As administered during visit,Recovered
+1653,1463,2196,Antenatal Checkup,As administered during visit,Referred
+1654,1464,682,Oral Rehydration Therapy,As administered during visit,Admitted
+1655,1464,682,Immunization,As administered during visit,Admitted
+1656,1466,3704,Nutritional Supplement,As administered during visit,Recovered
+1657,1467,3004,Nutritional Supplement,As administered during visit,Recovered
+1658,1468,2732,Medication - Antimalarial,As administered during visit,Recovered
+1660,1470,11,Wound Dressing,As administered during visit,Recovered
+1661,1471,3228,Medication - Antimalarial,As administered during visit,Recovered
+1663,1473,1785,Antenatal Checkup,As administered during visit,Admitted
+1664,1473,1785,Nutritional Supplement,As administered during visit,Admitted
+1666,1475,3433,Oral Rehydration Therapy,As administered during visit,Referred
+1671,1478,738,Nutritional Supplement,As administered during visit,Recovered
+1672,1478,738,Immunization,As administered during visit,Recovered
+1676,1483,2103,Medication - Antibiotic,As administered during visit,Recovered
+1677,1483,2103,Antenatal Checkup,As administered during visit,Recovered
+1678,1484,2355,Referral,As administered during visit,Recovered
+1679,1486,610,Medication - Antimalarial,As administered during visit,Referred
+1682,1488,2172,Medication - Antibiotic,As administered during visit,Referred
+1683,1488,2172,Referral,As administered during visit,Referred
+1684,1489,1922,Antenatal Checkup,As administered during visit,Admitted
+1685,1490,2962,Nutritional Supplement,As administered during visit,Recovered
+1686,1490,2962,Medication - Antimalarial,As administered during visit,Recovered
+1687,1491,1804,Nutritional Supplement,As administered during visit,Recovered
+1688,1492,2913,Antenatal Checkup,As administered during visit,Recovered
+1689,1492,2913,Wound Dressing,As administered during visit,Recovered
+1690,1493,652,Nutritional Supplement,As administered during visit,Admitted
+1691,1493,652,Medication - Antimalarial,As administered during visit,Admitted
+1692,1494,2286,Nutritional Supplement,As administered during visit,Recovered
+1693,1495,1344,Oral Rehydration Therapy,As administered during visit,Admitted
+1694,1496,2291,Nutritional Supplement,As administered during visit,Recovered
+1695,1497,1025,Oral Rehydration Therapy,As administered during visit,Referred
+1696,1497,1025,Immunization,As administered during visit,Referred
+1699,1499,10,Wound Dressing,As administered during visit,Admitted
+1702,1501,3704,Medication - Antimalarial,As administered during visit,Recovered
+1703,1502,1697,Antenatal Checkup,As administered during visit,Recovered
+1704,1503,1687,Medication - Antibiotic,As administered during visit,Referred
+1705,1504,161,Immunization,As administered during visit,Recovered
+1706,1505,815,Immunization,As administered during visit,Admitted
+1707,1506,2133,Wound Dressing,As administered during visit,Referred
+1708,1507,381,Oral Rehydration Therapy,As administered during visit,Recovered
+1709,1509,1117,Wound Dressing,As administered during visit,Recovered
+1710,1509,1117,Nutritional Supplement,As administered during visit,Recovered
+1711,1510,2355,Referral,As administered during visit,Recovered
+1712,1511,1884,Antenatal Checkup,As administered during visit,Recovered
+1716,1516,1815,Medication - Antibiotic,As administered during visit,Recovered
+1717,1517,3054,Nutritional Supplement,As administered during visit,Recovered
+1719,1519,2801,Medication - Antimalarial,As administered during visit,Referred
+1720,1520,3225,Antenatal Checkup,As administered during visit,Deceased
+1721,1521,928,Antenatal Checkup,As administered during visit,Recovered
+1723,1524,864,Oral Rehydration Therapy,As administered during visit,Admitted
+1724,1525,1954,Medication - Antimalarial,As administered during visit,Admitted
+1725,1526,2750,Oral Rehydration Therapy,As administered during visit,Recovered
+1726,1528,3691,Nutritional Supplement,As administered during visit,Recovered
+1727,1528,3691,Referral,As administered during visit,Recovered
+1728,1529,799,Wound Dressing,As administered during visit,Recovered
+1729,1530,6,Medication - Antibiotic,As administered during visit,Referred
+1730,1530,6,Nutritional Supplement,As administered during visit,Referred
+1731,1531,1148,Oral Rehydration Therapy,As administered during visit,Recovered
+1732,1532,1327,Antenatal Checkup,As administered during visit,Admitted
+1733,1532,1327,Immunization,As administered during visit,Admitted
+1734,1533,749,Wound Dressing,As administered during visit,Recovered
+1736,1535,904,Oral Rehydration Therapy,As administered during visit,Recovered
+1737,1536,3098,Medication - Antimalarial,As administered during visit,Recovered
+1738,1536,3098,Referral,As administered during visit,Recovered
+1742,1539,159,Medication - Antibiotic,As administered during visit,Recovered
+1745,1542,3267,Referral,As administered during visit,Referred
+1746,1543,3361,Wound Dressing,As administered during visit,Recovered
+1747,1544,2666,Oral Rehydration Therapy,As administered during visit,Recovered
+1748,1545,3575,Immunization,As administered during visit,Recovered
+1751,1547,1224,Referral,As administered during visit,Referred
+1753,1549,3267,Immunization,As administered during visit,Referred
+1754,1550,1721,Antenatal Checkup,As administered during visit,Referred
+1755,1551,3629,Oral Rehydration Therapy,As administered during visit,Recovered
+1756,1551,3629,Wound Dressing,As administered during visit,Recovered
+1760,1554,447,Antenatal Checkup,As administered during visit,Recovered
+1761,1555,130,Antenatal Checkup,As administered during visit,Admitted
+1762,1556,1976,Referral,As administered during visit,Recovered
+1763,1558,2490,Medication - Antimalarial,As administered during visit,Recovered
+1764,1558,2490,Wound Dressing,As administered during visit,Recovered
+1765,1559,2336,Nutritional Supplement,As administered during visit,Admitted
+1776,1569,3206,Immunization,As administered during visit,Recovered
+1777,1570,1640,Antenatal Checkup,As administered during visit,Admitted
+1778,1571,3036,Medication - Antimalarial,As administered during visit,Recovered
+1779,1571,3036,Antenatal Checkup,As administered during visit,Recovered
+1780,1572,3503,Referral,As administered during visit,Recovered
+1781,1573,342,Oral Rehydration Therapy,As administered during visit,Recovered
+1782,1574,736,Medication - Antimalarial,As administered during visit,Recovered
+1783,1574,736,Immunization,As administered during visit,Recovered
+1784,1575,3532,Medication - Antibiotic,As administered during visit,Recovered
+1785,1575,3532,Medication - Antimalarial,As administered during visit,Recovered
+1786,1576,2934,Referral,As administered during visit,Recovered
+1787,1577,1090,Oral Rehydration Therapy,As administered during visit,Referred
+1788,1577,1090,Referral,As administered during visit,Referred
+1789,1578,1653,Medication - Antibiotic,As administered during visit,Recovered
+1790,1579,978,Antenatal Checkup,As administered during visit,Recovered
+1791,1580,1955,Nutritional Supplement,As administered during visit,Recovered
+1792,1581,1804,Antenatal Checkup,As administered during visit,Referred
+1793,1584,1232,Immunization,As administered during visit,Recovered
+1798,1589,2478,Immunization,As administered during visit,Recovered
+1799,1590,866,Medication - Antimalarial,As administered during visit,Recovered
+1800,1591,2944,Referral,As administered during visit,Recovered
+1801,1591,2944,Antenatal Checkup,As administered during visit,Recovered
+1803,1593,2508,Immunization,As administered during visit,Recovered
+1804,1593,2508,Nutritional Supplement,As administered during visit,Recovered
+1806,1595,2163,Immunization,As administered during visit,Recovered
+1807,1595,2163,Antenatal Checkup,As administered during visit,Recovered
+1809,1597,2236,Immunization,As administered during visit,Recovered
+1810,1598,2689,Referral,As administered during visit,Referred
+1811,1598,2689,Medication - Antibiotic,As administered during visit,Referred
+1812,1599,2135,Medication - Antimalarial,As administered during visit,Referred
+1814,1602,1262,Medication - Antimalarial,As administered during visit,Recovered
+1815,1603,963,Medication - Antimalarial,As administered during visit,Recovered
+1817,1605,1469,Medication - Antibiotic,As administered during visit,Recovered
+1818,1606,3585,Medication - Antimalarial,As administered during visit,Admitted
+1820,1609,2343,Medication - Antibiotic,As administered during visit,Recovered
+1821,1609,2343,Wound Dressing,As administered during visit,Recovered
+1822,1610,1575,Oral Rehydration Therapy,As administered during visit,Recovered
+1823,1610,1575,Medication - Antimalarial,As administered during visit,Recovered
+1825,1612,2853,Wound Dressing,As administered during visit,Referred
+1826,1613,1865,Antenatal Checkup,As administered during visit,Recovered
+1827,1614,1761,Medication - Antimalarial,As administered during visit,Recovered
+1828,1615,2889,Medication - Antibiotic,As administered during visit,Referred
+1829,1615,2889,Nutritional Supplement,As administered during visit,Referred
+1830,1616,810,Medication - Antibiotic,As administered during visit,Recovered
+1831,1617,2527,Nutritional Supplement,As administered during visit,Recovered
+1832,1617,2527,Wound Dressing,As administered during visit,Recovered
+1833,1618,2440,Immunization,As administered during visit,Admitted
+1839,1625,1965,Medication - Antibiotic,As administered during visit,Recovered
+1841,1627,3333,Immunization,As administered during visit,Recovered
+1842,1628,1898,Wound Dressing,As administered during visit,Deceased
+1843,1629,1620,Referral,As administered during visit,Recovered
+1847,1633,2588,Antenatal Checkup,As administered during visit,Referred
+1848,1634,2291,Referral,As administered during visit,Recovered
+1849,1634,2291,Medication - Antimalarial,As administered during visit,Recovered
+1850,1635,2508,Antenatal Checkup,As administered during visit,Recovered
+1856,1640,970,Medication - Antibiotic,As administered during visit,Recovered
+1857,1640,970,Medication - Antimalarial,As administered during visit,Recovered
+1858,1641,3627,Immunization,As administered during visit,Recovered
+1859,1642,888,Immunization,As administered during visit,Recovered
+1860,1643,1424,Medication - Antibiotic,As administered during visit,Recovered
+1861,1643,1424,Nutritional Supplement,As administered during visit,Recovered
+1866,1647,3513,Oral Rehydration Therapy,As administered during visit,Recovered
+1868,1650,1235,Immunization,As administered during visit,Recovered
+1869,1651,2462,Immunization,As administered during visit,Recovered
+1870,1651,2462,Nutritional Supplement,As administered during visit,Recovered
+1871,1652,3663,Immunization,As administered during visit,Recovered
+1872,1652,3663,Medication - Antibiotic,As administered during visit,Recovered
+1873,1653,1529,Referral,As administered during visit,Recovered
+1874,1654,3016,Medication - Antibiotic,As administered during visit,Referred
+1875,1655,326,Oral Rehydration Therapy,As administered during visit,Recovered
+1876,1655,326,Oral Rehydration Therapy,As administered during visit,Recovered
+1878,1657,312,Wound Dressing,As administered during visit,Recovered
+1879,1657,312,Nutritional Supplement,As administered during visit,Recovered
+1881,1659,2368,Medication - Antibiotic,As administered during visit,Recovered
+1882,1659,2368,Medication - Antimalarial,As administered during visit,Recovered
+1884,1661,3144,Immunization,As administered during visit,Referred
+1885,1661,3144,Antenatal Checkup,As administered during visit,Referred
+1888,1663,484,Referral,As administered during visit,Recovered
+1889,1664,145,Medication - Antibiotic,As administered during visit,Admitted
+1891,1666,1286,Antenatal Checkup,As administered during visit,Admitted
+1892,1667,2325,Medication - Antibiotic,As administered during visit,Recovered
+1894,1669,3623,Medication - Antibiotic,As administered during visit,Referred
+1896,1671,469,Referral,As administered during visit,Recovered
+1899,1674,3653,Medication - Antibiotic,As administered during visit,Referred
+1900,1675,1654,Referral,As administered during visit,Recovered
+1903,1678,1890,Referral,As administered during visit,Deceased
+1904,1681,543,Immunization,As administered during visit,Referred
+1905,1682,3361,Wound Dressing,As administered during visit,Recovered
+1906,1682,3361,Immunization,As administered during visit,Recovered
+1910,1685,3200,Wound Dressing,As administered during visit,Recovered
+1911,1685,3200,Oral Rehydration Therapy,As administered during visit,Recovered
+1912,1687,66,Wound Dressing,As administered during visit,Referred
+1913,1688,2766,Referral,As administered during visit,Recovered
+1914,1688,2766,Medication - Antibiotic,As administered during visit,Recovered
+1916,1690,3256,Nutritional Supplement,As administered during visit,Admitted
+1917,1691,979,Medication - Antimalarial,As administered during visit,Referred
+1918,1691,979,Referral,As administered during visit,Referred
+1920,1693,2724,Nutritional Supplement,As administered during visit,Recovered
+1921,1694,2688,Medication - Antimalarial,As administered during visit,Recovered
+1923,1696,2735,Medication - Antibiotic,As administered during visit,Admitted
+1924,1696,2735,Antenatal Checkup,As administered during visit,Admitted
+1925,1697,1151,Nutritional Supplement,As administered during visit,Recovered
+1926,1698,1735,Wound Dressing,As administered during visit,Recovered
+1927,1698,1735,Immunization,As administered during visit,Recovered
+1928,1699,453,Referral,As administered during visit,Admitted
+1929,1700,2416,Immunization,As administered during visit,Admitted
+1930,1700,2416,Nutritional Supplement,As administered during visit,Admitted
+1932,1702,2069,Medication - Antimalarial,As administered during visit,Recovered
+1933,1703,1677,Wound Dressing,As administered during visit,Recovered
+1934,1704,1692,Nutritional Supplement,As administered during visit,Recovered
+1935,1705,2266,Referral,As administered during visit,Admitted
+1936,1705,2266,Antenatal Checkup,As administered during visit,Admitted
+1937,1706,2877,Medication - Antibiotic,As administered during visit,Admitted
+1938,1708,902,Immunization,As administered during visit,Recovered
+1942,1711,3122,Medication - Antibiotic,As administered during visit,Recovered
+1943,1712,1740,Wound Dressing,As administered during visit,Admitted
+1945,1714,1585,Wound Dressing,As administered during visit,Referred
+1946,1715,2185,Immunization,As administered during visit,Admitted
+1947,1715,2185,Nutritional Supplement,As administered during visit,Admitted
+1948,1716,3695,Wound Dressing,As administered during visit,Recovered
+1949,1716,3695,Antenatal Checkup,As administered during visit,Recovered
+1950,1718,3734,Nutritional Supplement,As administered during visit,Recovered
+1951,1719,2212,Medication - Antibiotic,As administered during visit,Recovered
+1952,1719,2212,Medication - Antibiotic,As administered during visit,Recovered
+1954,1721,2615,Medication - Antibiotic,As administered during visit,Recovered
+1955,1722,3516,Wound Dressing,As administered during visit,Recovered
+1956,1723,3105,Nutritional Supplement,As administered during visit,Recovered
+1957,1723,3105,Antenatal Checkup,As administered during visit,Recovered
+1958,1724,2540,Nutritional Supplement,As administered during visit,Recovered
+1961,1727,3635,Nutritional Supplement,As administered during visit,Recovered
+1962,1728,558,Wound Dressing,As administered during visit,Recovered
+1963,1731,170,Nutritional Supplement,As administered during visit,Admitted
+1965,1733,1336,Wound Dressing,As administered during visit,Recovered
+1966,1734,2744,Medication - Antibiotic,As administered during visit,Recovered
+1967,1734,2744,Medication - Antibiotic,As administered during visit,Recovered
+1968,1735,1683,Wound Dressing,As administered during visit,Referred
+1969,1736,781,Medication - Antibiotic,As administered during visit,Recovered
+1970,1737,645,Immunization,As administered during visit,Recovered
+1971,1738,242,Immunization,As administered during visit,Recovered
+1972,1739,562,Medication - Antimalarial,As administered during visit,Deceased
+1977,1742,2096,Nutritional Supplement,As administered during visit,Recovered
+1978,1742,2096,Antenatal Checkup,As administered during visit,Recovered
+1979,1744,1201,Referral,As administered during visit,Admitted
+1983,1747,1494,Nutritional Supplement,As administered during visit,Admitted
+1984,1748,466,Referral,As administered during visit,Recovered
+1987,1750,1228,Antenatal Checkup,As administered during visit,Recovered
+1988,1751,1389,Nutritional Supplement,As administered during visit,Recovered
+1989,1753,3464,Wound Dressing,As administered during visit,Admitted
+1990,1755,2617,Oral Rehydration Therapy,As administered during visit,Recovered
+1992,1758,3739,Oral Rehydration Therapy,As administered during visit,Recovered
+1993,1758,3739,Referral,As administered during visit,Recovered
+1994,1760,3690,Medication - Antibiotic,As administered during visit,Referred
+1995,1760,3690,Medication - Antimalarial,As administered during visit,Referred
+1997,1762,3025,Immunization,As administered during visit,Deceased
+1998,1763,1100,Antenatal Checkup,As administered during visit,Recovered
+1999,1764,2343,Antenatal Checkup,As administered during visit,Recovered
+2000,1765,3485,Medication - Antibiotic,As administered during visit,Recovered
+2001,1765,3485,Nutritional Supplement,As administered during visit,Recovered
+2004,1768,373,Medication - Antibiotic,As administered during visit,Recovered
+2006,1770,1043,Medication - Antibiotic,As administered during visit,Recovered
+2008,1772,3635,Wound Dressing,As administered during visit,Deceased
+2009,1772,3635,Immunization,As administered during visit,Deceased
+2010,1773,2343,Antenatal Checkup,As administered during visit,Recovered
+2012,1775,833,Medication - Antimalarial,As administered during visit,Recovered
+2013,1775,833,Oral Rehydration Therapy,As administered during visit,Recovered
+2014,1776,1753,Medication - Antibiotic,As administered during visit,Referred
+2015,1776,1753,Medication - Antibiotic,As administered during visit,Referred
+2016,1777,180,Referral,As administered during visit,Admitted
+2017,1777,180,Nutritional Supplement,As administered during visit,Admitted
+2018,1778,2175,Medication - Antimalarial,As administered during visit,Recovered
+2019,1778,2175,Antenatal Checkup,As administered during visit,Recovered
+2020,1779,285,Wound Dressing,As administered during visit,Recovered
+2022,1781,1245,Nutritional Supplement,As administered during visit,Recovered
+2023,1782,1626,Immunization,As administered during visit,Recovered
+2024,1784,1455,Immunization,As administered during visit,Admitted
+2025,1784,1455,Referral,As administered during visit,Admitted
+2026,1786,1639,Nutritional Supplement,As administered during visit,Recovered
+2027,1787,2057,Medication - Antimalarial,As administered during visit,Recovered
+2029,1791,786,Referral,As administered during visit,Recovered
+2030,1793,573,Nutritional Supplement,As administered during visit,Referred
+2033,1795,2653,Referral,As administered during visit,Recovered
+2034,1795,2653,Nutritional Supplement,As administered during visit,Recovered
+2036,1797,1725,Wound Dressing,As administered during visit,Recovered
+2037,1798,3359,Nutritional Supplement,As administered during visit,Referred
+2038,1798,3359,Referral,As administered during visit,Referred
+2039,1799,3619,Oral Rehydration Therapy,As administered during visit,Recovered
+2040,1800,702,Nutritional Supplement,As administered during visit,Recovered
+2041,1801,359,Nutritional Supplement,As administered during visit,Recovered
+2042,1802,378,Immunization,As administered during visit,Recovered
+2043,1803,1055,Immunization,As administered during visit,Recovered
+2048,1807,2004,Immunization,As administered during visit,Recovered
+2049,1808,1429,Immunization,As administered during visit,Recovered
+2050,1809,2420,Nutritional Supplement,As administered during visit,Referred
+2052,1812,3178,Medication - Antibiotic,As administered during visit,Recovered
+2053,1812,3178,Medication - Antimalarial,As administered during visit,Recovered
+2054,1813,3342,Nutritional Supplement,As administered during visit,Recovered
+2058,1817,2643,Medication - Antimalarial,As administered during visit,Referred
+2059,1818,2996,Nutritional Supplement,As administered during visit,Recovered
+2060,1818,2996,Nutritional Supplement,As administered during visit,Recovered
+2061,1819,2918,Medication - Antibiotic,As administered during visit,Recovered
+2063,1821,2906,Immunization,As administered during visit,Referred
+2064,1821,2906,Antenatal Checkup,As administered during visit,Referred
+2068,1824,1268,Wound Dressing,As administered during visit,Recovered
+2069,1824,1268,Medication - Antibiotic,As administered during visit,Recovered
+2070,1825,1774,Oral Rehydration Therapy,As administered during visit,Recovered
+2071,1825,1774,Immunization,As administered during visit,Recovered
+2073,1827,2938,Nutritional Supplement,As administered during visit,Admitted
+2074,1827,2938,Medication - Antimalarial,As administered during visit,Admitted
+2075,1828,475,Immunization,As administered during visit,Recovered
+2076,1829,278,Medication - Antibiotic,As administered during visit,Recovered
+2077,1830,2817,Medication - Antibiotic,As administered during visit,Recovered
+2079,1833,409,Medication - Antimalarial,As administered during visit,Referred
+2080,1834,1120,Referral,As administered during visit,Recovered
+2083,1838,3291,Medication - Antibiotic,As administered during visit,Recovered
+2084,1839,2390,Oral Rehydration Therapy,As administered during visit,Recovered
+2085,1840,246,Oral Rehydration Therapy,As administered during visit,Recovered
+2089,1844,326,Referral,As administered during visit,Recovered
+2091,1846,201,Wound Dressing,As administered during visit,Recovered
+2092,1846,201,Oral Rehydration Therapy,As administered during visit,Recovered
+2093,1847,104,Antenatal Checkup,As administered during visit,Recovered
+2094,1848,1089,Antenatal Checkup,As administered during visit,Referred
+2095,1850,91,Antenatal Checkup,As administered during visit,Recovered
+2096,1851,3676,Medication - Antimalarial,As administered during visit,Recovered
+2098,1854,688,Referral,As administered during visit,Admitted
+2099,1855,2737,Oral Rehydration Therapy,As administered during visit,Recovered
+2100,1855,2737,Antenatal Checkup,As administered during visit,Recovered
+2102,1857,3179,Medication - Antibiotic,As administered during visit,Referred
+2103,1858,731,Nutritional Supplement,As administered during visit,Recovered
+2104,1859,2149,Medication - Antimalarial,As administered during visit,Referred
+2105,1860,2595,Immunization,As administered during visit,Recovered
+2106,1861,2840,Immunization,As administered during visit,Referred
+2107,1862,1402,Antenatal Checkup,As administered during visit,Recovered
+2110,1865,2483,Wound Dressing,As administered during visit,Recovered
+2111,1866,1986,Medication - Antimalarial,As administered during visit,Recovered
+2112,1867,1008,Wound Dressing,As administered during visit,Recovered
+2113,1868,445,Nutritional Supplement,As administered during visit,Admitted
+2114,1870,1016,Wound Dressing,As administered during visit,Recovered
+2115,1871,3636,Wound Dressing,As administered during visit,Recovered
+2116,1872,2356,Oral Rehydration Therapy,As administered during visit,Recovered
+2117,1872,2356,Medication - Antimalarial,As administered during visit,Recovered
+2118,1873,2333,Referral,As administered during visit,Recovered
+2119,1874,2500,Nutritional Supplement,As administered during visit,Admitted
+2120,1875,3123,Wound Dressing,As administered during visit,Recovered
+2121,1875,3123,Wound Dressing,As administered during visit,Recovered
+2122,1876,308,Medication - Antibiotic,As administered during visit,Recovered
+2123,1877,832,Nutritional Supplement,As administered during visit,Recovered
+2124,1878,529,Referral,As administered during visit,Admitted
+2125,1879,719,Wound Dressing,As administered during visit,Recovered
+2126,1879,719,Medication - Antimalarial,As administered during visit,Recovered
+2127,1880,2607,Immunization,As administered during visit,Recovered
+2128,1881,2840,Nutritional Supplement,As administered during visit,Admitted
+2129,1882,1680,Antenatal Checkup,As administered during visit,Referred
+2130,1883,1741,Medication - Antibiotic,As administered during visit,Admitted
+2131,1883,1741,Nutritional Supplement,As administered during visit,Admitted
+2132,1885,1708,Medication - Antimalarial,As administered during visit,Recovered
+2134,1887,388,Nutritional Supplement,As administered during visit,Admitted
+2135,1888,3372,Immunization,As administered during visit,Referred
+2136,1889,1523,Medication - Antimalarial,As administered during visit,Recovered
+2137,1890,562,Medication - Antimalarial,As administered during visit,Referred
+2138,1891,225,Medication - Antimalarial,As administered during visit,Referred
+2139,1892,309,Nutritional Supplement,As administered during visit,Referred
+2140,1892,309,Oral Rehydration Therapy,As administered during visit,Referred
+2141,1893,1738,Immunization,As administered during visit,Recovered
+2142,1893,1738,Oral Rehydration Therapy,As administered during visit,Recovered
+2143,1894,2919,Immunization,As administered during visit,Recovered
+2144,1894,2919,Nutritional Supplement,As administered during visit,Recovered
+2145,1895,1727,Referral,As administered during visit,Recovered
+2146,1896,2484,Medication - Antimalarial,As administered during visit,Recovered
+2147,1898,3032,Medication - Antibiotic,As administered during visit,Recovered
+2148,1899,960,Referral,As administered during visit,Recovered
+2149,1900,1027,Nutritional Supplement,As administered during visit,Referred
+2150,1901,341,Wound Dressing,As administered during visit,Admitted
+2152,1903,353,Nutritional Supplement,As administered during visit,Recovered
+2153,1903,353,Oral Rehydration Therapy,As administered during visit,Recovered
+2157,1906,3360,Oral Rehydration Therapy,As administered during visit,Recovered
+2158,1906,3360,Medication - Antibiotic,As administered during visit,Recovered
+2159,1907,762,Oral Rehydration Therapy,As administered during visit,Recovered
+2160,1907,762,Medication - Antimalarial,As administered during visit,Recovered
+2161,1908,469,Medication - Antibiotic,As administered during visit,Recovered
+2162,1909,2223,Immunization,As administered during visit,Referred
+2163,1909,2223,Nutritional Supplement,As administered during visit,Referred
+2165,1912,3697,Wound Dressing,As administered during visit,Recovered
+2166,1913,2473,Immunization,As administered during visit,Admitted
+2167,1914,2535,Wound Dressing,As administered during visit,Deceased
+2168,1915,3144,Referral,As administered during visit,Referred
+2169,1915,3144,Oral Rehydration Therapy,As administered during visit,Referred
+2172,1918,1491,Antenatal Checkup,As administered during visit,Recovered
+2173,1919,1989,Wound Dressing,As administered during visit,Recovered
+2175,1921,2224,Nutritional Supplement,As administered during visit,Recovered
+2177,1923,108,Antenatal Checkup,As administered during visit,Recovered
+2178,1924,2200,Immunization,As administered during visit,Referred
+2180,1926,1826,Immunization,As administered during visit,Recovered
+2181,1927,965,Nutritional Supplement,As administered during visit,Recovered
+2182,1927,965,Oral Rehydration Therapy,As administered during visit,Recovered
+2185,1930,3044,Antenatal Checkup,As administered during visit,Recovered
+2186,1930,3044,Antenatal Checkup,As administered during visit,Recovered
+2188,1932,84,Medication - Antibiotic,As administered during visit,Admitted
+2189,1932,84,Medication - Antibiotic,As administered during visit,Admitted
+2190,1934,2757,Antenatal Checkup,As administered during visit,Recovered
+2191,1934,2757,Antenatal Checkup,As administered during visit,Recovered
+2192,1935,2161,Medication - Antibiotic,As administered during visit,Admitted
+2196,1938,472,Nutritional Supplement,As administered during visit,Recovered
+2197,1938,472,Nutritional Supplement,As administered during visit,Recovered
+2200,1941,3550,Medication - Antimalarial,As administered during visit,Referred
+2203,1944,3176,Oral Rehydration Therapy,As administered during visit,Recovered
+2204,1944,3176,Referral,As administered during visit,Recovered
+2207,1947,3531,Antenatal Checkup,As administered during visit,Admitted
+2208,1948,2249,Referral,As administered during visit,Recovered
+2209,1949,1436,Medication - Antimalarial,As administered during visit,Referred
+2210,1950,3695,Wound Dressing,As administered during visit,Recovered
+2211,1951,364,Antenatal Checkup,As administered during visit,Recovered
+2212,1952,3620,Nutritional Supplement,As administered during visit,Recovered
+2213,1952,3620,Wound Dressing,As administered during visit,Recovered
+2215,1954,2575,Immunization,As administered during visit,Recovered
+2216,1954,2575,Wound Dressing,As administered during visit,Recovered
+2219,1958,1924,Referral,As administered during visit,Recovered
+2220,1959,3110,Immunization,As administered during visit,Recovered
+2221,1960,4,Oral Rehydration Therapy,As administered during visit,Referred
+2222,1960,4,Nutritional Supplement,As administered during visit,Referred
+2223,1961,710,Referral,As administered during visit,Recovered
+2224,1962,3619,Antenatal Checkup,As administered during visit,Admitted
+2225,1962,3619,Wound Dressing,As administered during visit,Admitted
+2226,1963,3307,Immunization,As administered during visit,Admitted
+2227,1964,418,Immunization,As administered during visit,Referred
+2228,1965,255,Medication - Antibiotic,As administered during visit,Recovered
+2231,1968,3361,Medication - Antimalarial,As administered during visit,Recovered
+2233,1970,1955,Immunization,As administered during visit,Recovered
+2234,1970,1955,Nutritional Supplement,As administered during visit,Recovered
+2235,1971,2287,Medication - Antibiotic,As administered during visit,Recovered
+2236,1972,324,Wound Dressing,As administered during visit,Recovered
+2238,1974,2905,Medication - Antimalarial,As administered during visit,Recovered
+2239,1974,2905,Wound Dressing,As administered during visit,Recovered
+2240,1975,3067,Antenatal Checkup,As administered during visit,Recovered
+2241,1975,3067,Referral,As administered during visit,Recovered
+2242,1976,431,Medication - Antibiotic,As administered during visit,Admitted
+2244,1978,2995,Oral Rehydration Therapy,As administered during visit,Referred
+2245,1979,1735,Immunization,As administered during visit,Recovered
+2247,1981,1835,Nutritional Supplement,As administered during visit,Recovered
+2248,1981,1835,Medication - Antibiotic,As administered during visit,Recovered
+2250,1984,3412,Immunization,As administered during visit,Recovered
+2251,1984,3412,Immunization,As administered during visit,Recovered
+2252,1985,483,Medication - Antimalarial,As administered during visit,Admitted
+2254,1987,1117,Medication - Antibiotic,As administered during visit,Referred
+2256,1989,1806,Immunization,As administered during visit,Recovered
+2257,1989,1806,Referral,As administered during visit,Recovered
+2258,1990,3243,Oral Rehydration Therapy,As administered during visit,Recovered
+2259,1990,3243,Medication - Antimalarial,As administered during visit,Recovered
+2262,1993,1669,Medication - Antimalarial,As administered during visit,Referred
+2266,1997,280,Antenatal Checkup,As administered during visit,Recovered
+2267,1998,2788,Nutritional Supplement,As administered during visit,Referred

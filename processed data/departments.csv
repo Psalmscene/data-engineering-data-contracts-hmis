@@ -1,0 +1,1884 @@
+department_id,facility_id,department_name
+1,FAC0306,General Outpatient
+2,FAC1284,Maternity
+3,FAC1284,Laboratory
+4,FAC0369,Pharmacy
+5,FAC0480,Pharmacy
+6,FAC1538,General Outpatient
+7,FAC1538,Immunization
+8,FAC1538,Antenatal Care
+9,FAC1675,General Outpatient
+10,FAC0520,Maternity
+11,FAC1983,Immunization
+12,FAC1874,General Outpatient
+13,FAC1874,Immunization
+14,FAC1874,Maternity
+15,FAC0101,Antenatal Care
+16,FAC0101,Maternity
+17,FAC0101,Laboratory
+18,FAC1262,Pediatrics
+19,FAC1262,General Outpatient
+20,FAC1262,Maternity
+21,FAC0112,Pediatrics
+22,FAC0112,Laboratory
+23,FAC1823,Maternity
+24,FAC0071,General Outpatient
+25,FAC0071,Laboratory
+26,FAC1108,General Outpatient
+27,FAC1108,Pediatrics
+28,FAC1008,Immunization
+29,FAC1008,Pediatrics
+30,FAC0531,Pharmacy
+31,FAC0983,Immunization
+32,FAC0983,General Outpatient
+33,FAC0362,General Outpatient
+34,FAC0362,Immunization
+35,FAC0708,Laboratory
+36,FAC0708,Pharmacy
+37,FAC0057,Laboratory
+38,FAC0057,Pediatrics
+39,FAC0057,Immunization
+40,FAC0819,Pharmacy
+41,FAC1074,General Outpatient
+42,FAC0282,Laboratory
+43,FAC1260,General Outpatient
+44,FAC1260,Maternity
+45,FAC1474,Antenatal Care
+46,FAC1121,Antenatal Care
+47,FAC1121,Pharmacy
+48,FAC1317,Maternity
+49,FAC1317,Pediatrics
+50,FAC0619,Maternity
+51,FAC0619,Pharmacy
+52,FAC1861,Pharmacy
+53,FAC1861,Laboratory
+54,FAC1567,Immunization
+55,FAC0212,Immunization
+56,FAC1299,Maternity
+57,FAC1862,Antenatal Care
+58,FAC1862,Pediatrics
+59,FAC1653,Maternity
+60,FAC1653,Pharmacy
+61,FAC1653,Pediatrics
+62,FAC1954,Maternity
+63,FAC0125,Laboratory
+64,FAC0423,Antenatal Care
+65,FAC0423,Pediatrics
+66,FAC1588,Maternity
+67,FAC1090,Pharmacy
+68,FAC1090,Pediatrics
+69,FAC1090,Maternity
+70,FAC1145,Antenatal Care
+71,FAC1145,Pharmacy
+72,FAC0562,Maternity
+73,FAC0562,Pediatrics
+74,FAC0866,Maternity
+75,FAC0465,Immunization
+76,FAC0465,Pediatrics
+77,FAC0465,Laboratory
+78,FAC0030,Immunization
+79,FAC0030,Antenatal Care
+80,FAC1973,Maternity
+81,FAC1973,Laboratory
+82,FAC0472,Antenatal Care
+83,FAC0472,General Outpatient
+84,FAC0472,Pharmacy
+85,FAC0943,Maternity
+86,FAC0603,Laboratory
+87,FAC0747,Immunization
+88,FAC0747,General Outpatient
+89,FAC0351,Antenatal Care
+90,FAC0351,Immunization
+91,FAC0197,Immunization
+92,FAC0197,Pediatrics
+93,FAC1450,Laboratory
+94,FAC1450,General Outpatient
+95,FAC1450,Pharmacy
+96,FAC0395,Laboratory
+97,FAC0395,Pediatrics
+98,FAC0395,Pharmacy
+99,FAC1421,Pediatrics
+100,FAC0486,Maternity
+101,FAC0486,Antenatal Care
+102,FAC1318,Pharmacy
+103,FAC1810,Immunization
+104,FAC1810,Maternity
+105,FAC1825,General Outpatient
+106,FAC1825,Pharmacy
+107,FAC1825,Pediatrics
+108,FAC1058,Immunization
+109,FAC1058,Maternity
+110,FAC1058,Pharmacy
+111,FAC0608,Laboratory
+112,FAC0608,Maternity
+113,FAC0638,Laboratory
+114,FAC0638,Immunization
+115,FAC0638,General Outpatient
+116,FAC0539,Pediatrics
+117,FAC0539,Antenatal Care
+118,FAC0539,General Outpatient
+119,FAC0746,Pediatrics
+120,FAC0577,Maternity
+121,FAC0577,General Outpatient
+122,FAC0995,Immunization
+123,FAC0066,General Outpatient
+124,FAC1566,Laboratory
+125,FAC1566,General Outpatient
+126,FAC2023,Laboratory
+127,FAC2023,Maternity
+128,FAC2023,Pharmacy
+129,FAC1000,Immunization
+130,FAC1000,Maternity
+131,FAC0583,Immunization
+132,FAC0583,Laboratory
+133,FAC0705,Maternity
+134,FAC0705,Immunization
+135,FAC1211,Pharmacy
+136,FAC1600,Antenatal Care
+137,FAC1600,Pharmacy
+138,FAC1103,Antenatal Care
+139,FAC1103,Immunization
+140,FAC0922,General Outpatient
+141,FAC0922,Maternity
+142,FAC0415,General Outpatient
+143,FAC0451,General Outpatient
+144,FAC0451,Immunization
+145,FAC0890,Maternity
+146,FAC0890,Immunization
+147,FAC0890,Laboratory
+148,FAC0129,General Outpatient
+149,FAC1821,Maternity
+150,FAC0555,General Outpatient
+151,FAC0945,General Outpatient
+152,FAC0945,Immunization
+153,FAC0299,Pediatrics
+154,FAC0232,Maternity
+155,FAC0232,Immunization
+156,FAC1147,Pharmacy
+157,FAC1028,Immunization
+158,FAC1028,Antenatal Care
+159,FAC1028,Maternity
+160,FAC0862,Laboratory
+161,FAC0862,Antenatal Care
+162,FAC1426,General Outpatient
+163,FAC0308,Pharmacy
+164,FAC1079,Pediatrics
+165,FAC1079,Antenatal Care
+166,FAC0211,Antenatal Care
+167,FAC0211,Pharmacy
+168,FAC0345,Pharmacy
+169,FAC1337,General Outpatient
+170,FAC1101,Pharmacy
+171,FAC1101,Pediatrics
+172,FAC0915,Maternity
+173,FAC1209,Maternity
+174,FAC0434,Antenatal Care
+175,FAC0434,Maternity
+176,FAC0434,Laboratory
+177,FAC0070,Pediatrics
+178,FAC1126,Maternity
+179,FAC1126,General Outpatient
+180,FAC0932,Laboratory
+181,FAC0932,Immunization
+182,FAC1178,General Outpatient
+183,FAC1813,Laboratory
+184,FAC1813,General Outpatient
+185,FAC1813,Pharmacy
+186,FAC0974,Maternity
+187,FAC0234,Antenatal Care
+188,FAC0234,Laboratory
+189,FAC0276,Laboratory
+190,FAC1642,General Outpatient
+191,FAC1642,Maternity
+192,FAC2033,General Outpatient
+193,FAC2033,Antenatal Care
+194,FAC0100,Laboratory
+195,FAC0100,Antenatal Care
+196,FAC1490,Antenatal Care
+197,FAC1490,Pharmacy
+198,FAC0631,Pharmacy
+199,FAC0631,Laboratory
+200,FAC0631,Antenatal Care
+201,FAC0744,Maternity
+202,FAC1114,Maternity
+203,FAC1114,General Outpatient
+204,FAC0248,Pharmacy
+205,FAC0248,Immunization
+206,FAC0248,General Outpatient
+207,FAC0317,General Outpatient
+208,FAC0317,Laboratory
+209,FAC0693,Antenatal Care
+210,FAC0693,Immunization
+211,FAC0693,Pharmacy
+212,FAC1385,General Outpatient
+213,FAC1859,General Outpatient
+214,FAC1859,Maternity
+215,FAC1859,Laboratory
+216,FAC1286,General Outpatient
+217,FAC1286,Pharmacy
+218,FAC1286,Maternity
+219,FAC1967,General Outpatient
+220,FAC1967,Immunization
+221,FAC1777,Immunization
+222,FAC1977,General Outpatient
+223,FAC1977,Immunization
+224,FAC1977,Laboratory
+225,FAC0536,Pharmacy
+226,FAC0536,Immunization
+227,FAC0221,Immunization
+228,FAC0221,Pediatrics
+229,FAC0221,Pharmacy
+230,FAC0966,Pharmacy
+231,FAC0980,Maternity
+232,FAC0980,Pediatrics
+233,FAC1054,Maternity
+234,FAC1054,Pharmacy
+235,FAC0942,Antenatal Care
+236,FAC0942,Pediatrics
+237,FAC1454,General Outpatient
+238,FAC1891,Immunization
+239,FAC1891,Laboratory
+240,FAC1487,General Outpatient
+241,FAC0833,Maternity
+242,FAC0833,Immunization
+243,FAC0833,Pediatrics
+244,FAC1918,Pediatrics
+245,FAC1909,Maternity
+246,FAC1365,Pediatrics
+247,FAC1365,Maternity
+248,FAC1876,Laboratory
+249,FAC1876,Immunization
+250,FAC0679,Immunization
+251,FAC0679,Pharmacy
+252,FAC1640,General Outpatient
+253,FAC1640,Pharmacy
+254,FAC1640,Immunization
+255,FAC0307,Pharmacy
+256,FAC0307,General Outpatient
+257,FAC0368,Pediatrics
+258,FAC0783,General Outpatient
+259,FAC1989,Maternity
+260,FAC1989,Pediatrics
+261,FAC1989,Pharmacy
+262,FAC1448,Maternity
+263,FAC1448,Pharmacy
+264,FAC1448,Pediatrics
+265,FAC1041,Pharmacy
+266,FAC0989,Immunization
+267,FAC0989,Antenatal Care
+268,FAC0671,Laboratory
+269,FAC0671,General Outpatient
+270,FAC1999,Pharmacy
+271,FAC0412,Laboratory
+272,FAC0412,Pediatrics
+273,FAC0963,General Outpatient
+274,FAC0772,Laboratory
+275,FAC0772,Maternity
+276,FAC0681,Maternity
+277,FAC0681,Pharmacy
+278,FAC1875,Immunization
+279,FAC1875,Pharmacy
+280,FAC1354,Immunization
+281,FAC1354,General Outpatient
+282,FAC1771,General Outpatient
+283,FAC1785,Immunization
+284,FAC0496,Laboratory
+285,FAC1174,Immunization
+286,FAC1174,Laboratory
+287,FAC1547,Antenatal Care
+288,FAC0994,General Outpatient
+289,FAC0116,Pediatrics
+290,FAC0116,General Outpatient
+291,FAC1622,Maternity
+292,FAC1622,Pharmacy
+293,FAC2039,Pharmacy
+294,FAC1906,Pediatrics
+295,FAC1250,Laboratory
+296,FAC1250,Antenatal Care
+297,FAC1250,Immunization
+298,FAC1704,Maternity
+299,FAC0998,Laboratory
+300,FAC1162,Antenatal Care
+301,FAC1302,Maternity
+302,FAC1951,Laboratory
+303,FAC1951,Antenatal Care
+304,FAC0481,Pediatrics
+305,FAC0352,Laboratory
+306,FAC0809,Antenatal Care
+307,FAC0421,Laboratory
+308,FAC1287,Maternity
+309,FAC1287,Laboratory
+310,FAC0760,Pediatrics
+311,FAC0760,Laboratory
+312,FAC0680,Maternity
+313,FAC0121,Pharmacy
+314,FAC1377,Antenatal Care
+315,FAC0580,Pediatrics
+316,FAC0580,General Outpatient
+317,FAC1768,Pediatrics
+318,FAC1768,Pharmacy
+319,FAC1858,Antenatal Care
+320,FAC1858,Pharmacy
+321,FAC1858,Immunization
+322,FAC0787,General Outpatient
+323,FAC0787,Laboratory
+324,FAC0252,Maternity
+325,FAC0252,Immunization
+326,FAC0136,General Outpatient
+327,FAC0136,Laboratory
+328,FAC0343,Antenatal Care
+329,FAC0343,Pediatrics
+330,FAC0343,Pharmacy
+331,FAC1177,Immunization
+332,FAC1177,Laboratory
+333,FAC1627,Antenatal Care
+334,FAC0839,Maternity
+335,FAC0839,Pediatrics
+336,FAC0839,General Outpatient
+337,FAC1217,General Outpatient
+338,FAC1217,Immunization
+339,FAC0753,Pharmacy
+340,FAC0753,Laboratory
+341,FAC0753,Maternity
+342,FAC0300,Antenatal Care
+343,FAC0300,General Outpatient
+344,FAC1969,Immunization
+345,FAC1969,Pediatrics
+346,FAC0110,Pharmacy
+347,FAC0594,Immunization
+348,FAC0594,Pediatrics
+349,FAC0213,Pediatrics
+350,FAC0213,Antenatal Care
+351,FAC1428,Immunization
+352,FAC1428,Maternity
+353,FAC1561,Antenatal Care
+354,FAC0597,Pharmacy
+355,FAC0597,Laboratory
+356,FAC1464,Immunization
+357,FAC1472,Pediatrics
+358,FAC1472,Antenatal Care
+359,FAC1472,Immunization
+360,FAC0240,Pediatrics
+361,FAC0706,Maternity
+362,FAC0706,Antenatal Care
+363,FAC0889,Immunization
+364,FAC0889,Pharmacy
+365,FAC0889,Pediatrics
+366,FAC1457,Antenatal Care
+367,FAC1457,Laboratory
+368,FAC1191,Immunization
+369,FAC1682,Laboratory
+370,FAC1682,Pharmacy
+371,FAC0621,Pharmacy
+372,FAC0255,Pediatrics
+373,FAC0384,Pharmacy
+374,FAC0384,Laboratory
+375,FAC0384,Immunization
+376,FAC1841,General Outpatient
+377,FAC1841,Maternity
+378,FAC2041,Maternity
+379,FAC2041,Laboratory
+380,FAC1735,General Outpatient
+381,FAC0882,Maternity
+382,FAC0322,Immunization
+383,FAC0322,General Outpatient
+384,FAC0793,Antenatal Care
+385,FAC0793,Pharmacy
+386,FAC1324,Maternity
+387,FAC1324,Pharmacy
+388,FAC1324,Antenatal Care
+389,FAC2038,Antenatal Care
+390,FAC2038,Maternity
+391,FAC0454,Pharmacy
+392,FAC1518,Laboratory
+393,FAC2036,Laboratory
+394,FAC1422,Maternity
+395,FAC1422,Laboratory
+396,FAC1872,Antenatal Care
+397,FAC1872,General Outpatient
+398,FAC1872,Immunization
+399,FAC0487,Laboratory
+400,FAC0979,Antenatal Care
+401,FAC0290,Laboratory
+402,FAC0910,Pharmacy
+403,FAC0910,Immunization
+404,FAC0533,Immunization
+405,FAC0533,Pediatrics
+406,FAC0533,Antenatal Care
+407,FAC1321,Laboratory
+408,FAC1321,Pharmacy
+409,FAC1321,Immunization
+410,FAC0050,Laboratory
+411,FAC0050,Immunization
+412,FAC0238,Maternity
+413,FAC0238,Pharmacy
+414,FAC0433,Antenatal Care
+415,FAC0433,Pediatrics
+416,FAC1394,Laboratory
+417,FAC1929,Laboratory
+418,FAC1929,Immunization
+419,FAC0675,Pharmacy
+420,FAC0675,Maternity
+421,FAC1135,Antenatal Care
+422,FAC1135,General Outpatient
+423,FAC0985,Maternity
+424,FAC0985,Pediatrics
+425,FAC0742,Pediatrics
+426,FAC0742,Immunization
+427,FAC0174,Maternity
+428,FAC1235,Maternity
+429,FAC1492,Pharmacy
+430,FAC1492,Maternity
+431,FAC1376,General Outpatient
+432,FAC1690,Antenatal Care
+433,FAC1690,Pediatrics
+434,FAC1711,Antenatal Care
+435,FAC1711,Laboratory
+436,FAC1711,General Outpatient
+437,FAC2008,Laboratory
+438,FAC1853,Antenatal Care
+439,FAC1853,Immunization
+440,FAC0592,Laboratory
+441,FAC0024,Antenatal Care
+442,FAC0024,Laboratory
+443,FAC0024,General Outpatient
+444,FAC0382,Pediatrics
+445,FAC0382,Antenatal Care
+446,FAC1957,Immunization
+447,FAC1957,Pharmacy
+448,FAC0064,Laboratory
+449,FAC0064,Immunization
+450,FAC0064,Maternity
+451,FAC0807,Maternity
+452,FAC0807,Pediatrics
+453,FAC0189,Antenatal Care
+454,FAC0189,General Outpatient
+455,FAC0728,Pediatrics
+456,FAC0728,Pharmacy
+457,FAC1670,Pharmacy
+458,FAC1670,Maternity
+459,FAC1164,Maternity
+460,FAC1164,Immunization
+461,FAC1010,General Outpatient
+462,FAC1010,Antenatal Care
+463,FAC1010,Immunization
+464,FAC1803,Pharmacy
+465,FAC1803,General Outpatient
+466,FAC1803,Laboratory
+467,FAC0257,Maternity
+468,FAC0257,Antenatal Care
+469,FAC1106,General Outpatient
+470,FAC0394,Antenatal Care
+471,FAC0394,Pediatrics
+472,FAC1984,Antenatal Care
+473,FAC0355,Pediatrics
+474,FAC0355,Antenatal Care
+475,FAC1707,Laboratory
+476,FAC1707,Antenatal Care
+477,FAC1980,Laboratory
+478,FAC1980,General Outpatient
+479,FAC1132,General Outpatient
+480,FAC1132,Pharmacy
+481,FAC1748,General Outpatient
+482,FAC1748,Pediatrics
+483,FAC1748,Maternity
+484,FAC1329,Laboratory
+485,FAC0353,Laboratory
+486,FAC1533,Maternity
+487,FAC1320,Laboratory
+488,FAC0874,Immunization
+489,FAC0271,Maternity
+490,FAC0325,Antenatal Care
+491,FAC1011,Immunization
+492,FAC1587,Antenatal Care
+493,FAC1205,Laboratory
+494,FAC1205,Pediatrics
+495,FAC0026,Immunization
+496,FAC1293,Pharmacy
+497,FAC1293,Laboratory
+498,FAC1293,General Outpatient
+499,FAC0079,Pediatrics
+500,FAC1552,Immunization
+501,FAC0033,Pediatrics
+502,FAC1245,Pharmacy
+503,FAC1245,Antenatal Care
+504,FAC1245,Laboratory
+505,FAC0549,General Outpatient
+506,FAC1729,Pharmacy
+507,FAC1729,Laboratory
+508,FAC1729,Maternity
+509,FAC0428,Pharmacy
+510,FAC0164,Laboratory
+511,FAC0164,Pharmacy
+512,FAC0204,Laboratory
+513,FAC0204,General Outpatient
+514,FAC0204,Immunization
+515,FAC1996,Pediatrics
+516,FAC1256,Antenatal Care
+517,FAC1256,Pharmacy
+518,FAC1256,Pediatrics
+519,FAC0298,Immunization
+520,FAC1650,General Outpatient
+521,FAC1650,Antenatal Care
+522,FAC0863,General Outpatient
+523,FAC0863,Antenatal Care
+524,FAC0553,Pharmacy
+525,FAC0553,Antenatal Care
+526,FAC2011,Antenatal Care
+527,FAC1824,Pharmacy
+528,FAC0964,Pharmacy
+529,FAC0964,Pediatrics
+530,FAC0964,Immunization
+531,FAC1606,Laboratory
+532,FAC1606,Antenatal Care
+533,FAC1606,Pharmacy
+534,FAC1403,Laboratory
+535,FAC1403,Pharmacy
+536,FAC0219,Pediatrics
+537,FAC0219,Laboratory
+538,FAC0219,Maternity
+539,FAC1976,Pediatrics
+540,FAC1504,Maternity
+541,FAC1504,Antenatal Care
+542,FAC1339,Immunization
+543,FAC1339,Pharmacy
+544,FAC1339,Antenatal Care
+545,FAC1776,General Outpatient
+546,FAC1776,Antenatal Care
+547,FAC1610,Maternity
+548,FAC1610,Antenatal Care
+549,FAC0060,Pediatrics
+550,FAC0530,Pediatrics
+551,FAC0530,Laboratory
+552,FAC0430,Pharmacy
+553,FAC0430,Pediatrics
+554,FAC0430,Immunization
+555,FAC0074,Immunization
+556,FAC0163,General Outpatient
+557,FAC0856,Pharmacy
+558,FAC0544,Antenatal Care
+559,FAC0544,Immunization
+560,FAC0944,Pharmacy
+561,FAC1069,Pharmacy
+562,FAC1069,Laboratory
+563,FAC0615,Antenatal Care
+564,FAC0615,General Outpatient
+565,FAC1107,Pediatrics
+566,FAC0046,Antenatal Care
+567,FAC1212,Pediatrics
+568,FAC0969,Pediatrics
+569,FAC0969,Antenatal Care
+570,FAC0969,Immunization
+571,FAC1517,Pediatrics
+572,FAC1517,Antenatal Care
+573,FAC1517,Immunization
+574,FAC1545,Pediatrics
+575,FAC1545,Pharmacy
+576,FAC0077,Pediatrics
+577,FAC0077,Laboratory
+578,FAC1962,Maternity
+579,FAC1962,General Outpatient
+580,FAC1445,Pediatrics
+581,FAC1589,Pharmacy
+582,FAC0600,Laboratory
+583,FAC0600,Pharmacy
+584,FAC0600,Maternity
+585,FAC0484,Maternity
+586,FAC2027,Pediatrics
+587,FAC2027,Pharmacy
+588,FAC1441,Laboratory
+589,FAC1441,Immunization
+590,FAC1441,Pharmacy
+591,FAC0031,General Outpatient
+592,FAC0031,Maternity
+593,FAC1556,Maternity
+594,FAC1556,Pediatrics
+595,FAC1546,Pediatrics
+596,FAC1465,Pharmacy
+597,FAC0655,Maternity
+598,FAC0655,Pediatrics
+599,FAC0655,General Outpatient
+600,FAC0835,Immunization
+601,FAC1712,Pharmacy
+602,FAC1712,Maternity
+603,FAC0535,General Outpatient
+604,FAC0535,Laboratory
+605,FAC1584,Pediatrics
+606,FAC1584,Antenatal Care
+607,FAC1584,Pharmacy
+608,FAC1601,Pediatrics
+609,FAC1601,Maternity
+610,FAC1415,Pediatrics
+611,FAC1607,General Outpatient
+612,FAC1607,Laboratory
+613,FAC0045,Antenatal Care
+614,FAC0045,General Outpatient
+615,FAC1161,Pharmacy
+616,FAC1161,Laboratory
+617,FAC1161,General Outpatient
+618,FAC0169,Maternity
+619,FAC0304,Pediatrics
+620,FAC0304,General Outpatient
+621,FAC0304,Maternity
+622,FAC1628,Immunization
+623,FAC0652,Immunization
+624,FAC0652,Laboratory
+625,FAC1970,Maternity
+626,FAC1970,Immunization
+627,FAC1970,Antenatal Care
+628,FAC1991,Antenatal Care
+629,FAC1991,Pediatrics
+630,FAC1680,Antenatal Care
+631,FAC1680,Pediatrics
+632,FAC1680,Immunization
+633,FAC0931,General Outpatient
+634,FAC0931,Immunization
+635,FAC0931,Laboratory
+636,FAC0711,Pharmacy
+637,FAC0745,Pediatrics
+638,FAC1743,Maternity
+639,FAC1362,Maternity
+640,FAC1507,General Outpatient
+641,FAC1507,Maternity
+642,FAC1507,Laboratory
+643,FAC1270,Antenatal Care
+644,FAC1270,Pharmacy
+645,FAC0354,Antenatal Care
+646,FAC0354,Pediatrics
+647,FAC0354,General Outpatient
+648,FAC0367,Pediatrics
+649,FAC1413,Pharmacy
+650,FAC1413,Antenatal Care
+651,FAC1902,Pharmacy
+652,FAC0186,Pediatrics
+653,FAC0924,Pharmacy
+654,FAC0924,Maternity
+655,FAC0924,Antenatal Care
+656,FAC0439,Immunization
+657,FAC1300,Pharmacy
+658,FAC1230,Pediatrics
+659,FAC0301,General Outpatient
+660,FAC0383,Maternity
+661,FAC1048,Immunization
+662,FAC1048,Pharmacy
+663,FAC1592,Pediatrics
+664,FAC1592,Antenatal Care
+665,FAC1592,General Outpatient
+666,FAC1745,Pharmacy
+667,FAC1745,Pediatrics
+668,FAC0375,Pediatrics
+669,FAC0375,Immunization
+670,FAC1978,Antenatal Care
+671,FAC1978,Laboratory
+672,FAC1978,General Outpatient
+673,FAC1395,General Outpatient
+674,FAC1395,Antenatal Care
+675,FAC1395,Pediatrics
+676,FAC1894,Pediatrics
+677,FAC1894,General Outpatient
+678,FAC1894,Pharmacy
+679,FAC0176,Pharmacy
+680,FAC0870,Immunization
+681,FAC0870,General Outpatient
+682,FAC0870,Pediatrics
+683,FAC1201,General Outpatient
+684,FAC1201,Maternity
+685,FAC1201,Antenatal Care
+686,FAC1645,Pharmacy
+687,FAC1645,Antenatal Care
+688,FAC1645,Pediatrics
+689,FAC0124,Immunization
+690,FAC1303,Pharmacy
+691,FAC1303,Antenatal Care
+692,FAC1281,Antenatal Care
+693,FAC1692,Antenatal Care
+694,FAC1692,Pediatrics
+695,FAC0040,Pharmacy
+696,FAC0040,General Outpatient
+697,FAC0417,Pediatrics
+698,FAC1831,Pharmacy
+699,FAC1831,Antenatal Care
+700,FAC0332,Pharmacy
+701,FAC0332,Antenatal Care
+702,FAC0808,General Outpatient
+703,FAC0808,Antenatal Care
+704,FAC0808,Laboratory
+705,FAC0195,Pediatrics
+706,FAC0195,Laboratory
+707,FAC0967,Laboratory
+708,FAC1034,Laboratory
+709,FAC1034,Immunization
+710,FAC1935,Pharmacy
+711,FAC0323,Antenatal Care
+712,FAC0323,Laboratory
+713,FAC0323,General Outpatient
+714,FAC1223,Immunization
+715,FAC0267,Immunization
+716,FAC0267,Antenatal Care
+717,FAC1531,Laboratory
+718,FAC1531,General Outpatient
+719,FAC1461,Pediatrics
+720,FAC0068,Maternity
+721,FAC0068,Pediatrics
+722,FAC0068,Antenatal Care
+723,FAC1697,General Outpatient
+724,FAC1697,Laboratory
+725,FAC1674,Laboratory
+726,FAC1674,Maternity
+727,FAC1674,Pharmacy
+728,FAC0820,Immunization
+729,FAC0820,General Outpatient
+730,FAC1948,Antenatal Care
+731,FAC1948,General Outpatient
+732,FAC1948,Maternity
+733,FAC1519,Antenatal Care
+734,FAC1965,Pharmacy
+735,FAC1442,Antenatal Care
+736,FAC0893,Immunization
+737,FAC0893,Pharmacy
+738,FAC0568,Antenatal Care
+739,FAC0568,Laboratory
+740,FAC0923,Maternity
+741,FAC0923,Antenatal Care
+742,FAC1577,Maternity
+743,FAC1577,Antenatal Care
+744,FAC1577,Laboratory
+745,FAC1669,Immunization
+746,FAC1669,Pharmacy
+747,FAC1669,Maternity
+748,FAC0887,Pediatrics
+749,FAC0508,Pediatrics
+750,FAC0508,Immunization
+751,FAC0987,Laboratory
+752,FAC0987,General Outpatient
+753,FAC1386,Pharmacy
+754,FAC1386,Pediatrics
+755,FAC1857,Immunization
+756,FAC1857,Pharmacy
+757,FAC1857,Antenatal Care
+758,FAC1564,Antenatal Care
+759,FAC1613,Antenatal Care
+760,FAC1613,Pediatrics
+761,FAC1613,Pharmacy
+762,FAC1695,Laboratory
+763,FAC1695,Immunization
+764,FAC1695,Antenatal Care
+765,FAC0483,Pediatrics
+766,FAC0483,Maternity
+767,FAC0757,Immunization
+768,FAC0556,Maternity
+769,FAC0556,Antenatal Care
+770,FAC0716,Pediatrics
+771,FAC0734,Pharmacy
+772,FAC0734,Antenatal Care
+773,FAC0949,Pharmacy
+774,FAC0949,Laboratory
+775,FAC0262,Antenatal Care
+776,FAC0479,Maternity
+777,FAC1007,Immunization
+778,FAC1007,Pediatrics
+779,FAC1007,General Outpatient
+780,FAC0241,General Outpatient
+781,FAC0241,Immunization
+782,FAC1840,General Outpatient
+783,FAC1840,Pharmacy
+784,FAC0846,Antenatal Care
+785,FAC1119,General Outpatient
+786,FAC1166,Laboratory
+787,FAC1166,Pediatrics
+788,FAC1481,Immunization
+789,FAC1481,Pharmacy
+790,FAC0573,Pharmacy
+791,FAC0573,General Outpatient
+792,FAC0366,Laboratory
+793,FAC0366,Pharmacy
+794,FAC1647,Antenatal Care
+795,FAC1647,Pediatrics
+796,FAC1647,Laboratory
+797,FAC1836,General Outpatient
+798,FAC1836,Immunization
+799,FAC1836,Laboratory
+800,FAC0612,Pharmacy
+801,FAC1288,Maternity
+802,FAC1288,Pharmacy
+803,FAC1570,Antenatal Care
+804,FAC0782,Laboratory
+805,FAC0072,Antenatal Care
+806,FAC1700,Pharmacy
+807,FAC0260,General Outpatient
+808,FAC0260,Laboratory
+809,FAC0052,Laboratory
+810,FAC0052,General Outpatient
+811,FAC0199,Pediatrics
+812,FAC0199,Laboratory
+813,FAC1789,Maternity
+814,FAC1789,Laboratory
+815,FAC1264,Antenatal Care
+816,FAC1264,Immunization
+817,FAC1264,Maternity
+818,FAC0333,Maternity
+819,FAC1388,Immunization
+820,FAC1658,Immunization
+821,FAC1658,Pharmacy
+822,FAC1848,Antenatal Care
+823,FAC0694,Maternity
+824,FAC0694,Laboratory
+825,FAC0694,Antenatal Care
+826,FAC1527,Antenatal Care
+827,FAC1527,Pediatrics
+828,FAC0495,Laboratory
+829,FAC1356,Pediatrics
+830,FAC1356,Pharmacy
+831,FAC0916,Maternity
+832,FAC0916,General Outpatient
+833,FAC0916,Antenatal Care
+834,FAC1425,Immunization
+835,FAC1425,Pediatrics
+836,FAC0427,Pharmacy
+837,FAC0427,Pediatrics
+838,FAC0589,Laboratory
+839,FAC0589,Pediatrics
+840,FAC1842,Antenatal Care
+841,FAC0614,General Outpatient
+842,FAC0614,Maternity
+843,FAC1408,Immunization
+844,FAC1408,Pediatrics
+845,FAC0788,Pediatrics
+846,FAC0788,Pharmacy
+847,FAC0788,Laboratory
+848,FAC2022,Laboratory
+849,FAC1341,Pediatrics
+850,FAC1341,General Outpatient
+851,FAC1085,Laboratory
+852,FAC1085,Pharmacy
+853,FAC1085,General Outpatient
+854,FAC0399,Pharmacy
+855,FAC0399,Antenatal Care
+856,FAC0399,Pediatrics
+857,FAC1248,Immunization
+858,FAC0463,Maternity
+859,FAC0463,Pharmacy
+860,FAC0437,Immunization
+861,FAC0193,Pharmacy
+862,FAC0193,Laboratory
+863,FAC1466,Pharmacy
+864,FAC0789,Pharmacy
+865,FAC0293,Pediatrics
+866,FAC1572,General Outpatient
+867,FAC1572,Immunization
+868,FAC1985,Pharmacy
+869,FAC1985,Maternity
+870,FAC1960,Pediatrics
+871,FAC0906,Pharmacy
+872,FAC0906,Antenatal Care
+873,FAC1269,Maternity
+874,FAC0142,Laboratory
+875,FAC0941,Pediatrics
+876,FAC0941,Immunization
+877,FAC0941,Pharmacy
+878,FAC0003,Laboratory
+879,FAC0003,Maternity
+880,FAC1668,Laboratory
+881,FAC1668,Antenatal Care
+882,FAC0713,Pharmacy
+883,FAC0713,Pediatrics
+884,FAC1914,Antenatal Care
+885,FAC1597,Maternity
+886,FAC0340,Laboratory
+887,FAC1770,Laboratory
+888,FAC1770,Immunization
+889,FAC0409,General Outpatient
+890,FAC0409,Antenatal Care
+891,FAC0515,Pediatrics
+892,FAC0266,General Outpatient
+893,FAC0266,Antenatal Care
+894,FAC0266,Pediatrics
+895,FAC0377,Immunization
+896,FAC0377,Antenatal Care
+897,FAC1657,General Outpatient
+898,FAC1657,Pharmacy
+899,FAC1499,Antenatal Care
+900,FAC0440,Immunization
+901,FAC0272,Pediatrics
+902,FAC0272,Immunization
+903,FAC0272,Maternity
+904,FAC0185,Pharmacy
+905,FAC2000,Pharmacy
+906,FAC2000,Pediatrics
+907,FAC0245,General Outpatient
+908,FAC0245,Maternity
+909,FAC2007,General Outpatient
+910,FAC0545,Antenatal Care
+911,FAC0545,General Outpatient
+912,FAC0528,Maternity
+913,FAC0446,Maternity
+914,FAC0446,Antenatal Care
+915,FAC0446,Pharmacy
+916,FAC0620,Pharmacy
+917,FAC0620,Laboratory
+918,FAC1336,Antenatal Care
+919,FAC1336,Immunization
+920,FAC1336,Maternity
+921,FAC1424,Pharmacy
+922,FAC1424,General Outpatient
+923,FAC1488,Immunization
+924,FAC1488,Antenatal Care
+925,FAC1344,General Outpatient
+926,FAC1344,Pharmacy
+927,FAC0818,Maternity
+928,FAC0818,Antenatal Care
+929,FAC0707,Maternity
+930,FAC0707,Pediatrics
+931,FAC0416,Pharmacy
+932,FAC0274,Immunization
+933,FAC0274,Pharmacy
+934,FAC0758,General Outpatient
+935,FAC0758,Antenatal Care
+936,FAC0251,Maternity
+937,FAC0251,General Outpatient
+938,FAC0414,General Outpatient
+939,FAC0414,Pharmacy
+940,FAC1335,Pharmacy
+941,FAC0311,General Outpatient
+942,FAC0311,Laboratory
+943,FAC0311,Pediatrics
+944,FAC1612,Maternity
+945,FAC0582,Maternity
+946,FAC0582,General Outpatient
+947,FAC0582,Immunization
+948,FAC0426,Immunization
+949,FAC1919,Laboratory
+950,FAC0986,Pediatrics
+951,FAC1888,Laboratory
+952,FAC1384,General Outpatient
+953,FAC1384,Pediatrics
+954,FAC1384,Maternity
+955,FAC0721,Immunization
+956,FAC1826,Laboratory
+957,FAC1826,Maternity
+958,FAC0571,Pharmacy
+959,FAC0527,Maternity
+960,FAC0586,Pediatrics
+961,FAC1134,Immunization
+962,FAC0183,General Outpatient
+963,FAC0183,Maternity
+964,FAC0171,General Outpatient
+965,FAC0171,Maternity
+966,FAC0585,Immunization
+967,FAC0585,General Outpatient
+968,FAC0611,Antenatal Care
+969,FAC1921,Laboratory
+970,FAC1921,Pediatrics
+971,FAC1687,Immunization
+972,FAC1687,General Outpatient
+973,FAC1687,Antenatal Care
+974,FAC1526,Maternity
+975,FAC1526,Immunization
+976,FAC1526,General Outpatient
+977,FAC1615,Pediatrics
+978,FAC1615,Antenatal Care
+979,FAC1615,General Outpatient
+980,FAC0273,Antenatal Care
+981,FAC1583,Antenatal Care
+982,FAC1583,Pharmacy
+983,FAC1525,Antenatal Care
+984,FAC0938,General Outpatient
+985,FAC0938,Laboratory
+986,FAC0372,Immunization
+987,FAC0372,Maternity
+988,FAC0223,Maternity
+989,FAC1062,Immunization
+990,FAC1062,Pharmacy
+991,FAC0584,Immunization
+992,FAC0584,Pharmacy
+993,FAC0584,Pediatrics
+994,FAC1808,Immunization
+995,FAC1808,Laboratory
+996,FAC0519,Antenatal Care
+997,FAC0519,Immunization
+998,FAC0335,Antenatal Care
+999,FAC0335,General Outpatient
+1000,FAC0335,Pharmacy
+1001,FAC0722,Pharmacy
+1002,FAC0722,Maternity
+1003,FAC0722,Antenatal Care
+1004,FAC1193,Maternity
+1005,FAC1193,Antenatal Care
+1006,FAC1076,Laboratory
+1007,FAC1076,Antenatal Care
+1008,FAC1684,Antenatal Care
+1009,FAC1684,Pharmacy
+1010,FAC0016,Pediatrics
+1011,FAC1491,Pediatrics
+1012,FAC1491,Pharmacy
+1013,FAC2020,Pediatrics
+1014,FAC2020,Maternity
+1015,FAC1573,General Outpatient
+1016,FAC1573,Laboratory
+1017,FAC1915,General Outpatient
+1018,FAC1180,General Outpatient
+1019,FAC1180,Pharmacy
+1020,FAC0939,Laboratory
+1021,FAC0939,Maternity
+1022,FAC0466,General Outpatient
+1023,FAC0466,Immunization
+1024,FAC0466,Pharmacy
+1025,FAC0953,Pediatrics
+1026,FAC0953,Pharmacy
+1027,FAC0953,General Outpatient
+1028,FAC0200,Pediatrics
+1029,FAC0200,Pharmacy
+1030,FAC1233,Laboratory
+1031,FAC1233,Pharmacy
+1032,FAC1112,Pediatrics
+1033,FAC1158,Pediatrics
+1034,FAC1158,Laboratory
+1035,FAC1158,General Outpatient
+1036,FAC1702,Immunization
+1037,FAC1702,Maternity
+1038,FAC1702,Pharmacy
+1039,FAC0880,Maternity
+1040,FAC0880,General Outpatient
+1041,FAC1311,Laboratory
+1042,FAC1311,Immunization
+1043,FAC1950,General Outpatient
+1044,FAC1950,Pediatrics
+1045,FAC1681,Maternity
+1046,FAC1681,Antenatal Care
+1047,FAC1681,Immunization
+1048,FAC1361,Immunization
+1049,FAC1361,Pharmacy
+1050,FAC1361,Laboratory
+1051,FAC0695,Immunization
+1052,FAC0591,General Outpatient
+1053,FAC0591,Maternity
+1054,FAC0044,Pharmacy
+1055,FAC0044,Pediatrics
+1056,FAC0275,Pediatrics
+1057,FAC0275,General Outpatient
+1058,FAC1222,Laboratory
+1059,FAC0102,Immunization
+1060,FAC0904,General Outpatient
+1061,FAC0904,Maternity
+1062,FAC0756,General Outpatient
+1063,FAC0999,Maternity
+1064,FAC0999,Antenatal Care
+1065,FAC0999,Pharmacy
+1066,FAC0108,Pediatrics
+1067,FAC0108,Maternity
+1068,FAC1351,Pediatrics
+1069,FAC1351,Pharmacy
+1070,FAC0498,Laboratory
+1071,FAC0498,Immunization
+1072,FAC2026,General Outpatient
+1073,FAC2026,Laboratory
+1074,FAC2026,Maternity
+1075,FAC0917,Laboratory
+1076,FAC1272,General Outpatient
+1077,FAC1272,Pharmacy
+1078,FAC1272,Laboratory
+1079,FAC1125,Antenatal Care
+1080,FAC1125,Pharmacy
+1081,FAC1133,Antenatal Care
+1082,FAC1133,Immunization
+1083,FAC1325,Antenatal Care
+1084,FAC1325,Pediatrics
+1085,FAC1717,Laboratory
+1086,FAC0618,General Outpatient
+1087,FAC0618,Pediatrics
+1088,FAC0618,Antenatal Care
+1089,FAC0073,Pediatrics
+1090,FAC0781,Antenatal Care
+1091,FAC0781,Immunization
+1092,FAC0781,Pediatrics
+1093,FAC1241,Maternity
+1094,FAC1194,Immunization
+1095,FAC1194,General Outpatient
+1096,FAC1515,Maternity
+1097,FAC0482,Maternity
+1098,FAC0482,Laboratory
+1099,FAC1369,Pediatrics
+1100,FAC1369,Laboratory
+1101,FAC0507,General Outpatient
+1102,FAC0702,Pharmacy
+1103,FAC0702,Antenatal Care
+1104,FAC0830,Maternity
+1105,FAC2035,Immunization
+1106,FAC2035,Pharmacy
+1107,FAC0768,Immunization
+1108,FAC1652,Laboratory
+1109,FAC1652,Pharmacy
+1110,FAC1652,Pediatrics
+1111,FAC1443,Antenatal Care
+1112,FAC0312,Antenatal Care
+1113,FAC0860,Antenatal Care
+1114,FAC0406,Laboratory
+1115,FAC0951,Immunization
+1116,FAC0951,Antenatal Care
+1117,FAC1170,Antenatal Care
+1118,FAC1170,Pharmacy
+1119,FAC1170,Laboratory
+1120,FAC0310,General Outpatient
+1121,FAC0310,Antenatal Care
+1122,FAC0227,Pediatrics
+1123,FAC1736,Laboratory
+1124,FAC0737,Antenatal Care
+1125,FAC0737,Pharmacy
+1126,FAC0737,Pediatrics
+1127,FAC1562,Antenatal Care
+1128,FAC0858,Maternity
+1129,FAC0825,Immunization
+1130,FAC0825,Antenatal Care
+1131,FAC0149,General Outpatient
+1132,FAC0149,Antenatal Care
+1133,FAC0149,Pediatrics
+1134,FAC0651,Maternity
+1135,FAC0651,Pediatrics
+1136,FAC1510,General Outpatient
+1137,FAC1724,Pharmacy
+1138,FAC1724,General Outpatient
+1139,FAC1724,Immunization
+1140,FAC1987,Maternity
+1141,FAC1987,Pediatrics
+1142,FAC1987,Pharmacy
+1143,FAC1897,Maternity
+1144,FAC0576,Maternity
+1145,FAC0558,Maternity
+1146,FAC0558,Laboratory
+1147,FAC1304,Maternity
+1148,FAC1304,Pharmacy
+1149,FAC1304,General Outpatient
+1150,FAC1182,Laboratory
+1151,FAC1375,Antenatal Care
+1152,FAC1375,Immunization
+1153,FAC1188,Antenatal Care
+1154,FAC1188,Pharmacy
+1155,FAC1188,Immunization
+1156,FAC1801,Pediatrics
+1157,FAC1801,Pharmacy
+1158,FAC1801,Laboratory
+1159,FAC1942,Antenatal Care
+1160,FAC0287,Antenatal Care
+1161,FAC2037,Pharmacy
+1162,FAC2037,Pediatrics
+1163,FAC0766,Immunization
+1164,FAC0766,General Outpatient
+1165,FAC0629,Immunization
+1166,FAC0629,General Outpatient
+1167,FAC0599,Antenatal Care
+1168,FAC0599,Laboratory
+1169,FAC1271,General Outpatient
+1170,FAC1306,Laboratory
+1171,FAC1306,Pediatrics
+1172,FAC1672,Pharmacy
+1173,FAC1621,Immunization
+1174,FAC1064,Immunization
+1175,FAC1064,Antenatal Care
+1176,FAC1064,Pharmacy
+1177,FAC1279,Immunization
+1178,FAC1279,Pharmacy
+1179,FAC1279,General Outpatient
+1180,FAC0837,Laboratory
+1181,FAC0837,Immunization
+1182,FAC0940,Pediatrics
+1183,FAC0775,Antenatal Care
+1184,FAC0775,Immunization
+1185,FAC0775,Maternity
+1186,FAC1231,Antenatal Care
+1187,FAC1827,Laboratory
+1188,FAC0610,Pharmacy
+1189,FAC0610,General Outpatient
+1190,FAC1068,Pharmacy
+1191,FAC1068,Maternity
+1192,FAC1068,General Outpatient
+1193,FAC1226,Pharmacy
+1194,FAC1453,Antenatal Care
+1195,FAC1453,Immunization
+1196,FAC1038,Immunization
+1197,FAC1038,Maternity
+1198,FAC1038,Pediatrics
+1199,FAC0494,Pediatrics
+1200,FAC0494,Antenatal Care
+1201,FAC1348,Laboratory
+1202,FAC1348,Pediatrics
+1203,FAC0278,General Outpatient
+1204,FAC0278,Pharmacy
+1205,FAC0278,Pediatrics
+1206,FAC1890,Pediatrics
+1207,FAC0359,Immunization
+1208,FAC1780,Pediatrics
+1209,FAC1780,Laboratory
+1210,FAC0237,Laboratory
+1211,FAC0237,Maternity
+1212,FAC0237,Pediatrics
+1213,FAC0552,Immunization
+1214,FAC1911,Pediatrics
+1215,FAC0933,Pharmacy
+1216,FAC0933,Laboratory
+1217,FAC0209,Maternity
+1218,FAC0209,Immunization
+1219,FAC1631,Pediatrics
+1220,FAC1594,Antenatal Care
+1221,FAC1594,Pharmacy
+1222,FAC1594,Pediatrics
+1223,FAC0059,Pharmacy
+1224,FAC0632,General Outpatient
+1225,FAC0632,Pharmacy
+1226,FAC0632,Antenatal Care
+1227,FAC1618,Pediatrics
+1228,FAC1618,General Outpatient
+1229,FAC1618,Laboratory
+1230,FAC1903,Maternity
+1231,FAC1903,Laboratory
+1232,FAC1611,Laboratory
+1233,FAC1611,Antenatal Care
+1234,FAC0364,Maternity
+1235,FAC0506,Maternity
+1236,FAC1721,Pediatrics
+1237,FAC1737,Immunization
+1238,FAC1638,Laboratory
+1239,FAC1638,Pharmacy
+1240,FAC1638,Immunization
+1241,FAC1243,Pharmacy
+1242,FAC0875,Laboratory
+1243,FAC0875,Immunization
+1244,FAC1023,Immunization
+1245,FAC1030,Maternity
+1246,FAC1030,Laboratory
+1247,FAC0119,Laboratory
+1248,FAC1713,Laboratory
+1249,FAC1713,Maternity
+1250,FAC1713,Antenatal Care
+1251,FAC1252,Antenatal Care
+1252,FAC0523,Pharmacy
+1253,FAC0523,Laboratory
+1254,FAC0514,Antenatal Care
+1255,FAC0082,Pediatrics
+1256,FAC0082,Pharmacy
+1257,FAC0082,Antenatal Care
+1258,FAC1346,Immunization
+1259,FAC1382,Pediatrics
+1260,FAC0381,Laboratory
+1261,FAC0381,Maternity
+1262,FAC1053,Pharmacy
+1263,FAC1053,Immunization
+1264,FAC1932,Antenatal Care
+1265,FAC1932,Pediatrics
+1266,FAC0085,Immunization
+1267,FAC0085,Laboratory
+1268,FAC1856,Maternity
+1269,FAC1856,Laboratory
+1270,FAC1006,Maternity
+1271,FAC1006,Pediatrics
+1272,FAC1006,General Outpatient
+1273,FAC0330,Laboratory
+1274,FAC0330,Pediatrics
+1275,FAC0007,General Outpatient
+1276,FAC0007,Pharmacy
+1277,FAC0007,Immunization
+1278,FAC0773,Pediatrics
+1279,FAC0786,Laboratory
+1280,FAC0950,Pediatrics
+1281,FAC1246,Immunization
+1282,FAC1246,Maternity
+1283,FAC0452,General Outpatient
+1284,FAC0452,Maternity
+1285,FAC0491,Pediatrics
+1286,FAC0491,General Outpatient
+1287,FAC1958,General Outpatient
+1288,FAC1958,Antenatal Care
+1289,FAC0288,Pediatrics
+1290,FAC0288,Maternity
+1291,FAC0288,Antenatal Care
+1292,FAC0975,Pediatrics
+1293,FAC2031,General Outpatient
+1294,FAC1794,General Outpatient
+1295,FAC1794,Pharmacy
+1296,FAC1447,Laboratory
+1297,FAC1447,Maternity
+1298,FAC1767,General Outpatient
+1299,FAC1207,Laboratory
+1300,FAC1207,Antenatal Care
+1301,FAC1739,Laboratory
+1302,FAC1787,Antenatal Care
+1303,FAC1787,Immunization
+1304,FAC1671,General Outpatient
+1305,FAC0977,Pediatrics
+1306,FAC1113,Laboratory
+1307,FAC2025,Immunization
+1308,FAC0328,Immunization
+1309,FAC0328,Antenatal Care
+1310,FAC0328,General Outpatient
+1311,FAC0443,Maternity
+1312,FAC0443,Pediatrics
+1313,FAC0803,General Outpatient
+1314,FAC1104,Antenatal Care
+1315,FAC1792,Antenatal Care
+1316,FAC1792,General Outpatient
+1317,FAC1792,Pharmacy
+1318,FAC1340,Immunization
+1319,FAC1340,Laboratory
+1320,FAC0178,Pharmacy
+1321,FAC0765,Immunization
+1322,FAC0765,Maternity
+1323,FAC0765,Pharmacy
+1324,FAC0731,Antenatal Care
+1325,FAC0731,General Outpatient
+1326,FAC0087,Pediatrics
+1327,FAC0087,Maternity
+1328,FAC0087,Immunization
+1329,FAC1714,Maternity
+1330,FAC1714,Pharmacy
+1331,FAC1944,Immunization
+1332,FAC0458,General Outpatient
+1333,FAC0458,Immunization
+1334,FAC1871,Immunization
+1335,FAC1871,Laboratory
+1336,FAC1871,Pharmacy
+1337,FAC0055,Antenatal Care
+1338,FAC1727,General Outpatient
+1339,FAC1727,Pharmacy
+1340,FAC0644,Pediatrics
+1341,FAC0644,Laboratory
+1342,FAC0678,Pediatrics
+1343,FAC0222,Pediatrics
+1344,FAC0114,Pharmacy
+1345,FAC1419,Laboratory
+1346,FAC1816,Pharmacy
+1347,FAC1816,Pediatrics
+1348,FAC1816,Maternity
+1349,FAC1088,Pediatrics
+1350,FAC0175,Pediatrics
+1351,FAC0175,Pharmacy
+1352,FAC0175,Maternity
+1353,FAC0810,Pharmacy
+1354,FAC0810,Antenatal Care
+1355,FAC0590,Laboratory
+1356,FAC1593,General Outpatient
+1357,FAC0019,General Outpatient
+1358,FAC0019,Pediatrics
+1359,FAC0424,General Outpatient
+1360,FAC1371,General Outpatient
+1361,FAC0286,Pediatrics
+1362,FAC0286,Immunization
+1363,FAC1617,Laboratory
+1364,FAC1617,Immunization
+1365,FAC0429,Pediatrics
+1366,FAC0429,General Outpatient
+1367,FAC1543,Pediatrics
+1368,FAC0778,Laboratory
+1369,FAC0778,General Outpatient
+1370,FAC0670,Pediatrics
+1371,FAC0670,General Outpatient
+1372,FAC0032,Antenatal Care
+1373,FAC0032,Laboratory
+1374,FAC1781,Antenatal Care
+1375,FAC1781,Pediatrics
+1376,FAC0723,Antenatal Care
+1377,FAC1462,Pediatrics
+1378,FAC1462,Immunization
+1379,FAC0215,Laboratory
+1380,FAC0215,General Outpatient
+1381,FAC1648,General Outpatient
+1382,FAC1648,Antenatal Care
+1383,FAC1273,Laboratory
+1384,FAC1273,Maternity
+1385,FAC1273,Immunization
+1386,FAC0327,Pediatrics
+1387,FAC0327,General Outpatient
+1388,FAC0561,Pediatrics
+1389,FAC1139,Pediatrics
+1390,FAC1139,Antenatal Care
+1391,FAC0701,Pharmacy
+1392,FAC0701,Antenatal Care
+1393,FAC0701,Maternity
+1394,FAC0988,Pediatrics
+1395,FAC0988,Antenatal Care
+1396,FAC1624,Pharmacy
+1397,FAC0342,Immunization
+1398,FAC0342,Antenatal Care
+1399,FAC0630,Pharmacy
+1400,FAC0630,General Outpatient
+1401,FAC0148,Pharmacy
+1402,FAC1224,Pediatrics
+1403,FAC1224,Immunization
+1404,FAC0361,General Outpatient
+1405,FAC0084,Laboratory
+1406,FAC0049,Pharmacy
+1407,FAC0049,Antenatal Care
+1408,FAC0049,General Outpatient
+1409,FAC0469,General Outpatient
+1410,FAC0156,Laboratory
+1411,FAC1663,Pediatrics
+1412,FAC1663,Antenatal Care
+1413,FAC1055,General Outpatient
+1414,FAC1055,Immunization
+1415,FAC1055,Maternity
+1416,FAC1227,Pediatrics
+1417,FAC1227,Laboratory
+1418,FAC1433,Laboratory
+1419,FAC1433,General Outpatient
+1420,FAC1229,Maternity
+1421,FAC1229,Immunization
+1422,FAC1229,Pediatrics
+1423,FAC1665,Pediatrics
+1424,FAC1665,Pharmacy
+1425,FAC0501,Maternity
+1426,FAC0501,General Outpatient
+1427,FAC1804,Pharmacy
+1428,FAC0180,Antenatal Care
+1429,FAC1476,Antenatal Care
+1430,FAC1476,Immunization
+1431,FAC1476,General Outpatient
+1432,FAC1795,Laboratory
+1433,FAC1795,Pediatrics
+1434,FAC0813,Maternity
+1435,FAC0813,Immunization
+1436,FAC1469,Pharmacy
+1437,FAC1469,Antenatal Care
+1438,FAC1183,General Outpatient
+1439,FAC1654,Laboratory
+1440,FAC0529,Antenatal Care
+1441,FAC0347,Pharmacy
+1442,FAC1418,General Outpatient
+1443,FAC1418,Pharmacy
+1444,FAC2006,Pharmacy
+1445,FAC2006,Pediatrics
+1446,FAC1051,Immunization
+1447,FAC2018,Pediatrics
+1448,FAC2018,Laboratory
+1449,FAC2018,Maternity
+1450,FAC1081,Laboratory
+1451,FAC0602,Immunization
+1452,FAC0602,Maternity
+1453,FAC1623,Maternity
+1454,FAC0244,Maternity
+1455,FAC0926,General Outpatient
+1456,FAC0926,Pediatrics
+1457,FAC1092,Immunization
+1458,FAC1092,Pediatrics
+1459,FAC1092,Antenatal Care
+1460,FAC1508,Maternity
+1461,FAC1508,Immunization
+1462,FAC1508,General Outpatient
+1463,FAC0313,Pediatrics
+1464,FAC0436,Pharmacy
+1465,FAC0436,Laboratory
+1466,FAC1943,Immunization
+1467,FAC1943,Antenatal Care
+1468,FAC1420,Laboratory
+1469,FAC1420,Immunization
+1470,FAC0309,Maternity
+1471,FAC0431,Pharmacy
+1472,FAC0431,General Outpatient
+1473,FAC0661,Antenatal Care
+1474,FAC0661,Pharmacy
+1475,FAC0371,Pediatrics
+1476,FAC0371,Maternity
+1477,FAC0371,Immunization
+1478,FAC0567,Maternity
+1479,FAC0567,Laboratory
+1480,FAC0567,Antenatal Care
+1481,FAC1019,Laboratory
+1482,FAC1019,General Outpatient
+1483,FAC1019,Pharmacy
+1484,FAC0182,Maternity
+1485,FAC0182,Pediatrics
+1486,FAC0182,Laboratory
+1487,FAC1005,Pediatrics
+1488,FAC0622,Pediatrics
+1489,FAC0850,Pediatrics
+1490,FAC0850,General Outpatient
+1491,FAC0850,Laboratory
+1492,FAC1656,Pharmacy
+1493,FAC0991,Pediatrics
+1494,FAC0991,Maternity
+1495,FAC0991,Laboratory
+1496,FAC0814,Immunization
+1497,FAC0814,General Outpatient
+1498,FAC0814,Laboratory
+1499,FAC1966,Immunization
+1500,FAC1883,Maternity
+1501,FAC1883,Laboratory
+1502,FAC1883,Immunization
+1503,FAC1473,Pediatrics
+1504,FAC1473,Immunization
+1505,FAC1473,General Outpatient
+1506,FAC1343,General Outpatient
+1507,FAC0297,Pharmacy
+1508,FAC0937,Pediatrics
+1509,FAC0937,Pharmacy
+1510,FAC0937,Maternity
+1511,FAC0462,Antenatal Care
+1512,FAC0462,Immunization
+1513,FAC0462,General Outpatient
+1514,FAC1330,Pharmacy
+1515,FAC1330,Immunization
+1516,FAC1203,Pharmacy
+1517,FAC1203,Pediatrics
+1518,FAC0378,Maternity
+1519,FAC0378,Pharmacy
+1520,FAC0799,Pediatrics
+1521,FAC0799,Antenatal Care
+1522,FAC1129,Pharmacy
+1523,FAC0106,Maternity
+1524,FAC0127,Antenatal Care
+1525,FAC0127,Laboratory
+1526,FAC1014,Maternity
+1527,FAC1014,Pediatrics
+1528,FAC1352,Maternity
+1529,FAC1352,Pediatrics
+1530,FAC1352,Pharmacy
+1531,FAC1718,Antenatal Care
+1532,FAC1718,Maternity
+1533,FAC0356,Immunization
+1534,FAC0356,Laboratory
+1535,FAC1651,Pediatrics
+1536,FAC0683,Antenatal Care
+1537,FAC1342,Pediatrics
+1538,FAC1889,Maternity
+1539,FAC1889,Laboratory
+1540,FAC0907,General Outpatient
+1541,FAC0210,Antenatal Care
+1542,FAC0210,Immunization
+1543,FAC1001,Maternity
+1544,FAC1001,Laboratory
+1545,FAC0141,Immunization
+1546,FAC0141,Pharmacy
+1547,FAC1468,Maternity
+1548,FAC1468,Laboratory
+1549,FAC1367,Immunization
+1550,FAC1367,Antenatal Care
+1551,FAC1084,Pediatrics
+1552,FAC1084,Antenatal Care
+1553,FAC1608,General Outpatient
+1554,FAC1122,Immunization
+1555,FAC1122,Antenatal Care
+1556,FAC1232,Maternity
+1557,FAC0927,Pediatrics
+1558,FAC0927,General Outpatient
+1559,FAC0927,Pharmacy
+1560,FAC0712,Antenatal Care
+1561,FAC0712,Immunization
+1562,FAC1294,Pediatrics
+1563,FAC1294,Immunization
+1564,FAC1138,Laboratory
+1565,FAC0888,Antenatal Care
+1566,FAC1305,Pediatrics
+1567,FAC0011,Laboratory
+1568,FAC0011,Antenatal Care
+1569,FAC1732,General Outpatient
+1570,FAC1732,Antenatal Care
+1571,FAC1314,Immunization
+1572,FAC0283,Maternity
+1573,FAC0283,Pediatrics
+1574,FAC0283,Immunization
+1575,FAC0811,General Outpatient
+1576,FAC0811,Antenatal Care
+1577,FAC1117,Antenatal Care
+1578,FAC1117,Immunization
+1579,FAC1117,Pediatrics
+1580,FAC0292,Pharmacy
+1581,FAC0292,Immunization
+1582,FAC0292,General Outpatient
+1583,FAC0755,General Outpatient
+1584,FAC0627,Pediatrics
+1585,FAC0627,Laboratory
+1586,FAC1855,Pediatrics
+1587,FAC1855,Maternity
+1588,FAC1855,Pharmacy
+1589,FAC1494,Immunization
+1590,FAC1494,Antenatal Care
+1591,FAC1494,Laboratory
+1592,FAC0130,General Outpatient
+1593,FAC1495,Maternity
+1594,FAC0844,Laboratory
+1595,FAC0844,Antenatal Care
+1596,FAC0324,Antenatal Care
+1597,FAC0324,Maternity
+1598,FAC0324,Immunization
+1599,FAC1115,Maternity
+1600,FAC1115,Pediatrics
+1601,FAC1115,Immunization
+1602,FAC1035,Maternity
+1603,FAC1035,Antenatal Care
+1604,FAC1002,Pharmacy
+1605,FAC1002,Pediatrics
+1606,FAC1002,Immunization
+1607,FAC1908,Immunization
+1608,FAC1908,Laboratory
+1609,FAC0901,Antenatal Care
+1610,FAC0901,Pharmacy
+1611,FAC0901,Immunization
+1612,FAC0908,Antenatal Care
+1613,FAC0908,General Outpatient
+1614,FAC0696,Pediatrics
+1615,FAC0696,Pharmacy
+1616,FAC0216,Antenatal Care
+1617,FAC1056,Pediatrics
+1618,FAC1056,Pharmacy
+1619,FAC1056,General Outpatient
+1620,FAC1358,Antenatal Care
+1621,FAC1358,Pediatrics
+1622,FAC1358,Immunization
+1623,FAC1289,Maternity
+1624,FAC1289,Pharmacy
+1625,FAC1289,General Outpatient
+1626,FAC0159,Antenatal Care
+1627,FAC0159,Maternity
+1628,FAC0159,Immunization
+1629,FAC2005,Laboratory
+1630,FAC2005,Antenatal Care
+1631,FAC2005,Maternity
+1632,FAC1274,General Outpatient
+1633,FAC1830,Pharmacy
+1634,FAC1830,General Outpatient
+1635,FAC1830,Maternity
+1636,FAC0842,Antenatal Care
+1637,FAC0635,Antenatal Care
+1638,FAC0635,Maternity
+1639,FAC0517,Pharmacy
+1640,FAC0517,Maternity
+1641,FAC2032,Immunization
+1642,FAC2032,Laboratory
+1643,FAC1554,Laboratory
+1644,FAC1554,Pharmacy
+1645,FAC0598,Pharmacy
+1646,FAC0196,Immunization
+1647,FAC1678,Immunization
+1648,FAC0905,Pharmacy
+1649,FAC0905,Antenatal Care
+1650,FAC0411,Antenatal Care
+1651,FAC0411,Pediatrics
+1652,FAC0411,Maternity
+1653,FAC0097,Immunization
+1654,FAC0097,Pediatrics
+1655,FAC0441,Pediatrics
+1656,FAC0441,Pharmacy
+1657,FAC0441,Laboratory
+1658,FAC1506,Antenatal Care
+1659,FAC1506,Maternity
+1660,FAC1506,Pharmacy
+1661,FAC0157,Immunization
+1662,FAC0157,Pediatrics
+1663,FAC0420,Pediatrics
+1664,FAC1845,Pharmacy
+1665,FAC1845,Maternity
+1666,FAC0478,Pediatrics
+1667,FAC0478,Antenatal Care
+1668,FAC1899,Immunization
+1669,FAC1899,Pharmacy
+1670,FAC0669,Pediatrics
+1671,FAC0669,General Outpatient
+1672,FAC1783,Pharmacy
+1673,FAC1783,Immunization
+1674,FAC1783,Antenatal Care
+1675,FAC1916,Laboratory
+1676,FAC1916,Pediatrics
+1677,FAC1327,Pediatrics
+1678,FAC0448,Pediatrics
+1679,FAC0554,Pediatrics
+1680,FAC0179,Pharmacy
+1681,FAC0179,Pediatrics
+1682,FAC0391,Maternity
+1683,FAC0391,Laboratory
+1684,FAC0579,Pediatrics
+1685,FAC0579,Immunization
+1686,FAC0579,Laboratory
+1687,FAC1037,General Outpatient
+1688,FAC1744,Pharmacy
+1689,FAC1744,Immunization
+1690,FAC1744,Maternity
+1691,FAC1315,General Outpatient
+1692,FAC1986,Maternity
+1693,FAC1986,Pharmacy
+1694,FAC1986,Laboratory
+1695,FAC1493,General Outpatient
+1696,FAC0821,Pediatrics
+1697,FAC0821,Pharmacy
+1698,FAC1867,General Outpatient
+1699,FAC1867,Pharmacy
+1700,FAC1024,General Outpatient
+1701,FAC1885,Maternity
+1702,FAC1885,Antenatal Care
+1703,FAC1885,Pharmacy
+1704,FAC0665,Pharmacy
+1705,FAC0665,Maternity
+1706,FAC0143,Pediatrics
+1707,FAC0143,Laboratory
+1708,FAC1550,Laboratory
+1709,FAC2044,Pharmacy
+1710,FAC0865,Maternity
+1711,FAC0865,Immunization
+1712,FAC0865,General Outpatient
+1713,FAC0422,Antenatal Care
+1714,FAC0637,General Outpatient
+1715,FAC1437,Laboratory
+1716,FAC1437,Antenatal Care
+1717,FAC0800,Pharmacy
+1718,FAC1091,General Outpatient
+1719,FAC1091,Laboratory
+1720,FAC0616,Immunization
+1721,FAC0616,Laboratory
+1722,FAC0295,Pediatrics
+1723,FAC2012,Antenatal Care
+1724,FAC2012,Pharmacy
+1725,FAC0965,Immunization
+1726,FAC0965,Antenatal Care
+1727,FAC0965,Maternity
+1728,FAC1947,Antenatal Care
+1729,FAC1947,Pediatrics
+1730,FAC1947,Maternity
+1731,FAC0089,Pediatrics
+1732,FAC0042,Pharmacy
+1733,FAC1844,Pharmacy
+1734,FAC1844,Pediatrics
+1735,FAC1979,General Outpatient
+1736,FAC0132,Laboratory
+1737,FAC0132,Pediatrics
+1738,FAC1266,Pharmacy
+1739,FAC1266,Maternity
+1740,FAC1266,Laboratory
+1741,FAC0410,Laboratory
+1742,FAC0410,Pharmacy
+1743,FAC0410,Antenatal Care
+1744,FAC1323,Immunization
+1745,FAC1323,Pediatrics
+1746,FAC1898,Antenatal Care
+1747,FAC1818,Maternity
+1748,FAC1532,Antenatal Care
+1749,FAC0165,Maternity
+1750,FAC0165,General Outpatient
+1751,FAC0725,Antenatal Care
+1752,FAC0725,Maternity
+1753,FAC0291,Laboratory
+1754,FAC0291,Pediatrics
+1755,FAC1913,Pediatrics
+1756,FAC1913,Immunization
+1757,FAC1569,General Outpatient
+1758,FAC1569,Pediatrics
+1759,FAC1569,Pharmacy
+1760,FAC1941,General Outpatient
+1761,FAC1044,Antenatal Care
+1762,FAC1390,Maternity
+1763,FAC1390,Antenatal Care
+1764,FAC0779,Pharmacy
+1765,FAC0779,Pediatrics
+1766,FAC0779,General Outpatient
+1767,FAC0840,Pediatrics
+1768,FAC0840,Immunization
+1769,FAC0349,Maternity
+1770,FAC1990,Antenatal Care
+1771,FAC0572,Antenatal Care
+1772,FAC0918,Pediatrics
+1773,FAC0918,Antenatal Care
+1774,FAC0918,Immunization
+1775,FAC1234,Laboratory
+1776,FAC1234,Immunization
+1777,FAC1931,Laboratory
+1778,FAC1575,Pharmacy
+1779,FAC1625,Laboratory
+1780,FAC1625,General Outpatient
+1781,FAC1625,Immunization
+1782,FAC1345,Immunization
+1783,FAC1345,Pharmacy
+1784,FAC1940,General Outpatient
+1785,FAC1940,Immunization
+1786,FAC0137,General Outpatient
+1787,FAC0459,Immunization
+1788,FAC0459,Maternity
+1789,FAC0459,Laboratory
+1790,FAC0376,Maternity
+1791,FAC0376,Laboratory
+1792,FAC0376,Pediatrics
+1793,FAC1511,Antenatal Care
+1794,FAC1511,General Outpatient
+1795,FAC1511,Maternity
+1796,FAC0334,Antenatal Care
+1797,FAC0334,General Outpatient
+1798,FAC0334,Immunization
+1799,FAC1334,Laboratory
+1800,FAC1334,General Outpatient
+1801,FAC1186,Maternity
+1802,FAC1186,Immunization
+1803,FAC1968,Antenatal Care
+1804,FAC1968,Immunization
+1805,FAC1800,Immunization
+1806,FAC1489,Pharmacy
+1807,FAC1489,Pediatrics
+1808,FAC0817,Antenatal Care
+1809,FAC1938,Laboratory
+1810,FAC1938,General Outpatient
+1811,FAC0606,Immunization
+1812,FAC1993,General Outpatient
+1813,FAC1759,Pediatrics
+1814,FAC1759,Pharmacy
+1815,FAC1042,Immunization
+1816,FAC0911,General Outpatient
+1817,FAC1275,General Outpatient
+1818,FAC1275,Pediatrics
+1819,FAC1975,Maternity
+1820,FAC1975,Laboratory
+1821,FAC1152,Pediatrics
+1822,FAC1152,Antenatal Care
+1823,FAC0329,Laboratory
+1824,FAC0329,Antenatal Care
+1825,FAC1059,General Outpatient
+1826,FAC1059,Pharmacy
+1827,FAC0319,Maternity
+1828,FAC0319,Pharmacy
+1829,FAC0319,Pediatrics
+1830,FAC1563,Maternity
+1831,FAC1387,Antenatal Care
+1832,FAC1387,Immunization
+1833,FAC1387,Maternity
+1834,FAC1772,Laboratory
+1835,FAC0168,Laboratory
+1836,FAC0013,Pediatrics
+1837,FAC1972,Pharmacy
+1838,FAC1972,Laboratory
+1839,FAC0172,Antenatal Care
+1840,FAC0172,Immunization
+1841,FAC0172,Laboratory
+1842,FAC0650,Maternity
+1843,FAC1086,Pediatrics
+1844,FAC1086,Maternity
+1845,FAC0261,Maternity
+1846,FAC0261,Pharmacy
+1847,FAC1240,General Outpatient
+1848,FAC1757,Immunization
+1849,FAC1757,General Outpatient
+1850,FAC0902,Maternity
+1851,FAC0673,General Outpatient
+1852,FAC0259,General Outpatient
+1853,FAC0259,Antenatal Care
+1854,FAC0259,Immunization
+1855,FAC1539,Maternity
+1856,FAC0845,Antenatal Care
+1857,FAC0868,Maternity
+1858,FAC0868,Immunization
+1859,FAC1221,Laboratory
+1860,FAC0139,Maternity
+1861,FAC0894,Pediatrics
+1862,FAC0894,Maternity
+1863,FAC0894,Immunization
+1864,FAC1880,Immunization
+1865,FAC1880,Laboratory
+1866,FAC0550,Maternity
+1867,FAC0550,Pediatrics
+1868,FAC0320,Pharmacy
+1869,FAC1560,Maternity
+1870,FAC1560,Antenatal Care
+1871,FAC1560,Pediatrics
+1872,FAC1263,General Outpatient
+1873,FAC1263,Immunization
+1874,FAC1456,Pharmacy
+1875,FAC1456,Maternity
+1876,FAC1456,Antenatal Care
+1877,FAC0559,Antenatal Care
+1878,FAC0559,General Outpatient
+1879,FAC0559,Pediatrics
+1880,FAC0140,Laboratory
+1881,FAC0140,Immunization
+1882,FAC1774,Pharmacy
+1883,FAC1774,Antenatal Care
