@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.6 Chrome/144.0.7559.236 Electron/40.8.4 Safari/537.36" version="29.6.6">
+  <diagram id="arch" name="Conceptual Architecture">
+    <mxGraphModel dx="1493" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="700" pageHeight="960" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="1. INGESTION&lt;br&gt;GRID3 facilities (real) +&lt;br&gt;simulated clinic visit records" vertex="1">
+          <mxGeometry height="84" width="310" x="176" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="n3a" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2EFDA;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="3a. CLEAN DATA STORE&lt;br&gt;1,170 validated visits" vertex="1">
+          <mxGeometry height="72" width="268" x="-92" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="n3b" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CBAD;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="3b. REJECTED RECORDS LOG&lt;br&gt;830 non-conforming visits" vertex="1">
+          <mxGeometry height="72" width="268" x="432" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="n4a" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E2EFDA;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="4a. FEATURE ENGINEERING&lt;br&gt;(diagnosis, age, visit type)&lt;br&gt;from clean data only" vertex="1">
+          <mxGeometry height="84" width="290" x="6" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="n4b" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F8CBAD;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="4b. FEATURE ENGINEERING&lt;br&gt;clean training portion +&lt;br&gt;rejected records combined" vertex="1">
+          <mxGeometry height="84" width="290" x="346" y="498" as="geometry" />
+        </mxCell>
+        <mxCell id="n5a" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E2EFDA;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="5a. MODEL TRAINING&lt;br&gt;Logistic Regression &amp;amp; Decision Tree&lt;br&gt;(trained on clean data)" vertex="1">
+          <mxGeometry height="84" width="290" x="6" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="n5b" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F8CBAD;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="5b. MODEL TRAINING&lt;br&gt;Logistic Regression &amp;amp; Decision Tree&lt;br&gt;(trained on dirty pool)" vertex="1">
+          <mxGeometry height="84" width="290" x="346" y="654" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9D2E9;strokeColor=#000000;strokeWidth=1.5;fontSize=13;" value="6. EVALUATION&lt;br&gt;Both models tested on the same&lt;br&gt;held-out clean test set;&lt;br&gt;accuracy, weighted F1, macro F1 compared" vertex="1">
+          <mxGeometry height="100" width="370" x="134" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="n1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="fWJ14GadCb14xaheu57G-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="331" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="fWJ14GadCb14xaheu57G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=11;exitX=0;exitY=0.5;entryX=0.5;entryY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="n3a" value="passes contract">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="253.49999999999977" y="256" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="fWJ14GadCb14xaheu57G-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;fontSize=11;exitX=1;exitY=0.5;entryX=0.5;entryY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="n3b" value="fails contract">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="408.5" y="256" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="n3a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="n4a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="n3b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="n4b">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="n4a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="n5a">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="n4b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;" target="n5b">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="n5a" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.25;entryY=0;" target="n6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="n5b" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.5;exitX=0.5;exitY=1;entryX=0.75;entryY=0;" target="n6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fWJ14GadCb14xaheu57G-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;fontColor=#330000;" value="&lt;b&gt;&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;2. CONTRA&lt;/span&gt;&lt;font&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;CT VALIDATION&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;Schema + SLO checks&lt;/span&gt;&lt;br style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;(the &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;proposed improvement)&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="190" width="259" x="180" y="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
